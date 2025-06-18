@@ -1,37 +1,86 @@
 {
-  "Nome (ptBR)": "Matemática Discreta I",
-  "Nome (enUS)": "Discrete Mathematics I",
-  "Código": "BCC101",
-  "Departamento": "Departamento de Computação (DECOM)",
-  "Unidade Acadêmica": "ICEB",
-  "Modalidade": "presencial",
-  "Carga Horária": {
-    "Total": "60 horas",
-    "Extensionista": "00 horas",
-    "Teórica": "04 horas/aula",
-    "Prática": "00 horas/aula"
-  },
-  "Ementa": "Introdução à teoria de conjuntos: definições de conjuntos, operações sobre conjuntos, cardinalidade de conjuntos. Funções: conceitos básicos, composição, funções recursivas. Lógica proposicional e lógica de predicados: sintaxe, semântica e sistema de dedução. Estratégias de prova. Indução e recursão.",
-  "Conteúdo Programático": [
-    "Introdução e Revisão de Teoria de Conjuntos",
-    "Sintaxe e Semântica da Lógica Proposicional",
-    "Sistema de Dedução da Lógica Proposicional",
-    "Álgebra Booleana",
-    "Sintaxe e Semântica da Lógica de Predicados",
-    "Sistema de Dedução - Lógica de Predicados",
-    "Álgebra de Predicados",
-    "Estratégias de prova",
-    "Indução e Recursão",
-    "Provas e correção de provas"
-  ],
-  "Bibliografia Básica": [
-    "VELLEMAN, Daniel J. How to Prove It: A Structured Approach. Cambridge: Cambridge University Press, 2006.",
-    "ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6. ed. São Paulo: McGraw-Hill, 2009.",
-    "O´DONNELL, John; HALL, Cordelia; PAGE, Rex. Discrete Mathematics Using a Computer. Glasgow: Springer-Verlag, 2000."
-  ],
-  "Bibliografia Complementar": [
-    "HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação: Modelagem e Argumentação sobre Sistemas. 2. ed. Rio de Janeiro: LTC, 2008.",
-    "SCHEINERMAN, Edward R. Matemática Discreta: Uma Introdução. São Paulo: Cengage Learning, 2011.",
-    "GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação. 5. ed. Rio de Janeiro: LTC, 2004."
+  "Disciplinas": [
+    {
+      "Nome (ptBR)": "Matemática Discreta I",
+      "Nome (enUS)": "Discrete Mathematics I",
+      "Código": "BCC101",
+      "Departamento": "Departamento de Computação (DECOM)",
+      "Unidade Acadêmica": "ICEB",
+      "Modalidade": "presencial",
+      "Carga Horária": {
+        "Total": "60",
+        "Extensionista": "0",
+        "Teórica": "4",
+        "Prática": "0"
+      },
+      "Ementa": "Introdução à teoria de conjuntos: definições de conjuntos, operações sobre conjuntos, cardinalidade de conjuntos. Funções: conceitos básicos, composição, funções recursivas. Lógica proposicional e lógica de predicados: sintaxe, semântica e sistema de dedução. Estratégias de prova. Indução e recursão.",
+      "Conteúdo Programático": [
+        "Introdução e Revisão de Teoria de Conjuntos",
+        "Sintaxe e Semântica da Lógica Proposicional",
+        "Sistema de Dedução da Lógica Proposicional",
+        "Álgebra Booleana",
+        "Sintaxe e Semântica da Lógica de Predicados",
+        "Sistema de Dedução - Lógica de Predicados",
+        "Álgebra de Predicados",
+        "Estratégias de prova",
+        "Indução e Recursão",
+        "Provas e correção de provas"
+      ],
+      "Bibliografia Básica": [
+        "VELLEMAN, Daniel J. How to Prove It: A Structured Approach. Cambridge: Cambridge University Press, 2006.",
+        "ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6. ed. São Paulo: McGraw-Hill, 2009.",
+        "O´DONNELL, John; HALL, Cordelia; PAGE, Rex. Discrete Mathematics Using a Computer. Glasgow: Springer-Verlag, 2000."
+      ],
+      "Bibliografia Complementar": [
+        "HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação: Modelagem e Argumentação sobre Sistemas. 2. ed. Rio de Janeiro: LTC, 2008.",
+        "SCHEINERMAN, Edward R. Matemática Discreta: Uma Introdução. São Paulo: Cengage Learning, 2011.",
+        "GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação. 5. ed. Rio de Janeiro: LTC, 2004."
+      ]
+    },
+    {
+      "Nome (ptBR)": "Introdução à Programação",
+      "Nome (enUS)": "Introduction to Programming",
+      "Código": "BCC201",
+      "Departamento": "Departamento de Computação - DECOM",
+      "Unidade Acadêmica": "ICEB",
+      "Modalidade": "presencial",
+      "Carga Horária": {
+        "Total": "90",
+        "Extensionista": "0",
+        "Teórica": "4",
+        "Prática": "2"
+      },
+      "Ementa": "Introdução à lógica de programação; conceitos básicos sobre algoritmos, utilização e formas de representação (fluxograma e portugol); tipos de dados; variáveis e constantes; expressões e operadores relacionais, aritméticos e lógicos; estruturas condicionais e de repetição; sub-programação: modularização de programas (funções e procedimentos); estruturas de dados homogêneas (vetores e matrizes) e heterogêneas (estruturas/registro); manipulação de cadeias de caracteres; ponteiros; alocação dinâmica de memória; processamento de arquivos.",
+      "Conteúdo Programático": [
+        "Representação de dados",
+        "Conceitos e Representação de algoritmos",
+        "Fluxograma e portugol",
+        "Conceitos básicos de programação, valores, tipos e expressões",
+        "Variáveis, comandos de atribuição e de entrada e saída",
+        "Comandos de controle de fluxo",
+        "Comando de decisão (if)",
+        "Comandos de decisão múltipla, de salto (switch, break)",
+        "Comando de repetição (while, do-while, for)",
+        "Sub-programação: Funções; procedimentos e parâmetros",
+        "Estruturas de dados homogêneas (vetores)",
+        "Cadeia de caracteres (strings)",
+        "Estruturas de dados homogêneas (Matrizes)",
+        "Estrutura heterogêneas",
+        "Apontadores e memória dinâmica (Ponteiros)",
+        "Arquivos"
+      ],
+      "Bibliografia Básica": [
+        "DEITEL, P.; DEITEL, H. M. C: como programar. 6. ed. São Paulo: Pearson Education, 2011.",
+        "DEITEL, H. M.; DEITEL, P. J. C++: como programar. 5. ed. São Paulo: Pearson Prentice Hall, 2006.",
+        "SOUZA, M. A. F. de. Algoritmos e lógica de programação. São Paulo: Cengage Learning, 2005."
+      ],
+      "Bibliografia Complementar": [
+        "ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da programação de computadores: algoritmos, pascal e c/c++. 2. ed. São Paulo: Prentice-Hall, 2007.",
+        "GUEDES, S. Lógica de Programação Algorítmica. São Paulo: Pearson Education do Brasil, 2014.",
+        "MIZRAHI, V. V. Treinamento em linguagem C. 2. ed. São Paulo: Pearson Education, 2010.",
+        "MIZRAHI, V. V. Treinamento em linguagem C++: módulo 2. São Paulo: Pearson Education, 2006.",
+        "SAVITCH, W. J. C++ absoluto. São Paulo: Pearson Education: Addison Wesley, 2004."
+      ]
+    }
   ]
 }
