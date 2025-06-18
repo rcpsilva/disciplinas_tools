@@ -5,7 +5,7 @@
 Gera um arquivo .tex contendo TODOS os Programas de Disciplina listados
 no JSON (campo "Disciplinas").  Mantém o layout oficial PROGRAD / UFOP.
 """
-# bash python json2tex2.py test.json ./LaTeXSource/ufop_prog.tex
+# bash python json2tex2.py disciplinas_bia.json ./LaTeXSource/ufop_prog.tex
 import json, sys
 from pathlib import Path
 from textwrap import dedent
