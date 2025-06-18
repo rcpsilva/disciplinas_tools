@@ -1,0 +1,37 @@
+{
+  "Nome (ptBR)": "Matemática Discreta I",
+  "Nome (enUS)": "Discrete Mathematics I",
+  "Código": "BCC101",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60 horas",
+    "Extensionista": "00 horas",
+    "Teórica": "04 horas/aula",
+    "Prática": "00 horas/aula"
+  },
+  "Ementa": "Introdução à teoria de conjuntos: definições de conjuntos, operações sobre conjuntos, cardinalidade de conjuntos. Funções: conceitos básicos, composição, funções recursivas. Lógica proposicional e lógica de predicados: sintaxe, semântica e sistema de dedução. Estratégias de prova. Indução e recursão.",
+  "Conteúdo Programático": [
+    "Introdução e Revisão de Teoria de Conjuntos",
+    "Sintaxe e Semântica da Lógica Proposicional",
+    "Sistema de Dedução da Lógica Proposicional",
+    "Álgebra Booleana",
+    "Sintaxe e Semântica da Lógica de Predicados",
+    "Sistema de Dedução - Lógica de Predicados",
+    "Álgebra de Predicados",
+    "Estratégias de prova",
+    "Indução e Recursão",
+    "Provas e correção de provas"
+  ],
+  "Bibliografia Básica": [
+    "VELLEMAN, Daniel J. How to Prove It: A Structured Approach. Cambridge: Cambridge University Press, 2006.",
+    "ROSEN, Kenneth H. Matemática Discreta e suas Aplicações. 6. ed. São Paulo: McGraw-Hill, 2009.",
+    "O´DONNELL, John; HALL, Cordelia; PAGE, Rex. Discrete Mathematics Using a Computer. Glasgow: Springer-Verlag, 2000."
+  ],
+  "Bibliografia Complementar": [
+    "HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação: Modelagem e Argumentação sobre Sistemas. 2. ed. Rio de Janeiro: LTC, 2008.",
+    "SCHEINERMAN, Edward R. Matemática Discreta: Uma Introdução. São Paulo: Cengage Learning, 2011.",
+    "GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação. 5. ed. Rio de Janeiro: LTC, 2004."
+  ]
+}
