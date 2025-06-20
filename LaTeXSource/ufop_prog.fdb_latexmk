@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1750291003.74886 "c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/LaTeXSource/ufop_prog.tex" "ufop_prog.pdf" "ufop_prog" 1750291005.73881 0
+["pdflatex"] 1750427185.38855 "c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/LaTeXSource/ufop_prog.tex" "ufop_prog.pdf" "ufop_prog" 1750427188.07284 0
   "brasao.png" 1750277448 277052 2403d1ace55e094b547fc0df73cacbc3 ""
-  "c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/LaTeXSource/ufop_prog.tex" 1750291002 31189 ebe836ed98102c67df944e2d07ed111b ""
+  "c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/LaTeXSource/ufop_prog.tex" 1750427183 31127 33f7b73b2392c4e46db625ea7c229070 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1730312644 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1730312644 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1730314164 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -19,8 +19,6 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1730312631 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1730312631 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1730312631 1120 8b7d695260f3cff42e636090a8002094 ""
-  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1730278933 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
-  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1730278933 35752 024fb6c41858982481f6968b5fc26508 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb" 1730312644 154600 32e699453da826d3cdd1305e7e476670 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1730312644 135942 aecb5af344df420d6ec421db27dedf62 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb" 1730312644 145929 5c9aebea9ba6e33fc93158c04a3bdcd8 ""
@@ -56,8 +54,8 @@
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1730320026 3325936 6e896a909b476ed009efbfbadbcd5207 ""
   "c:/texlive/2024/texmf.cnf" 1730319826 713 e69b156964470283e0530f5060668171 ""
   "ufop.png" 1750277409 143864 8e2fdf94e0ed712cbacb9996aed3bdda ""
-  "ufop_prog.aux" 1750291005 1150 a2d5ff4c62047858342d8a7de391de95 "pdflatex"
-  "ufop_prog.tex" 1750291002 31189 ebe836ed98102c67df944e2d07ed111b ""
+  "ufop_prog.aux" 1750427187 1150 a2d5ff4c62047858342d8a7de391de95 "pdflatex"
+  "ufop_prog.tex" 1750427183 31127 33f7b73b2392c4e46db625ea7c229070 ""
   (generated)
   "ufop_prog.aux"
   "ufop_prog.log"
