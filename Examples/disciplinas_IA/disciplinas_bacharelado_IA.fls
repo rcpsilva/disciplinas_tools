@@ -1,8 +1,8 @@
-PWD c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/Examples/disciplinas_bia
+PWD c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/Examples/disciplinas_IA
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/Examples/disciplinas_bia/disciplinas_bacharelado_IA.tex
+INPUT c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/Examples/disciplinas_IA/disciplinas_bacharelado_IA.tex
 OUTPUT disciplinas_bacharelado_IA.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -11,6 +11,8 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/base/size11.clo
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/size11.clo
 INPUT c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty

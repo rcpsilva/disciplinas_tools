@@ -15,6 +15,7 @@ from textwrap import dedent
 # ------------------------------------------------------------------ #
 PREAMBLE = dedent(r"""
 \documentclass[11pt]{article}
+\usepackage{ifthen}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[brazil]{babel}
@@ -82,7 +83,7 @@ DISCIPLINA = dedent(r"""
 \multicolumn{4}{|p{16cm}|}{Conteúdo programático:}\\
 \multicolumn{4}{|p{16cm}|}{%
 \begin{enumerate}{{CONTEUDO}}\end{enumerate}}\\
-\multicolumn{4}{|p{16cm}|}{}\\
+{{PERFIL_OBJ_BLOCK}}
 \hline
 \multicolumn{4}{|p{16cm}|}{Bibliografia Básica:}\\
 \multicolumn{4}{|p{16cm}|}{%
@@ -110,6 +111,10 @@ def lista_para_itens(seq, cmd="item"):
     """Converte lista Python em \item A \item B ..."""
     return "\n".join(f"\\{cmd} {x}" for x in seq)
 
+def mc4(text):
+    """Uma linha de \multicolumn que ocupa 4 colunas com p{16cm}."""
+    return r"\multicolumn{4}{|p{16cm}|}{" + text + r"}\\"
+
 
 def render_disciplina(d):
     """Substitui placeholders no bloco DISCIPLINA por valores da disciplina d."""
@@ -118,6 +123,24 @@ def render_disciplina(d):
 
     ch = d.get("Carga Horária", {})
     def ch_get(k): return ch.get(k, "")
+
+    # Campos opcionais
+    perfil = d.get("Perfil", "")
+    perfil = perfil.strip() if isinstance(perfil, str) else ""
+
+    objx = (d.get("Objetivo Extencionista") or d.get("Objetivo Extensionista") or "")
+    objx = objx.strip() if isinstance(objx, str) else ""
+
+    # Monta bloco apenas se houver conteúdo
+    perfil_obj_lines = []
+    if perfil or objx:
+        perfil_obj_lines.append(mc4(""))
+        if perfil:
+            perfil_obj_lines.append(mc4(f"Perfil da Comunidade: {perfil}"))
+        if objx:
+            perfil_obj_lines.append(mc4(f"Objetivos Extensionistas: {objx}"))
+        perfil_obj_lines.append(mc4(""))
+    perfil_obj_block = "\n".join(perfil_obj_lines)
 
     mapa = {
         "NOME_PTBR": d["Nome (ptBR)"],
@@ -135,6 +158,7 @@ def render_disciplina(d):
         "CONTEUDO": lista_para_itens(d["Conteúdo Programático"]),
         "BIB_BASICA": lista_para_itens(d["Bibliografia Básica"]),
         "BIB_COMP":   lista_para_itens(d["Bibliografia Complementar"]),
+        "PERFIL_OBJ_BLOCK": perfil_obj_block if perfil_obj_lines else "\multicolumn{4}{|p{16cm}|}{}\\\\",
     }
 
     bloco = DISCIPLINA

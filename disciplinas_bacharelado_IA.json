@@ -761,6 +761,8 @@
       "Trabalho em equipe e comunicação interdisciplinar.",
       "Ética, responsabilidade social e sustentabilidade em projetos tecnológicos."
     ],
+    "Perfil": "Perfil da Comunidade: A disciplina BIA101 tem como público-alvo comunidades locais que enfrentam desafios tecnológicos, promovendo uma troca de saberes entre a universidade e a sociedade. A atuação extensionista dos discentes será voltada para grupos que possam se beneficiar do uso da inteligência artificial, incluindo escolas, organizações não-governamentais (ONGs), associações comunitárias e negócios locais. O foco da disciplina é permitir que os alunos utilizem seus conhecimentos para desenvolver soluções computacionais acessíveis, realizar capacitações e implementar ações concretas para ampliar o impacto social da inteligência artificial. Essa interação direta possibilita que os discentes compreendam as demandas e limitações contextuais da sociedade, tornando-se agentes ativos na construção de uma tecnologia mais inclusiva e alinhada às necessidades reais da população.",
+    "Objetivo Extencionista": "Objetivos Extensionistas: (i) Promover a inclusão digital e a democratização do acesso à inteligência artificial, desenvolvendo ações que auxiliem comunidades a superar barreiras tecnológicas e sociais. (ii) Capacitar os discentes para atuar como mediadores entre a universidade e a sociedade, aplicando conhecimentos computacionais para solucionar desafios reais enfrentados por escolas, ONGs, pequenos empreendedores e outras instituições comunitárias. (iii) Estimular a interação dialógica, garantindo que a construção das soluções tecnológicas ocorra de forma colaborativa, respeitando as demandas e o contexto da comunidade atendida. (iv) Incentivar a produção e a disseminação de conhecimento científico e tecnológico, promovendo a criação de materiais educativos, oficinas e treinamentos sobre inteligência artificial e tecnologia acessível. (v) Avaliar o impacto social das ações desenvolvidas, garantindo que as soluções aplicadas gerem benefícios concretos e sustentáveis para a comunidade, ao mesmo tempo em que proporcionam uma experiência de aprendizagem significativa para os estudantes.",
     "Bibliografia Básica": [
       "SILVA, Maria Aparecida; LIMA, José Carlos. Metodologias de Pesquisa e Extensão. 1. ed. EDUFBA, 2019.",
       "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. Campinas: Papirus, 2013.",
@@ -789,7 +791,8 @@
     },
     "Ementa": "Continuação do desenvolvimento de projetos extensionistas focados na solução de problemas reais, com aprofundamento técnico e interdisciplinar. Ênfase em prototipagem avançada, validação e avaliação de impacto social e tecnológico.",
     "Conteúdo Programático": [
-      "Revisão e aprimoramento dos projetos iniciados em Projeto 1.",
+      "Identificação e definição de problemas reais em diferentes contextos sociais e econômicos.",
+      "Levantamento e análise das necessidades dos stakeholders.",
       "Técnicas avançadas para desenvolvimento e otimização de soluções.",
       "Validação e testes com usuários e stakeholders.",
       "Metodologias para avaliação de impacto social e técnico.",
@@ -800,6 +803,8 @@
       "Trabalho colaborativo interdisciplinar e com a comunidade.",
       "Preparação para continuidade e escalabilidade dos projetos."
     ],
+    "Perfil": "Perfil da Comunidade: A disciplina BIA101 tem como público-alvo comunidades locais que enfrentam desafios tecnológicos, promovendo uma troca de saberes entre a universidade e a sociedade. A atuação extensionista dos discentes será voltada para grupos que possam se beneficiar do uso da inteligência artificial, incluindo escolas, organizações não-governamentais (ONGs), associações comunitárias e negócios locais. O foco da disciplina é permitir que os alunos utilizem seus conhecimentos para desenvolver soluções computacionais acessíveis, realizar capacitações e implementar ações concretas para ampliar o impacto social da inteligência artificial. Essa interação direta possibilita que os discentes compreendam as demandas e limitações contextuais da sociedade, tornando-se agentes ativos na construção de uma tecnologia mais inclusiva e alinhada às necessidades reais da população.",
+    "Objetivo Extencionista": "Objetivos Extensionistas: (i) Promover a inclusão digital e a democratização do acesso à inteligência artificial, desenvolvendo ações que auxiliem comunidades a superar barreiras tecnológicas e sociais. (ii) Capacitar os discentes para atuar como mediadores entre a universidade e a sociedade, aplicando conhecimentos computacionais para solucionar desafios reais enfrentados por escolas, ONGs, pequenos empreendedores e outras instituições comunitárias. (iii) Estimular a interação dialógica, garantindo que a construção das soluções tecnológicas ocorra de forma colaborativa, respeitando as demandas e o contexto da comunidade atendida. (iv) Incentivar a produção e a disseminação de conhecimento científico e tecnológico, promovendo a criação de materiais educativos, oficinas e treinamentos sobre inteligência artificial e tecnologia acessível. (v) Avaliar o impacto social das ações desenvolvidas, garantindo que as soluções aplicadas gerem benefícios concretos e sustentáveis para a comunidade, ao mesmo tempo em que proporcionam uma experiência de aprendizagem significativa para os estudantes.",
     "Bibliografia Básica": [
       "SILVA, Maria Aparecida; LIMA, José Carlos. Metodologias de Pesquisa e Extensão. 1. ed. EDUFBA, 2019.",
       "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. Campinas: Papirus, 2013.",
@@ -828,17 +833,18 @@
     },
     "Ementa": "Conclusão dos projetos extensionistas iniciados nas disciplinas anteriores, com foco na entrega final, avaliação de resultados, documentação completa e disseminação das soluções desenvolvidas para problemas reais.",
     "Conteúdo Programático": [
-      "Finalização e refinamento das soluções desenvolvidas.",
-      "Validação definitiva com usuários e stakeholders.",
+      "Identificação e definição de problemas reais em diferentes contextos sociais e econômicos.",
+      "Levantamento e análise das necessidades dos stakeholders.",
       "Avaliação do impacto social, econômico e tecnológico.",
       "Documentação técnica, científica e de extensão.",
-      "Preparação e realização de apresentações e defesas dos projetos.",
-      "Divulgação e publicação dos resultados em eventos e mídias acadêmicas e comunitárias.",
       "Planejamento para continuidade, manutenção e escalabilidade das soluções.",
       "Ética e responsabilidade na aplicação dos projetos.",
       "Trabalho colaborativo interdisciplinar e comunitário.",
-      "Reflexão crítica sobre o processo de extensão e inovação social."
+      "Reflexão crítica sobre o processo de extensão e inovação social.",
+      "Trabalho colaborativo interdisciplinar e com a comunidade."
     ],
+    "Perfil": "Perfil da Comunidade: A disciplina BIA101 tem como público-alvo comunidades locais que enfrentam desafios tecnológicos, promovendo uma troca de saberes entre a universidade e a sociedade. A atuação extensionista dos discentes será voltada para grupos que possam se beneficiar do uso da inteligência artificial, incluindo escolas, organizações não-governamentais (ONGs), associações comunitárias e negócios locais. O foco da disciplina é permitir que os alunos utilizem seus conhecimentos para desenvolver soluções computacionais acessíveis, realizar capacitações e implementar ações concretas para ampliar o impacto social da inteligência artificial. Essa interação direta possibilita que os discentes compreendam as demandas e limitações contextuais da sociedade, tornando-se agentes ativos na construção de uma tecnologia mais inclusiva e alinhada às necessidades reais da população.",
+    "Objetivo Extencionista": "Objetivos Extensionistas: (i) Promover a inclusão digital e a democratização do acesso à inteligência artificial, desenvolvendo ações que auxiliem comunidades a superar barreiras tecnológicas e sociais. (ii) Capacitar os discentes para atuar como mediadores entre a universidade e a sociedade, aplicando conhecimentos computacionais para solucionar desafios reais enfrentados por escolas, ONGs, pequenos empreendedores e outras instituições comunitárias. (iii) Estimular a interação dialógica, garantindo que a construção das soluções tecnológicas ocorra de forma colaborativa, respeitando as demandas e o contexto da comunidade atendida. (iv) Incentivar a produção e a disseminação de conhecimento científico e tecnológico, promovendo a criação de materiais educativos, oficinas e treinamentos sobre inteligência artificial e tecnologia acessível. (v) Avaliar o impacto social das ações desenvolvidas, garantindo que as soluções aplicadas gerem benefícios concretos e sustentáveis para a comunidade, ao mesmo tempo em que proporcionam uma experiência de aprendizagem significativa para os estudantes.",
     "Bibliografia Básica": [
       "SILVA, Maria Aparecida; LIMA, José Carlos. Metodologias de Pesquisa e Extensão. 1. ed. EDUFBA, 2019.",
       "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. Campinas: Papirus, 2013.",
@@ -867,17 +873,19 @@
     },
     "Ementa": "Desenvolvimento avançado de projetos extensionistas com foco na resolução de problemas reais, incorporando aprimoramentos técnicos, análise crítica dos resultados e estratégias para sustentabilidade e escalabilidade das soluções.",
     "Conteúdo Programático": [
+      "Identificação e definição de problemas reais em diferentes contextos sociais e econômicos.",
+      "Levantamento e análise das necessidades dos stakeholders.",
       "Avaliação e análise crítica dos projetos anteriores.",
       "Incorporação de melhorias técnicas e funcionais nas soluções.",
       "Estudo de viabilidade para escalabilidade e sustentabilidade.",
       "Integração de novas tecnologias e abordagens inovadoras.",
-      "Documentação atualizada e elaboração de relatórios finais.",
-      "Preparação para divulgação acadêmica e comunitária.",
       "Planejamento estratégico para continuidade dos projetos.",
       "Considerações éticas e responsabilidade social.",
       "Trabalho colaborativo multidisciplinar e com a comunidade.",
       "Reflexões sobre o impacto social e tecnológico dos projetos."
     ],
+    "Perfil": "Perfil da Comunidade: A disciplina BIA101 tem como público-alvo comunidades locais que enfrentam desafios tecnológicos, promovendo uma troca de saberes entre a universidade e a sociedade. A atuação extensionista dos discentes será voltada para grupos que possam se beneficiar do uso da inteligência artificial, incluindo escolas, organizações não-governamentais (ONGs), associações comunitárias e negócios locais. O foco da disciplina é permitir que os alunos utilizem seus conhecimentos para desenvolver soluções computacionais acessíveis, realizar capacitações e implementar ações concretas para ampliar o impacto social da inteligência artificial. Essa interação direta possibilita que os discentes compreendam as demandas e limitações contextuais da sociedade, tornando-se agentes ativos na construção de uma tecnologia mais inclusiva e alinhada às necessidades reais da população.",
+    "Objetivo Extencionista": "Objetivos Extensionistas: (i) Promover a inclusão digital e a democratização do acesso à inteligência artificial, desenvolvendo ações que auxiliem comunidades a superar barreiras tecnológicas e sociais. (ii) Capacitar os discentes para atuar como mediadores entre a universidade e a sociedade, aplicando conhecimentos computacionais para solucionar desafios reais enfrentados por escolas, ONGs, pequenos empreendedores e outras instituições comunitárias. (iii) Estimular a interação dialógica, garantindo que a construção das soluções tecnológicas ocorra de forma colaborativa, respeitando as demandas e o contexto da comunidade atendida. (iv) Incentivar a produção e a disseminação de conhecimento científico e tecnológico, promovendo a criação de materiais educativos, oficinas e treinamentos sobre inteligência artificial e tecnologia acessível. (v) Avaliar o impacto social das ações desenvolvidas, garantindo que as soluções aplicadas gerem benefícios concretos e sustentáveis para a comunidade, ao mesmo tempo em que proporcionam uma experiência de aprendizagem significativa para os estudantes.",
     "Bibliografia Básica": [
       "SILVA, Maria Aparecida; LIMA, José Carlos. Metodologias de Pesquisa e Extensão. 1. ed. EDUFBA, 2019.",
       "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. Campinas: Papirus, 2013.",
