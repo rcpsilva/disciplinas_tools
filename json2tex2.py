@@ -77,21 +77,21 @@ DISCIPLINA = dedent(r"""
 \hline
 \multicolumn{4}{|p{16cm}|}{Ementa:}\\
 \multicolumn{4}{|p{16cm}|}{}\\
-\multicolumn{4}{|p{16cm}|}{{{EMENTA}}}\\
+\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{{{EMENTA}}}\\
 \multicolumn{4}{|p{16cm}|}{}\\
 \hline
 \multicolumn{4}{|p{16cm}|}{Conteúdo programático:}\\
-\multicolumn{4}{|p{16cm}|}{%
+\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{%
 \begin{enumerate}{{CONTEUDO}}\end{enumerate}}\\
 {{PERFIL_OBJ_BLOCK}}
 \hline
 \multicolumn{4}{|p{16cm}|}{Bibliografia Básica:}\\
-\multicolumn{4}{|p{16cm}|}{%
+\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{%
 \begin{itemize}{{BIB_BASICA}}\end{itemize}}\\
 \multicolumn{4}{|p{16cm}|}{}\\
 \hline
 \multicolumn{4}{|p{16cm}|}{Bibliografia Complementar:}\\
-\multicolumn{4}{|p{16cm}|}{%
+\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{%
 \begin{itemize}{{BIB_COMP}}\end{itemize}}\\
 \hline
 \end{longtable}
