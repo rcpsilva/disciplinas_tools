@@ -111,10 +111,12 @@ def lista_para_itens(seq, cmd="item"):
     """Converte lista Python em \item A \item B ..."""
     return "\n".join(f"\\{cmd} {x}" for x in seq)
 
-def mc4(text):
-    """Uma linha de \multicolumn que ocupa 4 colunas com p{16cm}."""
-    return r"\multicolumn{4}{|p{16cm}|}{" + text + r"}\\"
+#def mc4(text):
+#    """Uma linha de \multicolumn que ocupa 4 colunas com p{16cm}."""
+#    return r"\multicolumn{4}{|p{16cm}|}{" + text + r"}\\"
 
+def mc4(text):
+    return r"\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{" + text + r"}\\"
 
 def render_disciplina(d):
     """Substitui placeholders no bloco DISCIPLINA por valores da disciplina d."""
