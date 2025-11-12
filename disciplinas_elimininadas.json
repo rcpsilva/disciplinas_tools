@@ -1,0 +1,154 @@
+{
+    "Nome (ptBR)": "Estatística e Probabilidade para Computação",
+    "Nome (enUS)": "Statistics and Probability for Computing",
+    "Código": "BIA006",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": {
+      "Total": "60",
+      "Extensionista": "0",
+      "Teórica": "4",
+      "Prática": "0"
+    },
+    "Ementa": "Conceitos fundamentais de estatística e probabilidade aplicados à computação. Variáveis aleatórias, distribuições de probabilidade, inferência estatística e simulação. Aplicações em ciência de dados, IA e sistemas computacionais.",
+    "Conteúdo Programático": [
+      "Conceitos básicos de estatística descritiva: medidas de tendência central e dispersão.",
+      "Visualização e análise de dados: histogramas, boxplots e gráficos de dispersão.",
+      "Experimentos aleatórios, espaço amostral e eventos.",
+      "Probabilidade: definição clássica, frequentista e axiomática.",
+      "Teorema de Bayes e independência de eventos.",
+      "Variáveis aleatórias discretas e contínuas: funções de probabilidade e densidade.",
+      "Distribuições fundamentais: binomial, geométrica, Poisson, normal, exponencial.",
+      "Valor esperado, variância e momentos.",
+      "Teorema Central do Limite.",
+      "Inferência estatística: estimação pontual e intervalar, testes de hipótese.",
+      "Simulação de variáveis aleatórias e Monte Carlo.",
+      "Aplicações computacionais: modelagem de incerteza, IA probabilística, análise de desempenho de algoritmos."
+    ],
+    "Bibliografia Básica": [
+      "MONTGOMERY, Douglas C.; RUNGER, George C. Estatística aplicada e probabilidade para engenheiros. 6. ed. Rio de Janeiro: LTC, 2019. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "NAVIDI, William. Estatística para engenheiros e cientistas. 4. ed. Porto Alegre: AMGH, 2021. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "LARSON, Ron; FARBER, Betsy. Estatística aplicada. 7. ed. São Paulo: Pearson, 2015. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+    ],
+    "Bibliografia Complementar": [
+      "WASSERMAN, Larry. All of Statistics: A Concise Course in Statistical Inference. New York: Springer, 2004.",
+      "GRIMSTED, Robert; SNELL, J. Laurie. Introduction to Probability. 2. ed. American Mathematical Society, 2019. (Disponível online em formato gratuito).",
+      "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013. (Capítulo sobre raciocínio probabilístico).",
+      "OLIVEIRA, Hélio Coury Valgas de. Introdução à estatística para ciência de dados. 1. ed. São Paulo: LTC, 2022. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "GENTLE, James E. Computational Statistics. New York: Springer, 2009. (Para aprofundamento em aplicações com software)."
+    ]
+  }
+
+  {
+    "Nome (ptBR)": "UI e UX para Inteligência Artificial",
+    "Nome (enUS)": "UI and UX for Artificial Intelligence",
+    "Código": "BIA013",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": {
+      "Total": "60",
+      "Extensionista": "0",
+      "Teórica": "4",
+      "Prática": "0"
+    },
+    "Ementa": "Estudo dos princípios de design de interfaces de usuário (UI) e experiência do usuário (UX) aplicados a sistemas com Inteligência Artificial. Foco em usabilidade, acessibilidade, interação homem-máquina e avaliação de interfaces inteligentes.",
+    "Conteúdo Programático": [
+      "Fundamentos de UI e UX: conceitos, história e importância.",
+      "Princípios de design centrado no usuário (user-centered design).",
+      "Especificidades de UX para sistemas baseados em IA: transparência, confiança e controle do usuário.",
+      "Técnicas de prototipagem e wireframing para interfaces inteligentes.",
+      "Interação humano-IA: design de conversação, chatbots e assistentes virtuais.",
+      "Avaliação de usabilidade: métodos qualitativos e quantitativos.",
+      "Acessibilidade digital e inclusão em sistemas inteligentes.",
+      "Desafios éticos em UI/UX para IA: viés, privacidade e explicabilidade.",
+      "Ferramentas e frameworks para desenvolvimento de UI/UX em IA.",
+      "Estudos de caso: aplicações reais em IA e interfaces inteligentes."
+    ],
+    "Bibliografia Básica": [
+      "NORMAN, Donald A. The Design of Everyday Things. 2. ed. Basic Books, 2013.",
+      "COOPER, Alan; REIMANN, Robert; CRONIN, David. About Face: The Essentials of Interaction Design. 4. ed. Wiley, 2014.",
+      "SHNEIDERMAN, Ben; PIATKO, Catherine; COHEN, Jenifer. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 6. ed. Pearson, 2016."
+    ],
+    "Bibliografia Complementar": [
+      "MORRIS, Jenny. Designing for AI: Creating User Interfaces for Artificial Intelligence Systems. O'Reilly Media, 2021.",
+      "FOGEL, Karen; ESER, Daniel. UX Design for Artificial Intelligence Systems. 1. ed. Springer, 2020.",
+      "KLEIN, Julie; HACKER, Sue. Designing Bots: Creating Conversational Experiences. O'Reilly Media, 2017.",
+      "GREEN, Ben. The Ethical Challenges of AI in UX Design. MIT Press, 2022.",
+      "SAWYER, Steve. UX Strategy: How to Devise Innovative Digital Products that People Want. 2. ed. O'Reilly Media, 2015."
+    ]
+  }
+
+  {
+    "Nome (ptBR)": "Processamento de Áudio",
+    "Nome (enUS)": "Audio Processing",
+    "Código": "BIA017",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": {
+      "Total": "60",
+      "Extensionista": "0",
+      "Teórica": "4",
+      "Prática": "0"
+    },
+    "Ementa": "Introdução aos conceitos e técnicas fundamentais para o processamento digital de sinais de áudio. Análise, transformação, filtragem e síntese de áudio aplicados em sistemas de reconhecimento, síntese sonora e IA.",
+    "Conteúdo Programático": [
+      "Modelos acústicos tradicionais, misturas de gaussianas e cadeias ocultas de markov.",
+      "Representações de sinais para áudio e voz.",
+      "Arquiteturas de redes neurais para reconhecimento de fala.",
+      "Modelos de encoder, vocoder e arquiteturas para sintetização de voz.",
+      "Arquiteturas para aplicações em música"
+    ],
+    "Bibliografia Básica": [
+      "KAMATH, U. L.; WHITAKER, J. Deep learning for NLP and speech recognition. Springer Nature, 2019.",
+      "DONG, Y.; DENG, Y. Automatic speech recognition. Springer London Limited, 2016.",
+      "GOPI, E. S. Digital speech processing using Matlab. New Delhi: Springer, 2014. xvi, 182 p. ISBN 9788132216766."
+    ],
+    "Bibliografia Complementar": [
+      "CAMASTRA, F.; VINCIARELLI, A. Machine learning for audio, image and video analysis: theory and applications. Springer, 2015.",
+      "STEVENS, E.; Antiga, L. Deep Learning with Pytorch. Manning Publications, 2020.",
+      "GALEONE, P. Hands-On Neural Networks with TensorFlow 2.0: Understand TensorFlow, from static graph to eager execution, and design neural networks. Packt Publishing, 2019."
+    ]
+  }
+
+  {
+    "Nome (ptBR)": "Robótica",
+    "Nome (enUS)": "Robotics",
+    "Código": "BIA019",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": {
+      "Total": "60",
+      "Extensionista": "0",
+      "Teórica": "4",
+      "Prática": "0"
+    },
+    "Ementa": "Introdução aos conceitos fundamentais de robótica, incluindo cinemática, sensores, atuadores, controle, planejamento de movimento e inteligência artificial aplicada a sistemas robóticos autônomos.",
+    "Conteúdo Programático": [
+      "Histórico e aplicações da robótica.",
+      "Cinemática direta e inversa de manipuladores robóticos.",
+      "Modelagem dinâmica de robôs.",
+      "Sensores e atuadores em robótica.",
+      "Controle de movimento e sistemas embarcados.",
+      "Planejamento de trajetórias e navegação autônoma.",
+      "Percepção e fusão de dados sensoriais.",
+      "Robótica móvel e manipuladores colaborativos.",
+      "Introdução à inteligência artificial em robótica: aprendizado, planejamento e decisão.",
+      "Estudos de caso e aplicações práticas em indústria, saúde e automação."
+    ],
+    "Bibliografia Básica": [
+      "CRAIG, John J. Introduction to Robotics: Mechanics and Control. 4. ed. Pearson, 2013.",
+      "SICILIANO, Bruno; KORTEN, Oussama; KALTON, Lorenzo. Robotics: Modelling, Planning and Control. Springer, 2016.",
+      "KHALIL, Hassan K. Nonlinear Systems. 3. ed. Prentice Hall, 2002."
+    ],
+    "Bibliografia Complementar": [
+      "SPIELBERGER, Uwe; SCHLEGEL, Christian. Robótica: fundamentos e aplicações. LTC, 2018.",
+      "THRUN, Sebastian; BURGARD, Wolfram; FOX, Dieter. Probabilistic Robotics. MIT Press, 2005.",
+      "MURRAY, Richard M.; LI, Zexiang; SASTRY, S. Shankar. A Mathematical Introduction to Robotic Manipulation. CRC Press, 1994.",
+      "FOX, Dieter; HENRY, Gregory. Introduction to Autonomous Robots. MIT Press, 2020.",
+      "SIEGEL, Scott. Artificial Intelligence for Robotics: Build Intelligent Robots that Perform Human Tasks. Packt, 2016."
+    ]
+  },
