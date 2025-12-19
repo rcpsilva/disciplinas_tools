@@ -764,7 +764,90 @@
     "FERNANDEZ, Brena Paula Magno. Métodos e técnicas de pesquisa. 7. ed. Editora Saraiva, 2012.",
     "CERVO, Amado L.; BERVIAN, Pedro A.; SILVA, Roberto da. Metodologia Científica. 6. ed. São Paulo: Pearson, 2006."
   ]
+},{
+  "Nome (ptBR)": "Segurança, Ética e Riscos em Inteligência Artificial",
+  "Nome (enUS)": "AI Ethics, Safety and Risk",
+  "Código": "BCC8XX",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos riscos associados a sistemas de Inteligência Artificial e dos fundamentos técnicos que sustentam tais riscos. Análise de riscos catastróficos, uso malicioso e dinâmicas competitivas no desenvolvimento de IA. Fundamentos de Inteligência Artificial relevantes para segurança, incluindo aprendizado de máquina, deep learning, leis de escala e velocidade de desenvolvimento. Segurança de agentes individuais, abordando monitoramento, robustez, alinhamento e capacidades emergentes. Engenharia de segurança aplicada a sistemas de IA, incluindo confiabilidade, decomposição de riscos, falhas de componentes, fatores sistêmicos e eventos extremos. Análise da IA como sistema complexo e sociotécnico.",
+  "Conteúdo Programático": [
+    "Visão geral dos riscos em Inteligência Artificial.",
+    "Riscos catastróficos, ética, uso malicioso, corrida tecnológica e riscos organizacionais.",
+    "Fundamentos de Inteligência Artificial, Aprendizado de Máquina e Deep Learning.",
+    "Leis de escala, velocidade do desenvolvimento da IA e implicações para segurança.",
+    "Segurança de agentes individuais: monitoramento e controle.",
+    "Robustez, generalização, comportamento fora da distribuição e falhas inesperadas.",
+    "Alinhamento de objetivos, capacidades emergentes e segurança sistêmica.",
+    "Engenharia de segurança aplicada a sistemas de IA.",
+    "Decomposição de riscos, confiabilidade e princípios de projeto seguro.",
+    "Falhas de componentes, fatores organizacionais e acidentes sistêmicos.",
+    "Eventos extremos, riscos de cauda longa e cisnes negros.",
+    "Sistemas complexos e sua relevância para a segurança em IA.",
+    "Interações sistêmicas, efeitos emergentes e riscos sociotécnicos."
+  ],
+  "Bibliografia Básica": [
+    "HENDRYCKS, Dan. Introduction to AI Safety, Ethics and Society. Boca Raton: Taylor \\& Francis, 2024. ISBN 978-1-032-79802-8. Disponível em: <https://www.aisafetybook.com>. Acesso em: 17 dez. 2025.",
+    "RUSSELL, Stuart. Human compatible: artificial intelligence and the problem of control. New York: Viking, 2019.",
+    "AMODEI, Dario et al. Concrete problems in AI safety. arXiv preprint, arXiv:1606.06565, 2016. Disponível em: <https://arxiv.org/abs/1606.06565>. Acesso em: 17 dez. 2025."
+  ],
+  "Bibliografia Complementar": [
+    "BOSTROM, Nick. Superintelligence: paths, dangers, strategies. Oxford: Oxford University Press, 2014.",
+    "PERROW, Charles. Normal accidents: living with high-risk technologies. Princeton: Princeton University Press, 1999.",
+    "LEWIS, David et al. Engineering safe AI systems. Communications of the ACM, New York, v. 65, n. 3, p. 36–38, 2022.",
+    "BRASIL. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021. Disponível em: <https://www.gov.br/mcti>. Acesso em: 17 dez. 2025."
+  ]
+},{
+  "Nome (ptBR)": "Ética, Ação Coletiva e Governança da Inteligência Artificial",
+  "Nome (enUS)": "Ethics, Collective Action, and AI Governance",
+  "Código": "BCC8YY",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos princípios éticos e dos desafios de coordenação associados ao desenvolvimento e uso da Inteligência Artificial. Abordagem da IA benéfica e da ética de máquinas, incluindo justiça, viés, bem-estar, preferências humanas, funções de bem-estar social e incerteza moral. Análise de problemas de ação coletiva relacionados à IA, com uso de conceitos de teoria dos jogos, cooperação, conflito e pressões evolutivas. Estudo da governança da Inteligência Artificial em níveis corporativo, nacional e internacional, incluindo crescimento econômico, distribuição de benefícios e governança da capacidade computacional.",
+  "Conteúdo Programático": [
+    "Introdução à IA benéfica e à ética de máquinas.",
+    "Fundamentos éticos aplicados à Inteligência Artificial.",
+    "Justiça, viés algorítmico e equidade.",
+    "Preferências humanas, bem-estar e felicidade.",
+    "Funções de bem-estar social e tomada de decisão coletiva.",
+    "Incerteza moral e dilemas éticos em sistemas de IA.",
+    "Problemas de ação coletiva no desenvolvimento da IA.",
+    "Teoria dos jogos aplicada à cooperação e ao conflito em IA.",
+    "Corridas tecnológicas, incentivos e pressões evolutivas.",
+    "Governança corporativa de sistemas de Inteligência Artificial.",
+    "Governança nacional e políticas públicas para IA.",
+    "Governança internacional e coordenação global.",
+    "Distribuição de benefícios, crescimento econômico e desigualdade.",
+    "Governança da capacidade computacional e recursos estratégicos."
+  ],
+  "Bibliografia Básica": [
+    "HENDRYCKS, Dan. Introduction to AI Safety, Ethics and Society. Boca Raton: Taylor \\& Francis, 2024. ISBN 978-1-032-79802-8. Disponível em: <https://www.aisafetybook.com>. Acesso em: 17 dez. 2025.",
+    "FLORIDI, Luciano. Ethics of artificial intelligence. Oxford: Oxford University Press, 2023.",
+    "O’NEIL, Cathy. Weapons of math destruction: how big data increases inequality and threatens democracy. New York: Crown, 2016."
+  ],
+  "Bibliografia Complementar": [
+    "RAWLS, John. A theory of justice. Cambridge, MA: Harvard University Press, 1971.",
+    "SEN, Amartya. Development as freedom. New York: Knopf, 1999.",
+    "EUROPEAN COMMISSION. Ethics guidelines for trustworthy AI. Brussels: European Commission, 2019. Disponível em: <https://digital-strategy.ec.europa.eu>. Acesso em: 17 dez. 2025.",
+    "BRASIL. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021. Disponível em: <https://www.gov.br/mcti>. Acesso em: 17 dez. 2025.",
+    "ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT. OECD principles on artificial intelligence. Paris: OECD, 2019. Disponível em: <https://www.oecd.org/ai>. Acesso em: 17 dez. 2025."
+  ]
 }
+
 
 
         ]
