@@ -16,30 +16,31 @@
     "Ementa": "O que é Inteligência Artificial; o comportamento do aluno de Inteligência Artificial; áreas de pesquisa do Departamento de Computação; áreas nas quais atuam os profissionais em Inteligência Artificial.",
     "Conteúdo Programático": [
       	"A área de Inteligência Artificial e suas oportunidades atuais.",
-	"Áreas de atuação e mercado de trabalho em Inteligência Artificial.",
-"O curso de Inteligência Artificial: grade curricular, áreas, relações entre as disciplinas.",
-	"Organização política da universidade e institutos/unidades.",
-	"Representação acadêmica: centro acadêmico e movimentos estudantis.",
-"Seminários sobre as áreas de pesquisa e extensão dos professores do DECOM.",
-"Apresentação das atividades dos laboratórios de pesquisa e extensão.",
-"O comportamento do aluno de Inteligência Artificial: organização e conselhos para estudar melhor e ter sucesso no curso.",
-"Seminários de profissionais sobre o mercado de trabalho e carreiras na área de Inteligência Artificial.",
-"Implicações éticas do uso de Inteligência Artificial"
+	      "Áreas de atuação e mercado de trabalho em Inteligência Artificial.",
+        "O curso de Inteligência Artificial: grade curricular, áreas, relações entre as disciplinas.",
+	      "Organização política da universidade e institutos/unidades.",
+	      "Representação acadêmica: centro acadêmico e movimentos estudantis.",
+        "Áreas de pesquisa e extensão.",
+        "Laboratórios de pesquisa e extensão.",
+        "O comportamento do aluno de Inteligência Artificial: organização e conselhos para estudar melhor e ter sucesso no curso.",
+        "Seminários de profissionais sobre o mercado de trabalho e carreiras na área de Inteligência Artificial.",
+        "Implicações éticas, sociais e ambientais do uso de Inteligência Artificial"
     ],
     "Bibliografia Básica": [
-"MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. 1. ed. Campinas: Papirus, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-"MEDEIROS, Luciano Frontino de. Inteligência artificial aplicada: uma abordagem introdutória. Curitiba, PR: Intersaberes, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-"DIAS, Ana Francisca Pinto et al.; GUIMARÃES, João Alexandre Silva Alves; ALVES, Rodrigo Vitorino Souza (org.). Os direitos humanos e a ética na era da inteligência artificial. Indaiatuba, SP: Foco, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+      "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. 1. ed. Campinas: Papirus, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "MEDEIROS, Luciano Frontino de. Inteligência artificial aplicada: uma abordagem introdutória. Curitiba, PR: Intersaberes, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "DIAS, Ana Francisca Pinto et al.; GUIMARÃES, João Alexandre Silva Alves; ALVES, Rodrigo Vitorino Souza (org.). Os direitos humanos e a ética na era da inteligência artificial. Indaiatuba, SP: Foco, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "CRAWFORD, Kate. Atlas da I.A.: poder, política e os custos planetários da inteligência artificial. São Paulo: Edições Sesc São Paulo, 2025. 138 p. ISBN 978-85-9493-328-7."
     ],
     "Bibliografia Complementar": [
-"KRELLING NETO, Antonio Osmar. Responsabilidade civil: cibercrimes. 1. ed. São Paulo: Contentus, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-"TAURION, Cezar. Big data. 1. ed. Rio de Janeiro: Brasport, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-"MUNHOZ, Antonio Siemsen. Responsabilidade e autoridade social das empresas. 1. ed. Curitiba: Intersaberes, 2015. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-"FLORES, Márcio José das; BESS, Alexandre Leal. Inteligência artificial aplicada a negócios. Curitiba, PR: Intersaberes, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-"MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. [S.l.]: Brasport, 2024. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+      "KRELLING NETO, Antonio Osmar. Responsabilidade civil: cibercrimes. 1. ed. São Paulo: Contentus, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "TAURION, Cezar. Big data. 1. ed. Rio de Janeiro: Brasport, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "MUNHOZ, Antonio Siemsen. Responsabilidade e autoridade social das empresas. 1. ed. Curitiba: Intersaberes, 2015. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "FLORES, Márcio José das; BESS, Alexandre Leal. Inteligência artificial aplicada a negócios. Curitiba, PR: Intersaberes, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. [S.l.]: Brasport, 2024. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
     ]
  },{
-  "Nome (ptBR)": "Arquitetura e Organização de Computadores",
+  "Nome (ptBR)": "Fundamentos de Arquitetura e Organização de Computadores",
   "Nome (enUS)": "Computer Architecture and Organization",
   "Código": "BCC802",
   "Departamento": "Departamento de Computação (DECOM)",
@@ -89,28 +90,28 @@
     "Teórica": "4",
     "Prática": "0"
   },
-  "Ementa": "Estudo das abordagens simbólicas da Inteligência Artificial. Técnicas de busca, raciocínio lógico, planejamento, representação de conhecimento e sistemas especialistas. Aplicações e limitações da IA clássica.",
+  "Ementa": "Estudo dos fundamentos da Inteligência Artificial baseada em agentes. Resolução de problemas por busca, satisfação de restrições, raciocínio lógico e probabilístico, planejamento determinístico e sob incerteza. Representação de conhecimento, inferência e tomada de decisão. Introdução a sistemas multiagentes e discussão de aplicações, limitações e impactos sociais da Inteligência Artificial.",
   "Conteúdo Programático": [
-    "Conceitos e motivações da IA clássica: simbolismo e raciocínio deliberativo.",
-    "Modelagem de agentes racionais baseados em símbolos.",
-    "Espaços de estados e resolução de problemas com busca.",
-    "Busca não informada: em largura, em profundidade, custo uniforme.",
-    "Busca informada: A*, busca gulosa e heurísticas.",
-    "Representação de conhecimento: lógica proposicional e lógica de predicados de primeira ordem.",
-    "Inferência lógica: resolução, unificação e encadeamento (forward/backward chaining).",
-    "Planejamento clássico: STRIPS, espaço de planos e busca em espaço de estados.",
-    "Sistemas especialistas: arquitetura, motor de inferência, base de regras.",
-    "Aplicações clássicas: jogos, robótica simbólica, agentes baseados em conhecimento."
+    "Inteligência Artificial e Agentes.",
+    "Resolução de Problemas por Busca",
+    "Problemas de Satisfação de Restrições",
+    "Proposições e Inferência",
+    "Planejamento Determinístico",
+    "Raciocínio Probabilístico",
+    "Planejamento com Incerteza",
+    "Sistemas Multiagentes",
+    "Impacto Social da Inteligência Artificial"
+
   ],
   "Bibliografia Básica": [
+    "POOLE, David L.; MACKWORTH, Alan K. Artificial Intelligence: Foundations of Computational Agents. 3. ed. Cambridge: Cambridge University Press, 2023. ISBN 978-1-009-25819-7. Disponível em: <https://artint.info/>. Acesso em: 17 dez. 2025.",
     "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "LUGER, George F. Inteligência artificial: estruturas e estratégias para a solução de problemas complexos. 6. ed. Porto Alegre: Bookman, 2004. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
     "BARROS, L. N. de. Introdução à inteligência artificial. 1. ed. Rio de Janeiro: LTC, 2010. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
   ],
   "Bibliografia Complementar": [
     "MEDEIROS, Luciano Frontino de. Inteligência artificial aplicada: uma abordagem introdutória. Curitiba, PR: Intersaberes, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
     "BARR, Avron; FEIGENBAUM, Edward A. The Handbook of Artificial Intelligence. Volume I. Reading, MA: Addison-Wesley, 1981. (clássico da área; disponível em bibliotecas digitais).",
-    "NILSSON, Nils J. Artificial Intelligence: A New Synthesis. San Francisco: Morgan Kaufmann, 1998.",
+    "LUGER, George F. Inteligência artificial: estruturas e estratégias para a solução de problemas complexos. 6. ed. Porto Alegre: Bookman, 2004. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
     "DIAS, Ana Francisca Pinto et al. (org.). Os direitos humanos e a ética na era da inteligência artificial. Indaiatuba, SP: Foco, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
     "LAUFER, C. Sistemas especialistas e representação do conhecimento. 1. ed. São Paulo: Érica, 2009. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
   ]
@@ -139,7 +140,8 @@
     "Divisão de dados: treino, validação e teste; validação cruzada.",
     "Métricas de avaliação: acurácia, precisão, recall, F1, curva ROC e AUC.",
     "Overfitting e underfitting: diagnóstico e controle (bias-variance tradeoff).",
-    "Uso de bibliotecas de software para modelagem supervisionada."
+    "Uso de bibliotecas de software para modelagem supervisionada.",
+    "Impactos Sociais, Viés e Limitações do Aprendizado de Máquina"
   ],
   "Bibliografia Básica": [
     "GERON, Aurélien. Mãos à obra: aprendizado de máquina com Scikit-Learn, Keras e TensorFlow. 2. ed. São Paulo: Novatec, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
@@ -194,7 +196,7 @@
   ]
 },
 {
-  "Nome (ptBR)": "Inteligência de Negócios e Dados",
+  "Nome (ptBR)": "Inteligência de Negócios e Armazenamento de Dados",
   "Nome (enUS)": "Business Intelligence and Data",
   "Código": "BCC806",
   "Departamento": "Departamento de Computação (DECOM)",
@@ -245,30 +247,35 @@
     "Teórica": "4",
     "Prática": "0"
   },
-  "Ementa": "Conceitos e práticas da metodologia científica aplicadas à pesquisa em Inteligência Artificial. Estrutura de projetos científicos e tecnológicos. Ética na pesquisa em IA. Técnicas de leitura, escrita e comunicação científica. Avaliação crítica de artigos e reprodutibilidade científica.",
+  "Ementa": "Estudo dos fundamentos epistemológicos da ciência e de seus métodos, com ênfase na filosofia da ciência. Análise dos elementos da pesquisa científica em ciência da computação, incluindo formulação de problemas, hipóteses e desenho experimental. Abordagem da metodologia científica própria da pesquisa em inteligência artificial, com foco em avaliação empírica, validade, reprodutibilidade, interpretação de resultados experimentais e ética",
   "Conteúdo Programático": [
-    "Fundamentos da ciência e do método científico: indução, dedução, hipótese e experimentação.",
-    "Tipos de pesquisa: básica, aplicada, exploratória, experimental e computacional.",
-    "Elaboração de problemas e hipóteses de pesquisa em IA e Computação.",
-    "Construção e avaliação de modelos e experimentos em IA.",
-    "Estrutura de projetos e relatórios científicos (TCCs, ICs, artigos).",
-    "Normas e padrões de escrita acadêmica (ABNT, IEEE, ACM).",
-    "Busca e avaliação de fontes bibliográficas: bases de dados, periódicos e conferências em IA.",
-    "Leitura crítica de artigos científicos: como interpretar e discutir resultados.",
-    "Reprodutibilidade e transparência na pesquisa em IA.",
-    "Ética em pesquisa científica: plágio, integridade, viés algorítmico e responsabilidade social."
-  ],
+  "Ciência e Demarcação Científica: critérios de cientificidade, distinção entre ciência, pseudociência e tecnologia, e limites do conhecimento científico.",
+  "Observação, Indução e Teoria: papel da observação na ciência, crítica ao indutivismo e influência das teorias na produção do conhecimento científico.",
+  "Progresso Científico e Mudança de Paradigmas: falsificacionismo, paradigmas científicos, programas de pesquisa e pluralismo metodológico.",
+  "Pesquisa em Ciência da Computação e Inteligência Artificial: natureza da pesquisa em computação, distinção entre pesquisa científica, experimental e desenvolvimento tecnológico.",
+  "Busca e avaliação de fontes bibliográficas: bases de dados, periódicos e conferências em IA.",
+  "Formulação de Problemas e Hipóteses: definição de problemas científicos, abstrações, modelos, hipóteses e objetivos de pesquisa.",
+  "Pesquisa Empírica em Inteligência Artificial: características da investigação empírica em IA e aprendizado de máquina, estudos exploratórios e confirmatórios.",
+  "Desenho Experimental e Avaliação em Inteligência Artificial: experimentos controlados, comparação de métodos, métricas e interpretação de resultados.",
+  "Rigor Científico, Validade e Reprodutibilidade em IA: validade interna e externa, vieses experimentais, reprodutibilidade e boas práticas em pesquisa em IA.",
+  "Avaliação Empírica e Inferência em Sistemas de IA: métricas de desempenho, testes estatísticos, comparação de modelos e interpretação científica de evidências.",
+  "Ética em pesquisa científica: plágio, integridade, viés algorítmico e responsabilidade social."
+],
   "Bibliografia Básica": [
-    "GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 7. ed. São Paulo: Atlas, 2019. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 8. ed. São Paulo: Atlas, 2017. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "DIAS, Ana Francisca Pinto et al. (org.). Os direitos humanos e a ética na era da inteligência artificial. Indaiatuba, SP: Foco, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+      "CHALMERS, Alan F. O que é ciência, afinal? São Paulo: Brasiliense, 1993.",
+      "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para ciência da computação. 2. ed. Rio de Janeiro: Elsevier, 2014.",
+      "PINEAU, Joelle et al. Improving reproducibility in machine learning research. Journal of Machine Learning Research, v. 22, n. 164, p. 1–20, 2021.",
+      "RAINIO, O.; TEUHO, J.; KLÉN, R. Evaluation metrics and statistical tests for machine learning. Scientific Reports, London, v. 14, p. 6086, 2024. DOI: 10.1038/s41598-024-56706-x. Disponível em: <https://doi.org/10.1038/s41598-024-56706-x>. Acesso em: dez. 2025."
   ],
   "Bibliografia Complementar": [
+    "NEWELL, Allen; SIMON, Herbert A. Computer science as empirical inquiry: symbols and search. Communications of the ACM, v. 19, n. 3, p. 113–126, 1976.",
+    "COHEN, Paul R. Empirical methods for artificial intelligence. AI Magazine, v. 16, n. 1, p. 63–73, 1995.",
     "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para ciência da computação. 1. ed. Rio de Janeiro: Elsevier, 2009.",
     "KAPLAN, David M. Philosophy of Technology. 2. ed. New York: Routledge, 2017.",
-    "CHALMERS, Alan F. O que é ciência afinal? 4. ed. São Paulo: Brasiliense, 2020.",
     "ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023, NBR 10520 e demais normas para trabalhos acadêmicos. Disponível em: https://www.abnt.org.br. Acesso em: jun/2025.",
-    "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013. (Capítulo sobre perspectivas filosóficas e éticas em IA)."
+    "LIPTON, Zachary C.; STEINHARDT, Jacob. Troubling trends in machine learning scholarship. arXiv preprint, arXiv:1807.03341, 2018.",
+    "OLTEANU, Alexandra; BLODGETT, Su Lin; BALAYN, Agathe; WANG, Angelina; DIAZ, Fernando; CALMON, Flavio du Pin; MITCHELL, Margaret; EKSTRAND, Michael; BINNS, Reuben; BAROCAS, Solon. Rigor in AI: doing rigorous AI work requires a broader, responsible AI-informed conception of rigor. arXiv preprint, arXiv:2506.14652, 2025. Disponível em: <https://arxiv.org/abs/2506.14652>. Acesso em: dez. 2025.",
+    "HERRMANN, Moritz; LANGE, F. Julian D.; EGGENSPERGER, Katharina; CASALICCHIO, Giuseppe; WEVER, Marcel; FEURER, Matthias; RÜGAMER, David; HÜLLERMEIER, Eyke; BOULESTEIX, Anne-Laure; BISCHL, Bernd. Position: why we must rethink empirical research in machine learning. arXiv preprint, arXiv:2405.02200, 2024. Disponível em: <https://arxiv.org/abs/2405.02200>. Acesso em: dez. 2025."
   ]
 },
 {
@@ -426,147 +433,7 @@
     "AGRAWAL, Rakesh; IMIELIŃSKI, Tomasz; SWAMI, Arun. Mining Association Rules between Sets of Items in Large Databases. ACM SIGMOD Record, 1993.",
     "WHITE, Tom. Hadoop: The Definitive Guide. O'Reilly Media, 2012."
   ]
-},{
-    "Nome (ptBR)": "Inteligência Artificial e Sociedade",
-    "Nome (enUS)": "Artificial Intelligence and Society",
-    "Código": "BCC812",
-    "Departamento": "Departamento de Computação (DECOM)",
-    "Unidade Acadêmica": "ICEB",
-    "Modalidade": "presencial",
-    "Carga Horária": {
-      "Total": "60",
-      "Extensionista": "0",
-      "Teórica": "4",
-      "Prática": "0"
-    },
-    "Ementa": "Problematização da realidade local; Desenvolvimento de projetos.",
-    "Conteúdo Programático": [
-      	"Impactos Sociais da IA",
-        "Impacto da IA no emprego, saúde, meio ambiente e educação",
-        "Desafios éticos no uso de IA em países em desenvolvimento",
-        "O papel da IA na perpetuação ou redução de desigualdades"
-    ],
-    "Bibliografia Básica": [
-"LISBOA FILHO, Flavi Ferreira. Extensão universitária: gestão, comunicação e desenvolvimento regional. Santa Maria: FACOS-UFSM, 2022. E-book.",
-"SILVA, Antonio Wadirson C.; FRANCO, Paulo Fernando Campbell (Org.). Curricularização da extensão: compromisso social e inovação. Santos: Editora Universitária Leopoldianum, 2020. 204 p. E-book.",
-"MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. [S.l.]: Brasport, 2024. E-book."
-    ],
-    "Bibliografia Complementar": [
-"Floridi, Luciano. (2023). The Ethics of Artificial Intelligence: Principles, Challenges, and Opportunities. 10.1093/oso/9780198883098.001.0001.",
-"ALENCASTRO, Mario Sergio Cunha.Empresas, ambiente e sociedade: introdução à gestão socioambiental corporativa. 1. ed. Curitiba: InterSaberes, 2012.",
-"MUNHOZ, Antonio S. Responsabilidade e autoridade social das empresas. 1. ed. Curitiba: InterSaberes, 2015."
-    ]
- },
- {
-  "Nome (ptBR)": "Internet das Coisas",
-  "Nome (enUS)": "Internet of Things",
-  "Código": "BCC813",
-  "Departamento": "Departamento de Computação (DECOM)",
-  "Unidade Acadêmica": "ICEB",
-  "Modalidade": "presencial",
-  "Carga Horária": {
-    "Total": "60",
-    "Extensionista": "0",
-    "Teórica": "4",
-    "Prática": "0"
-  },
-  "Ementa": "Introdução aos conceitos, arquiteturas e tecnologias da Internet das Coisas (IoT). Protocolos de comunicação, sensores, atuadores, segurança e aplicações inteligentes em ambientes conectados.",
-  "Conteúdo Programático": [
-    "Fundamentos da Internet das Coisas: definições, evolução e panorama atual.",
-    "Arquitetura IoT: camadas, dispositivos e sistemas embarcados.",
-    "Sensores e atuadores: tipos, funcionamento e integração.",
-    "Protocolos de comunicação IoT.",
-    "Plataformas e ferramentas para desenvolvimento IoT.",
-    "Segurança e privacidade em ambientes IoT.",
-    "Coleta, transmissão e processamento de dados em IoT.",
-    "Integração com inteligência artificial e computação em nuvem.",
-    "Casos de uso: cidades inteligentes, agricultura de precisão, saúde e indústria 4.0.",
-    "Tendências e desafios futuros da Internet das Coisas."
-  ],
-  "Bibliografia Básica": [
-    "WILLETT, Richard; OLIVEIRA, Charalampos. Internet das Coisas: Conceitos, Tecnologias e Aplicações. Novatec, 2022.",
-    "VERGARA, Luiz Antônio. Internet das Coisas. 2. ed. Campus, 2020.",
-    "MINERVA, Roberto et al. Towards a definition of the Internet of Things (IoT). IEEE Internet Initiative, 2015."
-  ],
-  "Bibliografia Complementar": [
-    "GUBBI, Jayavardhana et al. Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions. Future Generation Computer Systems, 2013.",
-    "KURUNDRAN, S.; BHASKAR, P. IoT Protocols and Standards: An Overview. Springer, 2021.",
-    "RAY, Partha Pratim. Internet of Things: Architecture and Applications. Wiley, 2018.",
-    "SINGH, D.; ZHANG, H.; KUMAR, N. Internet of Things: Principles and Paradigms. Wiley, 2018.",
-    "STANKOVIC, John A. Research Directions for the Internet of Things. IEEE Internet of Things Journal, 2014."
-  ]
 },
-{
-  "Nome (ptBR)": "UI e UX para Inteligência Artificial",
-  "Nome (enUS)": "UI and UX for Artificial Intelligence",
-  "Código": "BCC851",
-  "Departamento": "Departamento de Computação (DECOM)",
-  "Unidade Acadêmica": "ICEB",
-  "Modalidade": "presencial",
-  "Carga Horária": {
-    "Total": "60",
-    "Extensionista": "0",
-    "Teórica": "4",
-    "Prática": "0"
-  },
-  "Ementa": "Estudo dos princípios de design de interfaces de usuário (UI) e experiência do usuário (UX) aplicados a sistemas com Inteligência Artificial. Foco em usabilidade, acessibilidade, interação homem-máquina e avaliação de interfaces inteligentes.",
-  "Conteúdo Programático": [
-    "Fundamentos de UI e UX: conceitos, história e importância.",
-    "Princípios de design centrado no usuário (user-centered design).",
-    "Especificidades de UX para sistemas baseados em IA: transparência, confiança e controle do usuário.",
-    "Técnicas de prototipagem e wireframing para interfaces inteligentes.",
-    "Interação humano-IA: design de conversação, chatbots e assistentes virtuais.",
-    "Avaliação de usabilidade: métodos qualitativos e quantitativos.",
-    "Acessibilidade digital e inclusão em sistemas inteligentes.",
-    "Desafios éticos em UI/UX para IA: viés, privacidade e explicabilidade.",
-    "Ferramentas e frameworks para desenvolvimento de UI/UX em IA.",
-    "Estudos de caso: aplicações reais em IA e interfaces inteligentes."
-  ],
-  "Bibliografia Básica": [
-    "NORMAN, Donald A. The Design of Everyday Things. 2. ed. Basic Books, 2013.",
-    "COOPER, Alan; REIMANN, Robert; CRONIN, David. About Face: The Essentials of Interaction Design. 4. ed. Wiley, 2014.",
-    "SHNEIDERMAN, Ben; PIATKO, Catherine; COHEN, Jenifer. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 6. ed. Pearson, 2016."
-  ],
-  "Bibliografia Complementar": [
-    "MORRIS, Jenny. Designing for AI: Creating User Interfaces for Artificial Intelligence Systems. O'Reilly Media, 2021.",
-    "FOGEL, Karen; ESER, Daniel. UX Design for Artificial Intelligence Systems. 1. ed. Springer, 2020.",
-    "KLEIN, Julie; HACKER, Sue. Designing Bots: Creating Conversational Experiences. O'Reilly Media, 2017.",
-    "GREEN, Ben. The Ethical Challenges of AI in UX Design. MIT Press, 2022.",
-    "SAWYER, Steve. UX Strategy: How to Devise Innovative Digital Products that People Want. 2. ed. O'Reilly Media, 2015."
-  ]
-},
-{
-    "Nome (ptBR)": "Processamento de Áudio",
-    "Nome (enUS)": "Audio Processing",
-    "Código": "BCC852",
-    "Departamento": "Departamento de Computação (DECOM)",
-    "Unidade Acadêmica": "ICEB",
-    "Modalidade": "presencial",
-    "Carga Horária": {
-      "Total": "60",
-      "Extensionista": "0",
-      "Teórica": "4",
-      "Prática": "0"
-    },
-    "Ementa": "Introdução aos conceitos e técnicas fundamentais para o processamento digital de sinais de áudio. Análise, transformação, filtragem e síntese de áudio aplicados em sistemas de reconhecimento, síntese sonora e IA.",
-    "Conteúdo Programático": [
-      	"Modelos acústicos tradicionais, misturas de gaussianas e cadeias ocultas de markov.",
-	"Representações de sinais para áudio e voz.",
-    "Arquiteturas de redes neurais para reconhecimento de fala.",
-	"Modelos de encoder, vocoder e arquiteturas para sintetização de voz.",
-	"Arquiteturas para aplicações em música"
-    ],
-    "Bibliografia Básica": [
-"KAMATH, U. L.; WHITAKER, J. Deep learning for NLP and speech recognition. Springer Nature, 2019.",
-"DONG, Y.; DENG, Y. Automatic speech recognition. Springer London Limited, 2016.",
-"GOPI, E. S. Digital speech processing using Matlab. New Delhi: Springer, 2014. xvi, 182 p. ISBN 9788132216766."
-    ],
-    "Bibliografia Complementar": [
-"CAMASTRA, F.; VINCIARELLI, A. Machine learning for audio, image and video analysis: theory and applications. Springer, 2015.",
-"STEVENS, E.; Antiga, L. Deep Learning with Pytorch. Manning Publications, 2020.",
-"GALEONE, P. Hands-On Neural Networks with TensorFlow 2.0: Understand TensorFlow, from static graph to eager execution, and design neural networks. Packt Publishing, 2019."
-    ]
- },
  {
   "Nome (ptBR)": "Projeto 1: Resolução de Problemas do Mundo Real",
   "Nome (enUS)": "Project 1: Real-World Problem Solving",
@@ -743,7 +610,7 @@
     "Teórica": "6",
     "Prática": "0"
   },
-  "Ementa": "Desenvolvimento de projeto memorial dos cinto projetos de resolução de problemas do mundo real. Entrega de relatórios parciais ao longo do semestre. Entrega da monografia ao final do semestre. Apresentação oral dos resultados da monografia.",
+  "Ementa": "Desenvolvimento de projeto memorial dos projetos de resolução de problemas do mundo real. Entrega de relatórios parciais ao longo do semestre. Entrega da monografia ao final do semestre. Apresentação oral dos resultados da monografia.",
   "Conteúdo Programático": [
     "Construção do projeto memorial.",
     "Redação de relatórios das atividades.",
@@ -765,7 +632,7 @@
     "CERVO, Amado L.; BERVIAN, Pedro A.; SILVA, Roberto da. Metodologia Científica. 6. ed. São Paulo: Pearson, 2006."
   ]
 },{
-  "Nome (ptBR)": "Segurança, Ética e Riscos em Inteligência Artificial",
+  "Nome (ptBR)": "Segurança, Ética e Sociedade em Inteligência Artificial",
   "Nome (enUS)": "AI Ethics, Safety and Risk",
   "Código": "BCC8XX",
   "Departamento": "Departamento de Computação (DECOM)",
@@ -779,35 +646,31 @@
   },
   "Ementa": "Estudo dos riscos associados a sistemas de Inteligência Artificial e dos fundamentos técnicos que sustentam tais riscos. Análise de riscos catastróficos, uso malicioso e dinâmicas competitivas no desenvolvimento de IA. Fundamentos de Inteligência Artificial relevantes para segurança, incluindo aprendizado de máquina, deep learning, leis de escala e velocidade de desenvolvimento. Segurança de agentes individuais, abordando monitoramento, robustez, alinhamento e capacidades emergentes. Engenharia de segurança aplicada a sistemas de IA, incluindo confiabilidade, decomposição de riscos, falhas de componentes, fatores sistêmicos e eventos extremos. Análise da IA como sistema complexo e sociotécnico.",
   "Conteúdo Programático": [
-    "Visão geral dos riscos em Inteligência Artificial.",
-    "Riscos catastróficos, ética, uso malicioso, corrida tecnológica e riscos organizacionais.",
-    "Fundamentos de Inteligência Artificial, Aprendizado de Máquina e Deep Learning.",
-    "Leis de escala, velocidade do desenvolvimento da IA e implicações para segurança.",
-    "Segurança de agentes individuais: monitoramento e controle.",
-    "Robustez, generalização, comportamento fora da distribuição e falhas inesperadas.",
-    "Alinhamento de objetivos, capacidades emergentes e segurança sistêmica.",
-    "Engenharia de segurança aplicada a sistemas de IA.",
-    "Decomposição de riscos, confiabilidade e princípios de projeto seguro.",
-    "Falhas de componentes, fatores organizacionais e acidentes sistêmicos.",
-    "Eventos extremos, riscos de cauda longa e cisnes negros.",
-    "Sistemas complexos e sua relevância para a segurança em IA.",
-    "Interações sistêmicas, efeitos emergentes e riscos sociotécnicos."
+    "Visão Geral dos Riscos Catastróficos da Inteligência Artificial: principais riscos existenciais e sistêmicos da IA, incluindo uso malicioso, corrida tecnológica e falhas organizacionais.",
+    "Fundamentos de Inteligência Artificial: conceitos básicos de IA, aprendizado de máquina e aprendizado profundo, com ênfase em leis de escala e ritmo de desenvolvimento.",
+    "Segurança em Sistemas de Agente Único: problemas de alinhamento, robustez, monitoramento e segurança em agentes individuais de IA.",
+    "Engenharia de Segurança: princípios e métodos de engenharia de segurança aplicados a sistemas de IA, incluindo confiabilidade e análise de falhas.",
+    "Sistemas Complexos: noções de sistemas complexos e comportamentos emergentes relevantes para a segurança em IA.",
+    "Inteligência Artificial Benéfica e Ética das Máquinas: fundamentos éticos, legais e sociais para o desenvolvimento de sistemas de IA alinhados a valores humanos.",
+    "Problemas de Ação Coletiva: desafios de cooperação, conflito e incentivos no desenvolvimento e uso da IA.",
+    "Governança: estruturas e políticas de governança da IA em níveis corporativo, nacional e internacional."
   ],
   "Bibliografia Básica": [
     "HENDRYCKS, Dan. Introduction to AI Safety, Ethics and Society. Boca Raton: Taylor \\& Francis, 2024. ISBN 978-1-032-79802-8. Disponível em: <https://www.aisafetybook.com>. Acesso em: 17 dez. 2025.",
-    "RUSSELL, Stuart. Human compatible: artificial intelligence and the problem of control. New York: Viking, 2019.",
+    "RUSSELL, Stuart. Inteligência artificial a nosso favor: como manter o controle sobre a tecnologia. Tradução de Clóvis Marques. São Paulo: Companhia das Letras, 2020.",
     "AMODEI, Dario et al. Concrete problems in AI safety. arXiv preprint, arXiv:1606.06565, 2016. Disponível em: <https://arxiv.org/abs/1606.06565>. Acesso em: 17 dez. 2025."
   ],
   "Bibliografia Complementar": [
-    "BOSTROM, Nick. Superintelligence: paths, dangers, strategies. Oxford: Oxford University Press, 2014.",
-    "PERROW, Charles. Normal accidents: living with high-risk technologies. Princeton: Princeton University Press, 1999.",
+    "BOSTROM, Nick. Superinteligência: caminhos, perigos e estratégias. Tradução de Laura Teixeira Motta. Lisboa: Gradiva, 2017.",
+    "PERROW, Charles. Acidentes normais: vivendo com tecnologias de alto risco. São Paulo: Editora Senac São Paulo, 2007.",
     "LEWIS, David et al. Engineering safe AI systems. Communications of the ACM, New York, v. 65, n. 3, p. 36–38, 2022.",
     "BRASIL. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021. Disponível em: <https://www.gov.br/mcti>. Acesso em: 17 dez. 2025."
   ]
-},{
-  "Nome (ptBR)": "Ética, Ação Coletiva e Governança da Inteligência Artificial",
-  "Nome (enUS)": "Ethics, Collective Action, and AI Governance",
-  "Código": "BCC8YY",
+},
+{
+  "Nome (ptBR)": "Introdução à Ciência de Dados",
+  "Nome (enUS)": "Introduction to Data Science",
+  "Código": "BCCXXX",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -817,38 +680,76 @@
     "Teórica": "4",
     "Prática": "0"
   },
-  "Ementa": "Estudo dos princípios éticos e dos desafios de coordenação associados ao desenvolvimento e uso da Inteligência Artificial. Abordagem da IA benéfica e da ética de máquinas, incluindo justiça, viés, bem-estar, preferências humanas, funções de bem-estar social e incerteza moral. Análise de problemas de ação coletiva relacionados à IA, com uso de conceitos de teoria dos jogos, cooperação, conflito e pressões evolutivas. Estudo da governança da Inteligência Artificial em níveis corporativo, nacional e internacional, incluindo crescimento econômico, distribuição de benefícios e governança da capacidade computacional.",
+  "Ementa": "Introdução à Ciência de Dados. Pré-processamento de dados. Análise exploratória de dados. Processamento de dados em larga escala. Workflow e rastreamento de experimentos. Ciência de Dados Responsável. Tópicos avançados em ciência de dados",
   "Conteúdo Programático": [
-    "Introdução à IA benéfica e à ética de máquinas.",
-    "Fundamentos éticos aplicados à Inteligência Artificial.",
-    "Justiça, viés algorítmico e equidade.",
-    "Preferências humanas, bem-estar e felicidade.",
-    "Funções de bem-estar social e tomada de decisão coletiva.",
-    "Incerteza moral e dilemas éticos em sistemas de IA.",
-    "Problemas de ação coletiva no desenvolvimento da IA.",
-    "Teoria dos jogos aplicada à cooperação e ao conflito em IA.",
-    "Corridas tecnológicas, incentivos e pressões evolutivas.",
-    "Governança corporativa de sistemas de Inteligência Artificial.",
-    "Governança nacional e políticas públicas para IA.",
-    "Governança internacional e coordenação global.",
-    "Distribuição de benefícios, crescimento econômico e desigualdade.",
-    "Governança da capacidade computacional e recursos estratégicos."
+    "Introdução à Ciência de Dados. ",
+    "Tipos de dados.",
+    "Aquisição de dados.",
+    "Preparação de dados. ",
+    "Análise exploratória de dados: visualização, estatísticas descritivas e pré-processamento.",
+    "Processamento de dados em larga escala.",
+    "Workflow e rastreamento de experimentos.",
+    "Tópicos avançados em Ciência de Dados.",
+    "Ciência de Dados Ética e Responsável."
   ],
   "Bibliografia Básica": [
-    "HENDRYCKS, Dan. Introduction to AI Safety, Ethics and Society. Boca Raton: Taylor \\& Francis, 2024. ISBN 978-1-032-79802-8. Disponível em: <https://www.aisafetybook.com>. Acesso em: 17 dez. 2025.",
-    "FLORIDI, Luciano. Ethics of artificial intelligence. Oxford: Oxford University Press, 2023.",
-    "O’NEIL, Cathy. Weapons of math destruction: how big data increases inequality and threatens democracy. New York: Crown, 2016."
+    "CARVALHO, Andre Carlos Ponce de Leon Ferreira de; MENEZES, Angelo Garangau; BONIDIA, Robson Parmezan. Ciência de dados: fundamentos e aplicações. 2024.",
+    "TAN, Pang-Ning., Steinbach, Michael., Kumar, Vipin. Introduction to Data Mining. Alemanha: Pearson Addison Wesley, 2006.",
+    "HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. The Elements of Statistical Learning. 2. ed. New York: Springer, 2009.",
+    "MURPHY, Kevin P. Probabilistic Machine Learning: An Introduction. Cambridge: MIT Press, 2022.",
+    "JAMES, Gareth et al. An Introduction to Statistical Learning. 2. ed. New York: Springer, 2021."
   ],
   "Bibliografia Complementar": [
-    "RAWLS, John. A theory of justice. Cambridge, MA: Harvard University Press, 1971.",
-    "SEN, Amartya. Development as freedom. New York: Knopf, 1999.",
-    "EUROPEAN COMMISSION. Ethics guidelines for trustworthy AI. Brussels: European Commission, 2019. Disponível em: <https://digital-strategy.ec.europa.eu>. Acesso em: 17 dez. 2025.",
-    "BRASIL. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021. Disponível em: <https://www.gov.br/mcti>. Acesso em: 17 dez. 2025.",
-    "ORGANISATION FOR ECONOMIC CO-OPERATION AND DEVELOPMENT. OECD principles on artificial intelligence. Paris: OECD, 2019. Disponível em: <https://www.oecd.org/ai>. Acesso em: 17 dez. 2025."
+    "BRUCE, Peter; BRUCE, Andrew; GEDECK, Peter. Practical statistics for data scientists: 50+ essential concepts using R and Python. O'Reilly Media, 2020.",
+    "MÜLLER, Andreas C.; GUIDO, Sarah. Introduction to Machine Learning with Python. 1. ed. O’Reilly, 2016.",
+    "BISHOP, Christopher M. Pattern Recognition and Machine Learning. New York: Springer, 2006.",
+    "AGARWAL, Charu C.; ZHAO, Zhi-Hua. Advanced Methods for Unsupervised Learning. Springer, 2023.",
+    "OLIVEIRA, Hélio C. V. de. Mineração de dados: conceitos, algoritmos, aplicações. 2. ed. Rio de Janeiro: LTC, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ]
+},
+{
+  "Nome (ptBR)": "Fundamentos da Computação Paralela e Distribuída para Inteligência Artificial",
+  "Nome (enUS)": "Fundamentals of Parallel and Distributed Computing for Artificial Intelligence",
+  "Código": "BCCXXX",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos fundamentos computacionais para a execução de aplicações de Inteligência Artificial. Modelo de Von Neumann e suas limitações, concorrência, paralelismo e distribuição. Processos, threads, sincronização e paralelismo de tarefas e de dados. Métricas de desempenho e escalabilidade. Arquiteturas paralelas e sistemas distribuídos, computação em nuvem para IA e técnicas de treinamento paralelo e distribuído de modelos. Estudo de caso integrador em aprendizado dividido, distribuído e federado.",
+  "Conteúdo Programático": [
+    "Modelo de Von Neumann, gargalos de comunicação e limitações para workloads de Inteligência Artificial",
+    "Evolução da infraestrutura de computação para Inteligência Artificial",
+    "Concorrência, paralelismo e distribuição: definições e distinções conceituais",
+    "Processos, threads e execução concorrente em memória compartilhada",
+    "Condições de corrida e princípios básicos de sincronização",
+    "Paralelismo de tarefas e de dados",
+    "Métricas de desempenho e escalabilidade: speedup, eficiência, Leis de Amdahl e Gustafson",
+    "Taxonomia de Flynn e arquiteturas paralelas e distribuídas modernas",
+    "Fundamentos de sistemas distribuídos: memória distribuída, comunicação entre processos, sistemas de nomes e sincronização",
+    "Computação em nuvem para Inteligência Artificial: IaaS, PaaS, SaaS, elasticidade, escalabilidade e custos computacionais",
+    "Treinamento paralelo de modelos de Inteligência Artificial",
+    "Treinamento distribuído de modelos de Inteligência Artificial",
+    "Estudo de caso: Introdução ao aprendizado dividido (split learning), distribuído (distributed learning) e federado (federated learning)"
+  ],
+  "Bibliografia Básica": [
+    "SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. Fundamentos de sistemas operacionais. Nova edição. São Paulo: LTC, 2015. ISBN 978-85-216-2321-2. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/978-85-216-3001-2>. Acesso em: jun. 2025.",
+    "TANENBAUM, Andrew S.; STEEN, Maarten van. Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo: Pearson Prentice Hall, 2007. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/411>. Acesso em: jun. 2025.",
+    "GRAMA, Ananth; GUPTA, Anshul; KARYPIS, George; KUMAR, Vipin. Introduction to parallel computing. 2. ed. Upper Saddle River: Pearson, 2003."
+  ],
+  "Bibliografia Complementar": [
+    "TANENBAUM, Andrew S. Sistemas operacionais modernos. 4. ed. São Paulo: Pearson, 2009. ISBN 978-85-430-0567-6. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/36876>. Acesso em: jun. 2025.",
+    "DEAN, Jeffrey; GHEMAWAT, Sanjay. MapReduce: simplified data processing on large clusters. Communications of the ACM, New York, v. 51, n. 1, p. 107–113, 2008.",
+    "PACHECO, Peter S. An introduction to parallel programming. 2. ed. Waltham: Morgan Kaufmann, 2011.",
+    "PATTERSON, David A.; HENNESSY, John L. Computer architecture: a quantitative approach. 4. ed. Amsterdam: Elsevier, 2009. ISBN 978-0-12-370490-0.",
+    "COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon. Sistemas distribuídos: conceitos e projeto. Tradução de Alexandre Carissimi e João Tortello. 5. ed. Porto Alegre: Bookman, 2013. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/9788582600542>. Acesso em: jun. 2025."
   ]
 }
 
 
-
-        ]
+]
 }

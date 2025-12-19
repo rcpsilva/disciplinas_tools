@@ -1,0 +1,110 @@
+{
+  "Nome (ptBR)": "Internet das Coisas",
+  "Nome (enUS)": "Internet of Things",
+  "Código": "BCC813",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Introdução aos conceitos, arquiteturas e tecnologias da Internet das Coisas (IoT). Protocolos de comunicação, sensores, atuadores, segurança e aplicações inteligentes em ambientes conectados.",
+  "Conteúdo Programático": [
+    "Fundamentos da Internet das Coisas: definições, evolução e panorama atual.",
+    "Arquitetura IoT: camadas, dispositivos e sistemas embarcados.",
+    "Sensores e atuadores: tipos, funcionamento e integração.",
+    "Protocolos de comunicação IoT.",
+    "Plataformas e ferramentas para desenvolvimento IoT.",
+    "Segurança e privacidade em ambientes IoT.",
+    "Coleta, transmissão e processamento de dados em IoT.",
+    "Integração com inteligência artificial e computação em nuvem.",
+    "Casos de uso: cidades inteligentes, agricultura de precisão, saúde e indústria 4.0.",
+    "Tendências e desafios futuros da Internet das Coisas."
+  ],
+  "Bibliografia Básica": [
+    "WILLETT, Richard; OLIVEIRA, Charalampos. Internet das Coisas: Conceitos, Tecnologias e Aplicações. Novatec, 2022.",
+    "VERGARA, Luiz Antônio. Internet das Coisas. 2. ed. Campus, 2020.",
+    "MINERVA, Roberto et al. Towards a definition of the Internet of Things (IoT). IEEE Internet Initiative, 2015."
+  ],
+  "Bibliografia Complementar": [
+    "GUBBI, Jayavardhana et al. Internet of Things (IoT): A Vision, Architectural Elements, and Future Directions. Future Generation Computer Systems, 2013.",
+    "KURUNDRAN, S.; BHASKAR, P. IoT Protocols and Standards: An Overview. Springer, 2021.",
+    "RAY, Partha Pratim. Internet of Things: Architecture and Applications. Wiley, 2018.",
+    "SINGH, D.; ZHANG, H.; KUMAR, N. Internet of Things: Principles and Paradigms. Wiley, 2018.",
+    "STANKOVIC, John A. Research Directions for the Internet of Things. IEEE Internet of Things Journal, 2014."
+  ]
+},
+{
+  "Nome (ptBR)": "UI e UX para Inteligência Artificial",
+  "Nome (enUS)": "UI and UX for Artificial Intelligence",
+  "Código": "BCC851",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos princípios de design de interfaces de usuário (UI) e experiência do usuário (UX) aplicados a sistemas com Inteligência Artificial. Foco em usabilidade, acessibilidade, interação homem-máquina e avaliação de interfaces inteligentes.",
+  "Conteúdo Programático": [
+    "Fundamentos de UI e UX: conceitos, história e importância.",
+    "Princípios de design centrado no usuário (user-centered design).",
+    "Especificidades de UX para sistemas baseados em IA: transparência, confiança e controle do usuário.",
+    "Técnicas de prototipagem e wireframing para interfaces inteligentes.",
+    "Interação humano-IA: design de conversação, chatbots e assistentes virtuais.",
+    "Avaliação de usabilidade: métodos qualitativos e quantitativos.",
+    "Acessibilidade digital e inclusão em sistemas inteligentes.",
+    "Desafios éticos em UI/UX para IA: viés, privacidade e explicabilidade.",
+    "Ferramentas e frameworks para desenvolvimento de UI/UX em IA.",
+    "Estudos de caso: aplicações reais em IA e interfaces inteligentes."
+  ],
+  "Bibliografia Básica": [
+    "NORMAN, Donald A. The Design of Everyday Things. 2. ed. Basic Books, 2013.",
+    "COOPER, Alan; REIMANN, Robert; CRONIN, David. About Face: The Essentials of Interaction Design. 4. ed. Wiley, 2014.",
+    "SHNEIDERMAN, Ben; PIATKO, Catherine; COHEN, Jenifer. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 6. ed. Pearson, 2016."
+  ],
+  "Bibliografia Complementar": [
+    "MORRIS, Jenny. Designing for AI: Creating User Interfaces for Artificial Intelligence Systems. O'Reilly Media, 2021.",
+    "FOGEL, Karen; ESER, Daniel. UX Design for Artificial Intelligence Systems. 1. ed. Springer, 2020.",
+    "KLEIN, Julie; HACKER, Sue. Designing Bots: Creating Conversational Experiences. O'Reilly Media, 2017.",
+    "GREEN, Ben. The Ethical Challenges of AI in UX Design. MIT Press, 2022.",
+    "SAWYER, Steve. UX Strategy: How to Devise Innovative Digital Products that People Want. 2. ed. O'Reilly Media, 2015."
+  ]
+},
+{
+    "Nome (ptBR)": "Processamento de Áudio",
+    "Nome (enUS)": "Audio Processing",
+    "Código": "BCC852",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": {
+      "Total": "60",
+      "Extensionista": "0",
+      "Teórica": "4",
+      "Prática": "0"
+    },
+    "Ementa": "Introdução aos conceitos e técnicas fundamentais para o processamento digital de sinais de áudio. Análise, transformação, filtragem e síntese de áudio aplicados em sistemas de reconhecimento, síntese sonora e IA.",
+    "Conteúdo Programático": [
+      "Modelos acústicos tradicionais, misturas de gaussianas e cadeias ocultas de markov.",
+	    "Representações de sinais para áudio e voz.",
+      "Arquiteturas de redes neurais para reconhecimento de fala.",
+	    "Modelos de encoder, vocoder e arquiteturas para sintetização de voz.",
+	    "Arquiteturas para aplicações em música"
+    ],
+    "Bibliografia Básica": [
+      "KAMATH, U. L.; WHITAKER, J. Deep learning for NLP and speech recognition. Springer Nature, 2019.",
+      "DONG, Y.; DENG, Y. Automatic speech recognition. Springer London Limited, 2016.",
+      "GOPI, E. S. Digital speech processing using Matlab. New Delhi: Springer, 2014. xvi, 182 p. ISBN 9788132216766."
+    ],
+    "Bibliografia Complementar": [
+      "CAMASTRA, F.; VINCIARELLI, A. Machine learning for audio, image and video analysis: theory and applications. Springer, 2015.",
+      "STEVENS, E.; Antiga, L. Deep Learning with Pytorch. Manning Publications, 2020.",
+      "GALEONE, P. Hands-On Neural Networks with TensorFlow 2.0: Understand TensorFlow, from static graph to eager execution, and design neural networks. Packt Publishing, 2019."
+    ]
+ },
