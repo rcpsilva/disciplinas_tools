@@ -3,7 +3,7 @@
 {
     "Nome (ptBR)": "Introdução à Inteligência Artificial",
     "Nome (enUS)": "Introduction to Artificial Intelligence",
-    "Código": "BCC801",
+    "Código": "BIA101",
     "Departamento": "Departamento de Computação (DECOM)",
     "Unidade Acadêmica": "ICEB",
     "Modalidade": "presencial",
@@ -30,6 +30,7 @@
       "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. 1. ed. Campinas: Papirus, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
       "MEDEIROS, Luciano Frontino de. Inteligência artificial aplicada: uma abordagem introdutória. Curitiba, PR: Intersaberes, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
       "DIAS, Ana Francisca Pinto et al.; GUIMARÃES, João Alexandre Silva Alves; ALVES, Rodrigo Vitorino Souza (org.). Os direitos humanos e a ética na era da inteligência artificial. Indaiatuba, SP: Foco, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "POOLE, David L.; MACKWORTH, Alan K. Artificial Intelligence: Foundations of Computational Agents. 3. ed. Cambridge: Cambridge University Press, 2023. ISBN 978-1-009-25819-7. Disponível em: <https://artint.info/>. Acesso em: 17 dez. 2025.",
       "CRAWFORD, Kate. Atlas da I.A.: poder, política e os custos planetários da inteligência artificial. São Paulo: Edições Sesc São Paulo, 2025. 138 p. ISBN 978-85-9493-328-7."
     ],
     "Bibliografia Complementar": [
@@ -40,9 +41,88 @@
       "MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. [S.l.]: Brasport, 2024. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
     ]
  },{
+  "Nome (ptBR)": "Introdução à Programação",
+  "Nome (enUS)": "Introduction to Programming",
+  "Código": "BCC201",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "90",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "2"
+  },
+  "Ementa": "Introdução à lógica de programação; conceitos básicos sobre algoritmos, utilização e formas de representação (fluxograma e portugol); tipos de dados; variáveis e constantes; expressões e operadores relacionais, aritméticos e lógicos; estruturas condicionais e de repetição; sub-programação: modularização de programas (funções e procedimentos); estruturas de dados homogêneas (vetores e matrizes) e heterogêneas (estruturas/registro); manipulação de cadeias de caracteres; ponteiros; alocação dinâmica de memória; processamento de arquivos.",
+  "Conteúdo Programático": [
+  "Representação de dados",
+  "Conceitos e representação de algoritmos",
+  "Fluxograma e Portugol",
+  "Conceitos básicos de programação: valores, tipos e expressões",
+  "Variáveis, comandos de atribuição e de entrada e saída",
+  "Comandos de controle de fluxo",
+  "Comando de decisão (if)",
+  "Comandos de decisão múltipla e de salto (switch, break)",
+  "Comandos de repetição (while, do-while, for)",
+  "Subprogramação: funções, procedimentos e parâmetros",
+  "Estruturas de dados homogêneas (vetores)",
+  "Cadeia de caracteres (strings)",
+  "Estruturas de dados homogêneas (matrizes)",
+  "Estruturas de dados heterogêneas",
+  "Apontadores e memória dinâmica (ponteiros)",
+  "Arquivos"
+]
+,
+  "Bibliografia Básica": [
+  "DEITEL, P.; DEITEL, H. M. C: como programar. 6. ed. São Paulo: Pearson Education, 2011.",
+  "DEITEL, H. M.; DEITEL, P. J. C++: como programar. 5. ed. São Paulo: Pearson Prentice Hall, 2006.",
+  "SOUZA, M. A. F. de. Algoritmos e lógica de programação. São Paulo: Cengage Learning, 2005."
+]
+,
+  "Bibliografia Complementar": [
+  "ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da programação de computadores: algoritmos, Pascal e C/C++. 2. ed. São Paulo: Prentice Hall, 2007.",
+  "GUEDES, S. Lógica de programação algorítmica. São Paulo: Pearson Education do Brasil, 2014.",
+  "MIZRAHI, V. V. Treinamento em linguagem C. 2. ed. São Paulo: Pearson Education, 2010.",
+  "MIZRAHI, V. V. Treinamento em linguagem C++: módulo 2. São Paulo: Pearson Education, 2006.",
+  "SAVITCH, W. J. C++ absoluto. São Paulo: Pearson Education; Addison-Wesley, 2004."
+]
+
+},{
+  "Nome (ptBR)": "Matemática Discreta I",
+  "Nome (enUS)": "Discrete Mathematics I",
+  "Código": "BCC101",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Introdução à teoria de conjuntos: definições de conjuntos, operações sobre conjuntos, cardinalidade de conjuntos. Funções: conceitos básicos, composição, funções recursivas. Lógica proposicional e lógica de predicados: sintaxe, semântica e sistema de dedução. Estratégias de prova. Indução e recursão.",
+  "Conteúdo Programático": [
+    "Introdução e Revisão de Teoria de Conjuntos",
+    "Sintaxe e Semântica da Lógica Proposicional",
+    "Sistema de Dedução da Lógica Proposicional",
+    "Álgebra Booleana",
+    "Sintaxe e Semântica da Lógica de Predicados",
+    "Sistema de Dedução - Lógica de Predicados",
+    "Álgebra de Predicados",
+    "Estratégias de prova",
+    "Indução e Recursão",
+    "Provas e correção de provas"],
+  "Bibliografia Básica": ["VELLEMAN, Daniel. J. How to Prove it: A Structured Approach. Cambridge: Cambridge University Press, 2006.", 
+  "ROSEN, Kenneth. H. Matemática Discreta e suas Aplicações. 6.ed. São Paulo: McGraw-Hill, 2009.",
+  "O´DONNELL, Jonh.; HALL, Cordelia.; PAGE, Rex. Discrete Mathematics Using a Computer. Glasgow: Springer-Verlag, 2000."],
+  "Bibliografia Complementar": ["HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação: Modelagem e Argumentação sobre Sistemas. 2. ed. Rio de Janeiro: LTC, 2008.",
+  "SCHEINERMAN, Edward. R. Matemática Discreta: Uma Introdução. São Paulo: Cengage Learning, 2011.",
+  "GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação. 5. ed. Rio de Janeiro: LTC, 2004."]
+},
+ {
   "Nome (ptBR)": "Fundamentos de Arquitetura e Organização de Computadores",
   "Nome (enUS)": "Computer Architecture and Organization",
-  "Código": "BCC802",
+  "Código": "BIA",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -144,9 +224,9 @@
     "Impactos Sociais, Viés e Limitações do Aprendizado de Máquina"
   ],
   "Bibliografia Básica": [
+    "JAMES, Gareth et al. An introduction to statistical learning. 2. ed. New York: Springer, 2021. Disponível em: <https://www.statlearning.com> . Acesso em: 22 dez. 2025.",
     "GERON, Aurélien. Mãos à obra: aprendizado de máquina com Scikit-Learn, Keras e TensorFlow. 2. ed. São Paulo: Novatec, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "ALPAYDIN, Ethem. Introduction to Machine Learning. 4. ed. Cambridge: MIT Press, 2020.",
-    "JAMES, Gareth et al. An Introduction to Statistical Learning. 2. ed. New York: Springer, 2021. (Disponível gratuitamente em https://www.statlearning.com)."
+    "LIU, Yuxi Hayden. Machine learning with Python in practice: unlock machine learning best practices with real-world use cases. 1. ed. São Paulo: Blucher, 2025. E-book. Disponível em: <https://plataforma.bvirtual.com.br> . Acesso em: 22 dez. 2025."
   ],
   "Bibliografia Complementar": [
     "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep Learning. Cambridge: MIT Press, 2016. (Capítulos introdutórios sobre aprendizado supervisionado).",
@@ -180,12 +260,14 @@
     "Extração de características e embeddings para dados complexos.",
     "Detecção de anomalias: outliers, isolamento de florestas, técnicas baseadas em distância.",
     "Tópicos avançados: agrupamento em dados de alta dimensão e em grandes volumes.",
-    "Implementações práticas com bibliotecas de software."
+    "Implementações práticas com bibliotecas de software.",
+    "Impactos Sociais, Viés e Limitações do Aprendizado de Máquina"
   ],
   "Bibliografia Básica": [
     "GERON, Aurélien. Mãos à obra: aprendizado de máquina com Scikit-Learn, Keras e TensorFlow. 2. ed. São Paulo: Novatec, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
     "MURPHY, Kevin P. Probabilistic Machine Learning: An Introduction. Cambridge: MIT Press, 2022.",
-    "JAMES, Gareth et al. An Introduction to Statistical Learning. 2. ed. New York: Springer, 2021. (Capítulos sobre clustering e PCA)."
+    "JAMES, Gareth et al. An introduction to statistical learning. 2. ed. New York: Springer, 2021. Disponível em: <https://www.statlearning.com> . Acesso em: 22 dez. 2025.",
+    "LENZ, Maikon L.; NEUMANN, Fabiano B.; SANTARELLI, Rodrigo; et al. Fundamentos de aprendizagem de máquina. Porto Alegre: Grupo A, 2020. E-book. Disponível em: <https://integrada.minhabiblioteca.com.br/reader/books/9786556900902>. Acesso em: 22 dez. 2025."
   ],
   "Bibliografia Complementar": [
     "HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. The Elements of Statistical Learning. 2. ed. New York: Springer, 2009.",
@@ -222,14 +304,16 @@
     "Estudos de caso: uso de dados em decisões empresariais e operacionais."
   ],
   "Bibliografia Básica": [
-    "INMON, William H. Building the Data Warehouse. 4. ed. Indianapolis: Wiley, 2005.",
-    "KIMBALL, Ralph; ROSS, Margy. The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. 3. ed. Indianapolis: Wiley, 2013.",
-    "DATE, C. J. Introdução a sistemas de bancos de dados. 8. ed. Rio de Janeiro: Campus, 2004. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
-  ],
+    "SCHAEDLER, Andrew; MENDES, Giselly Santos. Business intelligence . 1st ed. Curitiba: Intersaberes, 2021. E-book . Available at: https://plataforma.bvirtual.com.br. Accessed on: December 22, 2025.",
+    "SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistemas de bancos de dados. 6. ed. São Paulo: Pearson, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "VIDA, Edinilson da Silva; ALVES, Nicolli S. Rios; FERREIRA, Rafael G. Coimbra; et al. Data warehouse. Porto Alegre: Grupo A, 2021. E-book. Disponível em: <https://integrada.minhabiblioteca.com.br/reader/books/9786556901916>. Acesso em: 22 dez. 2025.",
+    ],
   "Bibliografia Complementar": [
+    "DATE, C. J. Introdução a sistemas de bancos de dados. 8. ed. Rio de Janeiro: Campus, 2004. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
     "HELMERS, Shawn; LARSON, Baya Dewitt. Fundamentos de BI: inteligência de negócios orientada por dados. 2. ed. São Paulo: Alta Books, 2022. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
     "KRUG, Michael. Bancos de dados NoSQL: fundamentos e aplicações. 1. ed. São Paulo: Érica, 2021. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistemas de bancos de dados. 6. ed. São Paulo: Pearson, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "PANIZ, David. NoSQL : How to store the data of a modern application. São Paulo, SP: Casa do Código, 2016. E-book . Available at: https://plataforma.bvirtual.com.br. Accessed on: December 22, 2025.",
+    "KIMBALL, Ralph; ROSS, Margy. The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. 3. ed. Indianapolis: Wiley, 2013.",
     "PONNAIAH, Paulraj. Data Warehousing Fundamentals. 1. ed. New York: Wiley, 2001.",
     "FERREIRA, Rodrigo Siqueira. Banco de dados: teoria e prática. 1. ed. São Paulo: Novatec, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
   ]
@@ -305,21 +389,23 @@
     "Aplicações práticas: reconhecimento facial, visão para robótica, análise médica."
   ],
   "Bibliografia Básica": [
-    "GONZALEZ, Rafael C.; WOODS, Richard E. Processamento de Imagens Digitais. 4. ed. Pearson, 2018.",
-    "SZE, Vivienne et al. Efficient Processing of Deep Neural Networks: A Tutorial and Survey. Proceedings of the IEEE, 2017.",
-    "SZAJDAK, Marek. Introdução à Visão Computacional. 1. ed. LTC, 2021."
-  ],
+  "GONZALEZ, Rafael C.; WOODS, Richard E. Digital image processing. 3. ed. São Paulo: Pearson, 2009. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 22 dez. 2025.",
+  "BARELLI, Felipe. Introduction to computer vision: a practical approach with Python and OpenCV. São Paulo: Casa do Código, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 22 dez. 2025.",
+  "SZELISKI, Richard. Computer vision: algorithms and applications. 2. ed. Cham: Springer, 2022. E-book. DOI: https://doi.org/10.1007/978-3-030-34372-9."
+]
+,
   "Bibliografia Complementar": [
-    "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep Learning. Cambridge: MIT Press, 2016. (Capítulo sobre CNNs).",
-    "RUSSELL, Stuart; NORVIG, Peter. Inteligência Artificial. 3. ed. Pearson, 2013. (Capítulo sobre visão computacional).",
-    "FORSYTHT, David A. Computer Vision: A Modern Approach. 2. ed. Pearson, 2011.",
-    "BALLARD, Dana H.; BROWN, Christopher M. Computer Vision. Prentice Hall, 1982.",
-    "ZHAO, Sheng et al. Deep Learning for Computer Vision: A Brief Review. IEEE Access, 2019."
-  ]
+  "SZAJDAK, Marek. Introdução à visão computacional. 1. ed. Rio de Janeiro: LTC, 2021.",
+  "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep learning. Cambridge: MIT Press, 2016.",
+  "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013.",
+  "FORSYTH, David A.; PONCE, Jean. Computer vision: a modern approach. 2. ed. Boston: Pearson, 2011.",
+  "BALLARD, Dana H.; BROWN, Christopher M. Computer vision. Englewood Cliffs: Prentice Hall, 1982.",
+  "ZHAO, Sheng et al. Deep learning for computer vision: a brief review. IEEE Access, v. 7, p. 156973–156984, 2019."
+]
 }, 
 {
-  "Nome (ptBR)": "Modelos de Linguagem em Larga Escala",
-  "Nome (enUS)": "Large-Scale Language Models",
+  "Nome (ptBR)": "Processamento de Linguagem Natural",
+  "Nome (enUS)": "Natural Language Processing",
   "Código": "BCC809",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
@@ -341,14 +427,19 @@
     "Avaliação de modelos de linguagem: perplexidade, BLEU, ROUGE e outras métricas.",
     "Aplicações práticas: chatbots, tradução automática, sumarização e análise de sentimento.",
     "Desafios e limitações: vieses, ética, consumo computacional e explicabilidade.",
-    "Tendências atuais e pesquisas emergentes em PLN e LLMs."
+    "Tendências atuais e pesquisas emergentes em PLN e LLMs.",
+    "Ética e Vieses e Limites de LLMs"
   ],
   "Bibliografia Básica": [
     "JURAFSKY, Daniel; MARTIN, James H. Speech and Language Processing. 3. ed. Draft. 2023. Disponível em: https://web.stanford.edu/~jurafsky/slp3/. Acesso em: jun/2025.",
-    "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep Learning. Cambridge: MIT Press, 2016. (Capítulos sobre redes neurais e atenção).",
-    "VASWANI, Ashish et al. Attention is All You Need. In: Advances in Neural Information Processing Systems (NeurIPS), 2017."
+    "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep Learning. Cambridge: MIT Press, 2016.",
+    "CASELI, Helena de Medeiros; NUNES, Maria das Graças Volpe (org.). Processamento de linguagem natural: conceitos, técnicas e aplicações em português. 3. ed. São Carlos: BPLN, 2024. Disponível em: <https://brasileiraspln.com/livro-pln>. Acesso em: 22 dez. 2025.",
+    "EISENSTEIN, Jacob. Introduction to natural language processing. Cambridge; London: The MIT Press, 2019. ISBN 978-0-262-04284-0. 536 p.",
+    "MARTINS, Júlio Serafim; LENZ, Maikon Lucian; SILVA, Michel Bernardo Fernandes da; et al. Processamentos de linguagem natural. Porto Alegre: Grupo A, 2020. E-book. Disponível em: <https://integrada.minhabiblioteca.com.br/reader/books/9786556900575>. Acesso em: 22 dez. 2025."
   ],
   "Bibliografia Complementar": [
+    "VASWANI, Ashish et al. Attention is All You Need. In: Advances in Neural Information Processing Systems (NeurIPS), 2017.",
+    "BENDER, Emily M.; GEBRU, Timnit; McMILLAN-MAJOR, Angelina; SHMITCHELL, Shmargaret. On the dangers of stochastic parrots: can language models be too big? In: ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY (FAccT), 2021, New York. Proceedings… New York: Association for Computing Machinery, 2021. p. 610–623. DOI: https://doi.org/10.1145/3442188.3445922.",
     "RADFORD, Alec et al. Language Models are Few-Shot Learners. OpenAI, 2020. Disponível em: https://arxiv.org/abs/2005.14165.",
     "DEVLIN, Jacob et al. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. 2019. Disponível em: https://arxiv.org/abs/1810.04805.",
     "CHOWDHURY, Gaurav. Natural Language Processing. 1. ed. Springer, 2021.",
