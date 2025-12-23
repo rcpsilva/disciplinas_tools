@@ -151,4 +151,81 @@
       "FOX, Dieter; HENRY, Gregory. Introduction to Autonomous Robots. MIT Press, 2020.",
       "SIEGEL, Scott. Artificial Intelligence for Robotics: Build Intelligent Robots that Perform Human Tasks. Packt, 2016."
     ]
+  },{
+  "Nome (ptBR)": "Computação de Alto Desempenho",
+  "Nome (enUS)": "High Performance Computing",
+  "Código": "BCC810",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
   },
+  "Ementa": "Estudo das arquiteturas, técnicas e ferramentas para computação de alto desempenho (HPC). Paralelismo, programação concorrente, arquiteturas multicore e distribuídas, otimização de código e aplicações científicas e de engenharia.",
+  "Conteúdo Programático": [
+    "Introdução à computação de alto desempenho: conceitos e aplicações.",
+    "Arquiteturas paralelas: SIMD, MIMD, multiprocessadores e clusters.",
+    "Memória compartilhada vs memória distribuída.",
+    "Programação paralela: paradigmas e modelos (threads, MPI, OpenMP).",
+    "Sincronização e comunicação entre processos.",
+    "Técnicas de otimização e escalabilidade de programas.",
+    "Computação em GPU: conceitos e programação com CUDA/OpenCL.",
+    "Ferramentas e bibliotecas para HPC.",
+    "Gerenciamento de recursos e ambientes de execução HPC.",
+    "Estudos de caso: simulações científicas, aprendizado de máquina em HPC, processamento de grandes volumes de dados."
+  ],
+  "Bibliografia Básica": [
+    "PACHECO, Peter S. An Introduction to Parallel Programming. 2. ed. Morgan Kaufmann, 2011.",
+    "GRAMA, Ananth; GUPTA, Anshul; KARYPIS, George; KUMAR, Vipin. Introduction to Parallel Computing. 2. ed. Pearson, 2003.",
+    "KIRKPATRICK, Scott. CUDA Programming: A Developer’s Guide to Parallel Computing with GPUs. Addison-Wesley, 2013."
+  ],
+  "Bibliografia Complementar": [
+    "HERLIHY, Maurice; SHAVIT, Nir. The Art of Multiprocessor Programming. Revised Reprint. Morgan Kaufmann, 2011.",
+    "CHANDRA, Ramesh; MENON, Ravi; FINKELSTEIN, Albert. Parallel Programming in OpenMP. Morgan Kaufmann, 2001.",
+    "RAJ, Rakesh. High Performance Computing: Paradigm and Infrastructure. Wiley, 2017.",
+    "KARYPIS, George; GUPTA, Anshul. Parallel Programming for Modern HPC Architectures. Springer, 2020.",
+    "RUSSELL, Stuart; NORVIG, Peter. Inteligência Artificial. 3. ed. Pearson, 2013. (Capítulo sobre paralelismo em IA)."
+  ]
+},
+{
+  "Nome (ptBR)": "Processamento de Dados Massivos",
+  "Nome (enUS)": "Massive Data Processing",
+  "Código": "BCC811",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo das tecnologias, arquiteturas e técnicas para processamento eficiente de grandes volumes de dados. Sistemas distribuídos, frameworks para Big Data, processamento em lote e em tempo real, armazenamento e análise de dados massivos.",
+  "Conteúdo Programático": [
+    "Conceitos e desafios do Big Data: volume, variedade, velocidade e veracidade.",
+    "Arquiteturas para processamento de dados massivos: sistemas distribuídos e em nuvem.",
+    "Modelos de programação paralela: MapReduce e suas variações.",
+    "Frameworks para Big Data",
+    "Armazenamento escalável: sistemas de arquivos distribuídos e bancos NoSQL.",
+    "Processamento em tempo real: stream processing e ferramentas associadas.",
+    "Técnicas de pré-processamento, limpeza e transformação de dados massivos.",
+    "Análise e mineração de dados em larga escala.",
+    "Gerenciamento de clusters e orquestração de tarefas.",
+    "Casos de uso: aplicações em indústria, ciência e serviços."
+  ],
+  "Bibliografia Básica": [
+    "MARRS, Anthony et al. Big Data: Principles and best practices of scalable real-time data systems. Manning Publications, 2015.",
+    "WHITE, Tom. Hadoop: The Definitive Guide. 4. ed. O'Reilly Media, 2015.",
+    "ZAHARIA, Matei et al. Learning Spark: Lightning-Fast Big Data Analysis. 2. ed. O'Reilly Media, 2016."
+  ],
+  "Bibliografia Complementar": [
+    "DEAN, Jeffrey; GHEMAWAT, Sanjay. MapReduce: Simplified Data Processing on Large Clusters. Communications of the ACM, 2008.",
+    "KLEPPMANN, Martin. Designing Data-Intensive Applications. O'Reilly Media, 2017.",
+    "KARAU, Holden et al. High Performance Spark. O'Reilly Media, 2017.",
+    "AGRAWAL, Rakesh; IMIELIŃSKI, Tomasz; SWAMI, Arun. Mining Association Rules between Sets of Items in Large Databases. ACM SIGMOD Record, 1993.",
+    "WHITE, Tom. Hadoop: The Definitive Guide. O'Reilly Media, 2012."
+  ]
+},

@@ -53,7 +53,7 @@
     "Teórica": "4",
     "Prática": "2"
   },
-  "Ementa": "Introdução à lógica de programação; conceitos básicos sobre algoritmos, utilização e formas de representação (fluxograma e portugol); tipos de dados; variáveis e constantes; expressões e operadores relacionais, aritméticos e lógicos; estruturas condicionais e de repetição; sub-programação: modularização de programas (funções e procedimentos); estruturas de dados homogêneas (vetores e matrizes) e heterogêneas (estruturas/registro); manipulação de cadeias de caracteres; ponteiros; alocação dinâmica de memória; processamento de arquivos.",
+  "Ementa": "Introdução à lógica de programação; conceitos básicos sobre algoritmos, utilização e formas de representação (fluxograma e Portugol); tipos de dados; variáveis e constantes; expressões e operadores relacionais, aritméticos e lógicos; estruturas condicionais e de repetição; subprogramação: modularização de programas (funções e procedimentos); estruturas de dados homogêneas (vetores e matrizes) e heterogêneas (estruturas/registros); manipulação de cadeias de caracteres; ponteiros; alocação dinâmica de memória; processamento de arquivos.",
   "Conteúdo Programático": [
   "Representação de dados",
   "Conceitos e representação de algoritmos",
@@ -118,49 +118,10 @@
   "Bibliografia Complementar": ["HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação: Modelagem e Argumentação sobre Sistemas. 2. ed. Rio de Janeiro: LTC, 2008.",
   "SCHEINERMAN, Edward. R. Matemática Discreta: Uma Introdução. São Paulo: Cengage Learning, 2011.",
   "GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação. 5. ed. Rio de Janeiro: LTC, 2004."]
-},
- {
-  "Nome (ptBR)": "Fundamentos de Arquitetura e Organização de Computadores",
-  "Nome (enUS)": "Computer Architecture and Organization",
-  "Código": "BIA",
-  "Departamento": "Departamento de Computação (DECOM)",
-  "Unidade Acadêmica": "ICEB",
-  "Modalidade": "presencial",
-  "Carga Horária": {
-    "Total": "60",
-    "Extensionista": "0",
-    "Teórica": "4",
-    "Prática": "0"
-  },
-  "Ementa": "Estudo dos componentes básicos de um computador e suas interações. Conceitos de organização e arquitetura de computadores. Sistemas de numeração e codificação. Conjuntos de instruções, ciclo de execução, hierarquia de memória e barramentos.",
-  "Conteúdo Programático": [
-    "Conceitos fundamentais: diferença entre organização e arquitetura de computadores.",
-    "Sistemas de numeração: binário, octal, decimal e hexadecimal.",
-    "Aritmética computacional: operações com números inteiros e de ponto flutuante.",
-    "Unidade Central de Processamento (UCP): registradores, ALU, UC.",
-    "Ciclo de instrução: busca, decodificação e execução.",
-    "Conjuntos de instruções (ISA): instruções RISC e CISC.",
-    "Hierarquia de memória: registradores, cache, RAM, memória secundária.",
-    "Sistemas de entrada e saída: interfaces e dispositivos.",
-    "Barramentos e comunicação entre componentes.",
-    "Noções de pipelines e paralelismo em processadores modernos."
-  ],
-  "Bibliografia Básica": [
-    "STALLINGS, William. Arquitetura e organização de computadores. 10. ed. São Paulo: Pearson, 2016. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "MAK, Ronald. Organização de computadores: arquitetura, interfaces e sistemas operacionais. 1. ed. São Paulo: Cengage Learning, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "TANENBAUM, Andrew S.; AUSTIN, Todd. Estruturas de computadores. 6. ed. São Paulo: Pearson, 2014. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
-  ],
-  "Bibliografia Complementar": [
-    "BRITO, Fábio de Souza. Arquitetura e organização de computadores: teoria e prática. 1. ed. São Paulo: Érica, 2022. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "HENNESSY, John L.; PATTERSON, David A. Organização e projeto de computadores: a interface hardware/software. 5. ed. Porto Alegre: Bookman, 2014. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "SANTOS, Silas P. Fundamentos de organização de computadores. 2. ed. Curitiba: Intersaberes, 2021. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "MACHADO, Fábio; MAIA, Marcos. Arquitetura de computadores moderna. 1. ed. Rio de Janeiro: LTC, 2019. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "FERREIRA, Luiz. Sistemas digitais e arquitetura de computadores. 3. ed. São Paulo: Érica, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
-  ]
 },{
   "Nome (ptBR)": "Inteligência Artificial Clássica",
   "Nome (enUS)": "Classical Artificial Intelligence",
-  "Código": "BCC803",
+  "Código": "BIA102",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -196,10 +157,88 @@
     "LAUFER, C. Sistemas especialistas e representação do conhecimento. 1. ed. São Paulo: Érica, 2009. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
   ]
 },
+ {
+  "Nome (ptBR)": "Fundamentos de Arquitetura e Organização de Computadores",
+  "Nome (enUS)": "Computer Architecture and Organization",
+  "Código": "BIA103",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos componentes básicos de um computador e suas interações. Conceitos de organização e arquitetura de computadores. Sistemas de numeração e codificação. Conjuntos de instruções, ciclo de execução, hierarquia de memória e barramentos.",
+  "Conteúdo Programático": [
+    "Conceitos fundamentais: diferença entre organização e arquitetura de computadores.",
+    "Sistemas de numeração: binário, octal, decimal e hexadecimal.",
+    "Aritmética computacional: operações com números inteiros e de ponto flutuante.",
+    "Unidade Central de Processamento (UCP): registradores, ALU, UC.",
+    "Ciclo de instrução: busca, decodificação e execução.",
+    "Conjuntos de instruções (ISA): instruções RISC e CISC.",
+    "Hierarquia de memória: registradores, cache, RAM, memória secundária.",
+    "Sistemas de entrada e saída: interfaces e dispositivos.",
+    "Barramentos e comunicação entre componentes.",
+    "Noções de pipelines e paralelismo em processadores modernos."
+  ],
+  "Bibliografia Básica": [
+    "STALLINGS, William. Arquitetura e organização de computadores. 10. ed. São Paulo: Pearson, 2016. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "MAK, Ronald. Organização de computadores: arquitetura, interfaces e sistemas operacionais. 1. ed. São Paulo: Cengage Learning, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "TANENBAUM, Andrew S.; AUSTIN, Todd. Estruturas de computadores. 6. ed. São Paulo: Pearson, 2014. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ],
+  "Bibliografia Complementar": [
+    "BRITO, Fábio de Souza. Arquitetura e organização de computadores: teoria e prática. 1. ed. São Paulo: Érica, 2022. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "HENNESSY, John L.; PATTERSON, David A. Organização e projeto de computadores: a interface hardware/software. 5. ed. Porto Alegre: Bookman, 2014. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "SANTOS, Silas P. Fundamentos de organização de computadores. 2. ed. Curitiba: Intersaberes, 2021. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "MACHADO, Fábio; MAIA, Marcos. Arquitetura de computadores moderna. 1. ed. Rio de Janeiro: LTC, 2019. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "FERREIRA, Luiz. Sistemas digitais e arquitetura de computadores. 3. ed. São Paulo: Érica, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ]
+},{
+  "Nome (ptBR)": "Introdução à Ciência de Dados",
+  "Nome (enUS)": "Introduction to Data Science",
+  "Código": "BIA104",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Introdução à Ciência de Dados. Pré-processamento de dados. Análise exploratória de dados. Processamento de dados em larga escala. Workflow e rastreamento de experimentos. Ciência de Dados Responsável. Tópicos avançados em ciência de dados",
+  "Conteúdo Programático": [
+    "Introdução à Ciência de Dados. ",
+    "Tipos de dados.",
+    "Aquisição de dados.",
+    "Preparação de dados. ",
+    "Análise exploratória de dados: visualização, estatísticas descritivas e pré-processamento.",
+    "Processamento de dados em larga escala.",
+    "Workflow e rastreamento de experimentos.",
+    "Tópicos avançados em Ciência de Dados.",
+    "Ciência de Dados Ética e Responsável."
+  ],
+  "Bibliografia Básica": [
+    "CARVALHO, Andre Carlos Ponce de Leon Ferreira de; MENEZES, Angelo Garangau; BONIDIA, Robson Parmezan. Ciência de dados: fundamentos e aplicações. 2024.",
+    "TAN, Pang-Ning., Steinbach, Michael., Kumar, Vipin. Introduction to Data Mining. Alemanha: Pearson Addison Wesley, 2006.",
+    "HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. The Elements of Statistical Learning. 2. ed. New York: Springer, 2009.",
+    "MURPHY, Kevin P. Probabilistic Machine Learning: An Introduction. Cambridge: MIT Press, 2022.",
+    "JAMES, Gareth et al. An Introduction to Statistical Learning. 2. ed. New York: Springer, 2021."
+  ],
+  "Bibliografia Complementar": [
+    "BRUCE, Peter; BRUCE, Andrew; GEDECK, Peter. Practical statistics for data scientists: 50+ essential concepts using R and Python. O'Reilly Media, 2020.",
+    "MÜLLER, Andreas C.; GUIDO, Sarah. Introduction to Machine Learning with Python. 1. ed. O’Reilly, 2016.",
+    "BISHOP, Christopher M. Pattern Recognition and Machine Learning. New York: Springer, 2006.",
+    "AGARWAL, Charu C.; ZHAO, Zhi-Hua. Advanced Methods for Unsupervised Learning. Springer, 2023.",
+    "OLIVEIRA, Hélio C. V. de. Mineração de dados: conceitos, algoritmos, aplicações. 2. ed. Rio de Janeiro: LTC, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ]
+},
 {
   "Nome (ptBR)": "Aprendizado de Máquina Supervisionado",
   "Nome (enUS)": "Supervised Machine Learning",
-  "Código": "BCC804",
+  "Código": "BIA105",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -239,7 +278,7 @@
 {
   "Nome (ptBR)": "Aprendizado de Máquina Não Supervisionado",
   "Nome (enUS)": "Unsupervised Machine Learning",
-  "Código": "BCC805",
+  "Código": "BIA106",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -280,7 +319,7 @@
 {
   "Nome (ptBR)": "Inteligência de Negócios e Armazenamento de Dados",
   "Nome (enUS)": "Business Intelligence and Data",
-  "Código": "BCC806",
+  "Código": "BIA107",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -306,7 +345,7 @@
   "Bibliografia Básica": [
     "SCHAEDLER, Andrew; MENDES, Giselly Santos. Business intelligence . 1st ed. Curitiba: Intersaberes, 2021. E-book . Available at: https://plataforma.bvirtual.com.br. Accessed on: December 22, 2025.",
     "SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistemas de bancos de dados. 6. ed. São Paulo: Pearson, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
-    "VIDA, Edinilson da Silva; ALVES, Nicolli S. Rios; FERREIRA, Rafael G. Coimbra; et al. Data warehouse. Porto Alegre: Grupo A, 2021. E-book. Disponível em: <https://integrada.minhabiblioteca.com.br/reader/books/9786556901916>. Acesso em: 22 dez. 2025.",
+    "VIDA, Edinilson da Silva; ALVES, Nicolli S. Rios; FERREIRA, Rafael G. Coimbra; et al. Data warehouse. Porto Alegre: Grupo A, 2021. E-book. Disponível em: <https://integrada.minhabiblioteca.com.br/reader/books/9786556901916>. Acesso em: 22 dez. 2025"
     ],
   "Bibliografia Complementar": [
     "DATE, C. J. Introdução a sistemas de bancos de dados. 8. ed. Rio de Janeiro: Campus, 2004. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
@@ -317,55 +356,44 @@
     "PONNAIAH, Paulraj. Data Warehousing Fundamentals. 1. ed. New York: Wiley, 2001.",
     "FERREIRA, Rodrigo Siqueira. Banco de dados: teoria e prática. 1. ed. São Paulo: Novatec, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
   ]
-},
-{
-  "Nome (ptBR)": "Metodologia Científica para Inteligência Artificial",
-  "Nome (enUS)": "Scientific Methodology for Artificial Intelligence",
-  "Código": "BCC807",
+},{
+  "Nome (ptBR)": "Aprendizado por Reforço",
+  "Nome (enUS)": "Reinforcement Learning",
+  "Código": "BCC131",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
   "Carga Horária": {
     "Total": "60",
     "Extensionista": "0",
-    "Teórica": "4",
-    "Prática": "0"
+    "Teórica": "4 horas/aula semanais",
+    "Prática": "0 horas/aula semanais"
   },
-  "Ementa": "Estudo dos fundamentos epistemológicos da ciência e de seus métodos, com ênfase na filosofia da ciência. Análise dos elementos da pesquisa científica em ciência da computação, incluindo formulação de problemas, hipóteses e desenho experimental. Abordagem da metodologia científica própria da pesquisa em inteligência artificial, com foco em avaliação empírica, validade, reprodutibilidade, interpretação de resultados experimentais e ética",
+  "Ementa": "Aprendizado por reforço: formulação, modelagem, métodos baseados em valores, métodos baseados em políticas, métodos baseados em modelos, aprendizado por imitação, meta-learning.",
   "Conteúdo Programático": [
-  "Ciência e Demarcação Científica: critérios de cientificidade, distinção entre ciência, pseudociência e tecnologia, e limites do conhecimento científico.",
-  "Observação, Indução e Teoria: papel da observação na ciência, crítica ao indutivismo e influência das teorias na produção do conhecimento científico.",
-  "Progresso Científico e Mudança de Paradigmas: falsificacionismo, paradigmas científicos, programas de pesquisa e pluralismo metodológico.",
-  "Pesquisa em Ciência da Computação e Inteligência Artificial: natureza da pesquisa em computação, distinção entre pesquisa científica, experimental e desenvolvimento tecnológico.",
-  "Busca e avaliação de fontes bibliográficas: bases de dados, periódicos e conferências em IA.",
-  "Formulação de Problemas e Hipóteses: definição de problemas científicos, abstrações, modelos, hipóteses e objetivos de pesquisa.",
-  "Pesquisa Empírica em Inteligência Artificial: características da investigação empírica em IA e aprendizado de máquina, estudos exploratórios e confirmatórios.",
-  "Desenho Experimental e Avaliação em Inteligência Artificial: experimentos controlados, comparação de métodos, métricas e interpretação de resultados.",
-  "Rigor Científico, Validade e Reprodutibilidade em IA: validade interna e externa, vieses experimentais, reprodutibilidade e boas práticas em pesquisa em IA.",
-  "Avaliação Empírica e Inferência em Sistemas de IA: métricas de desempenho, testes estatísticos, comparação de modelos e interpretação científica de evidências.",
-  "Ética em pesquisa científica: plágio, integridade, viés algorítmico e responsabilidade social."
-],
+    "Formulação de problemas de aprendizado por reforço (espaço de ações, espaço de estados, ambiente)",
+    "Métodos tabulares (Programação Dinâmica, Monte Carlo, Diferença Temporal)",
+    "Aproximação de funções (Deep Q-networks)",
+    "Gradientes de políticas (REINFORCE)",
+    "Aprendizado por reforço baseado em modelos",
+    "Aprendizado por imitação",
+    "Meta-learning"
+  ],
   "Bibliografia Básica": [
-      "CHALMERS, Alan F. O que é ciência, afinal? São Paulo: Brasiliense, 1993.",
-      "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para ciência da computação. 2. ed. Rio de Janeiro: Elsevier, 2014.",
-      "PINEAU, Joelle et al. Improving reproducibility in machine learning research. Journal of Machine Learning Research, v. 22, n. 164, p. 1–20, 2021.",
-      "RAINIO, O.; TEUHO, J.; KLÉN, R. Evaluation metrics and statistical tests for machine learning. Scientific Reports, London, v. 14, p. 6086, 2024. DOI: 10.1038/s41598-024-56706-x. Disponível em: <https://doi.org/10.1038/s41598-024-56706-x>. Acesso em: dez. 2025."
+    "SUTTON, Richard S.; BARTO, Andrew G. Reinforcement learning: an introduction. 2. ed. Cambridge: MIT Press, 2018.",
+    "GRAESSER, Laura; KENG, Wah Loon. Foundations of deep reinforcement learning: theory and practice in Python. Boston: Addison-Wesley Professional, 2019.",
+    "LUGER, George F. Inteligência artificial. 6. ed. São Paulo: Pearson, 2014."
   ],
   "Bibliografia Complementar": [
-    "NEWELL, Allen; SIMON, Herbert A. Computer science as empirical inquiry: symbols and search. Communications of the ACM, v. 19, n. 3, p. 113–126, 1976.",
-    "COHEN, Paul R. Empirical methods for artificial intelligence. AI Magazine, v. 16, n. 1, p. 63–73, 1995.",
-    "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para ciência da computação. 1. ed. Rio de Janeiro: Elsevier, 2009.",
-    "KAPLAN, David M. Philosophy of Technology. 2. ed. New York: Routledge, 2017.",
-    "ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023, NBR 10520 e demais normas para trabalhos acadêmicos. Disponível em: https://www.abnt.org.br. Acesso em: jun/2025.",
-    "LIPTON, Zachary C.; STEINHARDT, Jacob. Troubling trends in machine learning scholarship. arXiv preprint, arXiv:1807.03341, 2018.",
-    "OLTEANU, Alexandra; BLODGETT, Su Lin; BALAYN, Agathe; WANG, Angelina; DIAZ, Fernando; CALMON, Flavio du Pin; MITCHELL, Margaret; EKSTRAND, Michael; BINNS, Reuben; BAROCAS, Solon. Rigor in AI: doing rigorous AI work requires a broader, responsible AI-informed conception of rigor. arXiv preprint, arXiv:2506.14652, 2025. Disponível em: <https://arxiv.org/abs/2506.14652>. Acesso em: dez. 2025.",
-    "HERRMANN, Moritz; LANGE, F. Julian D.; EGGENSPERGER, Katharina; CASALICCHIO, Giuseppe; WEVER, Marcel; FEURER, Matthias; RÜGAMER, David; HÜLLERMEIER, Eyke; BOULESTEIX, Anne-Laure; BISCHL, Bernd. Position: why we must rethink empirical research in machine learning. arXiv preprint, arXiv:2405.02200, 2024. Disponível em: <https://arxiv.org/abs/2405.02200>. Acesso em: dez. 2025."
+    "RUSSELL, Stuart J.; NORVIG, Peter. Artificial intelligence: a modern approach. 2. ed. Upper Saddle River: Prentice Hall, 2003.",
+    "POOLE, David L.; MACKWORTH, Alan K. Artificial intelligence: foundations of computational agents. 2. ed. Cambridge: Cambridge University Press, 2017. Disponível em: https://artint.info/2e/html/ArtInt2e.html.",
+    "FACELI, Katti; LORENA, Ana C.; GAMA, João; et al. Inteligência artificial: uma abordagem de aprendizado de máquina. Porto Alegre: Grupo GEN, 2021. Disponível em: https://integrada.minhabiblioteca.com.br/\\#/books/9788521637509."
   ]
 },
 {
-  "Nome (ptBR)": "Visão Computacional e Processamento de Imagem",
-  "Nome (enUS)": "Computer Vision and Image Processing",
-  "Código": "BCC808",
+  "Nome (ptBR)": "Fundamentos da Computação Paralela e Distribuída para Inteligência Artificial",
+  "Nome (enUS)": "Fundamentals of Parallel and Distributed Computing for Artificial Intelligence",
+  "Código": "BIA109",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -375,38 +403,39 @@
     "Teórica": "4",
     "Prática": "0"
   },
-  "Ementa": "Introdução aos fundamentos da visão computacional e processamento de imagem digital. Técnicas para análise, transformação e interpretação de imagens. Aplicações em reconhecimento, segmentação e análise visual.",
+  "Ementa": "Estudo dos fundamentos computacionais para a execução de aplicações de Inteligência Artificial. Modelo de Von Neumann e suas limitações, concorrência, paralelismo e distribuição. Processos, threads, sincronização e paralelismo de tarefas e de dados. Métricas de desempenho e escalabilidade. Arquiteturas paralelas e sistemas distribuídos, computação em nuvem para IA e técnicas de treinamento paralelo e distribuído de modelos. Estudo de caso integrador em aprendizado dividido, distribuído e federado.",
   "Conteúdo Programático": [
-    "Fundamentos da formação de imagens e percepção visual.",
-    "Representação digital de imagens: pixels, cores e formatos.",
-    "Operações básicas de processamento de imagens: filtragem, realce e transformação.",
-    "Detecção de bordas, contornos e extração de características.",
-    "Segmentação de imagens: métodos baseados em limiarização, region growing e clustering.",
-    "Morfologia matemática e processamento de formas.",
-    "Reconhecimento de padrões e classificação de imagens.",
-    "Visão computacional baseada em aprendizado: redes neurais convolucionais (CNNs).",
-    "Detecção e rastreamento de objetos em vídeo.",
-    "Aplicações práticas: reconhecimento facial, visão para robótica, análise médica."
+    "Modelo de Von Neumann, gargalos de comunicação e limitações para workloads de Inteligência Artificial",
+    "Evolução da infraestrutura de computação para Inteligência Artificial",
+    "Concorrência, paralelismo e distribuição: definições e distinções conceituais",
+    "Processos, threads e execução concorrente em memória compartilhada",
+    "Condições de corrida e princípios básicos de sincronização",
+    "Paralelismo de tarefas e de dados",
+    "Métricas de desempenho e escalabilidade: speedup, eficiência, Leis de Amdahl e Gustafson",
+    "Taxonomia de Flynn e arquiteturas paralelas e distribuídas modernas",
+    "Fundamentos de sistemas distribuídos: memória distribuída, comunicação entre processos, sistemas de nomes e sincronização",
+    "Computação em nuvem para Inteligência Artificial: IaaS, PaaS, SaaS, elasticidade, escalabilidade e custos computacionais",
+    "Treinamento paralelo de modelos de Inteligência Artificial",
+    "Treinamento distribuído de modelos de Inteligência Artificial",
+    "Estudo de caso: Introdução ao aprendizado dividido (split learning), distribuído (distributed learning) e federado (federated learning)"
   ],
   "Bibliografia Básica": [
-  "GONZALEZ, Rafael C.; WOODS, Richard E. Digital image processing. 3. ed. São Paulo: Pearson, 2009. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 22 dez. 2025.",
-  "BARELLI, Felipe. Introduction to computer vision: a practical approach with Python and OpenCV. São Paulo: Casa do Código, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 22 dez. 2025.",
-  "SZELISKI, Richard. Computer vision: algorithms and applications. 2. ed. Cham: Springer, 2022. E-book. DOI: https://doi.org/10.1007/978-3-030-34372-9."
-]
-,
+    "SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. Fundamentos de sistemas operacionais. Nova edição. São Paulo: LTC, 2015. ISBN 978-85-216-2321-2. Disponível em: <https://integrada.minhabiblioteca.com.br/\\#/books/978-85-216-3001-2>. Acesso em: jun. 2025.",
+    "TANENBAUM, Andrew S.; STEEN, Maarten van. Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo: Pearson Prentice Hall, 2007. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/411>. Acesso em: jun. 2025.",
+    "GRAMA, Ananth; GUPTA, Anshul; KARYPIS, George; KUMAR, Vipin. Introduction to parallel computing. 2. ed. Upper Saddle River: Pearson, 2003."
+  ],
   "Bibliografia Complementar": [
-  "SZAJDAK, Marek. Introdução à visão computacional. 1. ed. Rio de Janeiro: LTC, 2021.",
-  "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep learning. Cambridge: MIT Press, 2016.",
-  "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013.",
-  "FORSYTH, David A.; PONCE, Jean. Computer vision: a modern approach. 2. ed. Boston: Pearson, 2011.",
-  "BALLARD, Dana H.; BROWN, Christopher M. Computer vision. Englewood Cliffs: Prentice Hall, 1982.",
-  "ZHAO, Sheng et al. Deep learning for computer vision: a brief review. IEEE Access, v. 7, p. 156973–156984, 2019."
-]
-}, 
+    "TANENBAUM, Andrew S. Sistemas operacionais modernos. 4. ed. São Paulo: Pearson, 2009. ISBN 978-85-430-0567-6. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/36876>. Acesso em: jun. 2025.",
+    "DEAN, Jeffrey; GHEMAWAT, Sanjay. MapReduce: simplified data processing on large clusters. Communications of the ACM, New York, v. 51, n. 1, p. 107–113, 2008.",
+    "PACHECO, Peter S. An introduction to parallel programming. 2. ed. Waltham: Morgan Kaufmann, 2011.",
+    "PATTERSON, David A.; HENNESSY, John L. Computer architecture: a quantitative approach. 4. ed. Amsterdam: Elsevier, 2009. ISBN 978-0-12-370490-0.",
+    "COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon. Sistemas distribuídos: conceitos e projeto. Tradução de Alexandre Carissimi e João Tortello. 5. ed. Porto Alegre: Bookman, 2013. Disponível em: <https://integrada.minhabiblioteca.com.br/\\#/books/9788582600542>. Acesso em: jun. 2025."
+  ]
+},
 {
   "Nome (ptBR)": "Processamento de Linguagem Natural",
   "Nome (enUS)": "Natural Language Processing",
-  "Código": "BCC809",
+  "Código": "BIA110",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -448,9 +477,9 @@
   ]
 },
 {
-  "Nome (ptBR)": "Computação de Alto Desempenho",
-  "Nome (enUS)": "High Performance Computing",
-  "Código": "BCC810",
+  "Nome (ptBR)": "Visão Computacional e Processamento de Imagem",
+  "Nome (enUS)": "Computer Vision and Image Processing",
+  "Código": "BIA111",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -460,36 +489,80 @@
     "Teórica": "4",
     "Prática": "0"
   },
-  "Ementa": "Estudo das arquiteturas, técnicas e ferramentas para computação de alto desempenho (HPC). Paralelismo, programação concorrente, arquiteturas multicore e distribuídas, otimização de código e aplicações científicas e de engenharia.",
+  "Ementa": "Introdução aos fundamentos da visão computacional e processamento de imagem digital. Técnicas para análise, transformação e interpretação de imagens. Aplicações em reconhecimento, segmentação e análise visual.",
   "Conteúdo Programático": [
-    "Introdução à computação de alto desempenho: conceitos e aplicações.",
-    "Arquiteturas paralelas: SIMD, MIMD, multiprocessadores e clusters.",
-    "Memória compartilhada vs memória distribuída.",
-    "Programação paralela: paradigmas e modelos (threads, MPI, OpenMP).",
-    "Sincronização e comunicação entre processos.",
-    "Técnicas de otimização e escalabilidade de programas.",
-    "Computação em GPU: conceitos e programação com CUDA/OpenCL.",
-    "Ferramentas e bibliotecas para HPC.",
-    "Gerenciamento de recursos e ambientes de execução HPC.",
-    "Estudos de caso: simulações científicas, aprendizado de máquina em HPC, processamento de grandes volumes de dados."
+    "Fundamentos da formação de imagens e percepção visual.",
+    "Representação digital de imagens: pixels, cores e formatos.",
+    "Operações básicas de processamento de imagens: filtragem, realce e transformação.",
+    "Detecção de bordas, contornos e extração de características.",
+    "Segmentação de imagens: métodos baseados em limiarização, region growing e clustering.",
+    "Morfologia matemática e processamento de formas.",
+    "Reconhecimento de padrões e classificação de imagens.",
+    "Visão computacional baseada em aprendizado: redes neurais convolucionais (CNNs).",
+    "Detecção e rastreamento de objetos em vídeo.",
+    "Aplicações práticas: reconhecimento facial, visão para robótica, análise médica."
   ],
   "Bibliografia Básica": [
-    "PACHECO, Peter S. An Introduction to Parallel Programming. 2. ed. Morgan Kaufmann, 2011.",
-    "GRAMA, Ananth; GUPTA, Anshul; KARYPIS, George; KUMAR, Vipin. Introduction to Parallel Computing. 2. ed. Pearson, 2003.",
-    "KIRKPATRICK, Scott. CUDA Programming: A Developer’s Guide to Parallel Computing with GPUs. Addison-Wesley, 2013."
+  "GONZALEZ, Rafael C.; WOODS, Richard E. Digital image processing. 3. ed. São Paulo: Pearson, 2009. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 22 dez. 2025.",
+  "BARELLI, Felipe. Introduction to computer vision: a practical approach with Python and OpenCV. São Paulo: Casa do Código, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 22 dez. 2025.",
+  "SZELISKI, Richard. Computer vision: algorithms and applications. 2. ed. Cham: Springer, 2022. E-book. DOI: https://doi.org/10.1007/978-3-030-34372-9."
+]
+,
+  "Bibliografia Complementar": [
+  "SZAJDAK, Marek. Introdução à visão computacional. 1. ed. Rio de Janeiro: LTC, 2021.",
+  "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep learning. Cambridge: MIT Press, 2016.",
+  "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013.",
+  "FORSYTH, David A.; PONCE, Jean. Computer vision: a modern approach. 2. ed. Boston: Pearson, 2011.",
+  "BALLARD, Dana H.; BROWN, Christopher M. Computer vision. Englewood Cliffs: Prentice Hall, 1982.",
+  "ZHAO, Sheng et al. Deep learning for computer vision: a brief review. IEEE Access, v. 7, p. 156973–156984, 2019."
+]
+},{
+  "Nome (ptBR)": "Metodologia Científica para Inteligência Artificial",
+  "Nome (enUS)": "Scientific Methodology for Artificial Intelligence",
+  "Código": "BIA112",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos fundamentos epistemológicos da ciência e de seus métodos, com ênfase na filosofia da ciência. Análise dos elementos da pesquisa científica em ciência da computação, incluindo formulação de problemas, hipóteses e desenho experimental. Abordagem da metodologia científica própria da pesquisa em inteligência artificial, com foco em avaliação empírica, validade, reprodutibilidade, interpretação de resultados experimentais e ética",
+  "Conteúdo Programático": [
+  "Ciência e Demarcação Científica: critérios de cientificidade, distinção entre ciência, pseudociência e tecnologia, e limites do conhecimento científico.",
+  "Observação, Indução e Teoria: papel da observação na ciência, crítica ao indutivismo e influência das teorias na produção do conhecimento científico.",
+  "Progresso Científico e Mudança de Paradigmas: falsificacionismo, paradigmas científicos, programas de pesquisa e pluralismo metodológico.",
+  "Pesquisa em Ciência da Computação e Inteligência Artificial: natureza da pesquisa em computação, distinção entre pesquisa científica, experimental e desenvolvimento tecnológico.",
+  "Busca e avaliação de fontes bibliográficas: bases de dados, periódicos e conferências em IA.",
+  "Formulação de Problemas e Hipóteses: definição de problemas científicos, abstrações, modelos, hipóteses e objetivos de pesquisa.",
+  "Pesquisa Empírica em Inteligência Artificial: características da investigação empírica em IA e aprendizado de máquina, estudos exploratórios e confirmatórios.",
+  "Desenho Experimental e Avaliação em Inteligência Artificial: experimentos controlados, comparação de métodos, métricas e interpretação de resultados.",
+  "Rigor Científico, Validade e Reprodutibilidade em IA: validade interna e externa, vieses experimentais, reprodutibilidade e boas práticas em pesquisa em IA.",
+  "Avaliação Empírica e Inferência em Sistemas de IA: métricas de desempenho, testes estatísticos, comparação de modelos e interpretação científica de evidências.",
+  "Ética em pesquisa científica: plágio, integridade, viés algorítmico e responsabilidade social."
+],
+  "Bibliografia Básica": [
+      "CHALMERS, Alan F. O que é ciência, afinal? São Paulo: Brasiliense, 1993.",
+      "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para ciência da computação. 2. ed. Rio de Janeiro: Elsevier, 2014.",
+      "PINEAU, Joelle et al. Improving reproducibility in machine learning research. Journal of Machine Learning Research, v. 22, n. 164, p. 1–20, 2021.",
+      "RAINIO, O.; TEUHO, J.; KLÉN, R. Evaluation metrics and statistical tests for machine learning. Scientific Reports, London, v. 14, p. 6086, 2024. DOI: 10.1038/s41598-024-56706-x. Disponível em: <https://doi.org/10.1038/s41598-024-56706-x>. Acesso em: dez. 2025."
   ],
   "Bibliografia Complementar": [
-    "HERLIHY, Maurice; SHAVIT, Nir. The Art of Multiprocessor Programming. Revised Reprint. Morgan Kaufmann, 2011.",
-    "CHANDRA, Ramesh; MENON, Ravi; FINKELSTEIN, Albert. Parallel Programming in OpenMP. Morgan Kaufmann, 2001.",
-    "RAJ, Rakesh. High Performance Computing: Paradigm and Infrastructure. Wiley, 2017.",
-    "KARYPIS, George; GUPTA, Anshul. Parallel Programming for Modern HPC Architectures. Springer, 2020.",
-    "RUSSELL, Stuart; NORVIG, Peter. Inteligência Artificial. 3. ed. Pearson, 2013. (Capítulo sobre paralelismo em IA)."
+    "NEWELL, Allen; SIMON, Herbert A. Computer science as empirical inquiry: symbols and search. Communications of the ACM, v. 19, n. 3, p. 113–126, 1976.",
+    "COHEN, Paul R. Empirical methods for artificial intelligence. AI Magazine, v. 16, n. 1, p. 63–73, 1995.",
+    "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para ciência da computação. 1. ed. Rio de Janeiro: Elsevier, 2009.",
+    "KAPLAN, David M. Philosophy of Technology. 2. ed. New York: Routledge, 2017.",
+    "ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023, NBR 10520 e demais normas para trabalhos acadêmicos. Disponível em: https://www.abnt.org.br. Acesso em: jun/2025.",
+    "LIPTON, Zachary C.; STEINHARDT, Jacob. Troubling trends in machine learning scholarship. arXiv preprint, arXiv:1807.03341, 2018.",
+    "OLTEANU, Alexandra; BLODGETT, Su Lin; BALAYN, Agathe; WANG, Angelina; DIAZ, Fernando; CALMON, Flavio du Pin; MITCHELL, Margaret; EKSTRAND, Michael; BINNS, Reuben; BAROCAS, Solon. Rigor in AI: doing rigorous AI work requires a broader, responsible AI-informed conception of rigor. arXiv preprint, arXiv:2506.14652, 2025. Disponível em: <https://arxiv.org/abs/2506.14652>. Acesso em: dez. 2025.",
+    "HERRMANN, Moritz; LANGE, F. Julian D.; EGGENSPERGER, Katharina; CASALICCHIO, Giuseppe; WEVER, Marcel; FEURER, Matthias; RÜGAMER, David; HÜLLERMEIER, Eyke; BOULESTEIX, Anne-Laure; BISCHL, Bernd. Position: why we must rethink empirical research in machine learning. arXiv preprint, arXiv:2405.02200, 2024. Disponível em: <https://arxiv.org/abs/2405.02200>. Acesso em: dez. 2025."
   ]
-},
-{
-  "Nome (ptBR)": "Processamento de Dados Massivos",
-  "Nome (enUS)": "Massive Data Processing",
-  "Código": "BCC811",
+},{
+  "Nome (ptBR)": "Segurança, Ética e Sociedade em Inteligência Artificial",
+  "Nome (enUS)": "AI Ethics, Safety and Risk",
+  "Código": "BIA113",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -499,36 +572,33 @@
     "Teórica": "4",
     "Prática": "0"
   },
-  "Ementa": "Estudo das tecnologias, arquiteturas e técnicas para processamento eficiente de grandes volumes de dados. Sistemas distribuídos, frameworks para Big Data, processamento em lote e em tempo real, armazenamento e análise de dados massivos.",
+  "Ementa": "Estudo dos riscos associados a sistemas de Inteligência Artificial e dos fundamentos técnicos que sustentam tais riscos. Análise de riscos catastróficos, uso malicioso e dinâmicas competitivas no desenvolvimento de IA. Fundamentos de Inteligência Artificial relevantes para segurança, incluindo aprendizado de máquina, deep learning, leis de escala e velocidade de desenvolvimento. Segurança de agentes individuais, abordando monitoramento, robustez, alinhamento e capacidades emergentes. Engenharia de segurança aplicada a sistemas de IA, incluindo confiabilidade, decomposição de riscos, falhas de componentes, fatores sistêmicos e eventos extremos. Análise da IA como sistema complexo e sociotécnico.",
   "Conteúdo Programático": [
-    "Conceitos e desafios do Big Data: volume, variedade, velocidade e veracidade.",
-    "Arquiteturas para processamento de dados massivos: sistemas distribuídos e em nuvem.",
-    "Modelos de programação paralela: MapReduce e suas variações.",
-    "Frameworks para Big Data",
-    "Armazenamento escalável: sistemas de arquivos distribuídos e bancos NoSQL.",
-    "Processamento em tempo real: stream processing e ferramentas associadas.",
-    "Técnicas de pré-processamento, limpeza e transformação de dados massivos.",
-    "Análise e mineração de dados em larga escala.",
-    "Gerenciamento de clusters e orquestração de tarefas.",
-    "Casos de uso: aplicações em indústria, ciência e serviços."
+    "Visão Geral dos Riscos Catastróficos da Inteligência Artificial: principais riscos existenciais e sistêmicos da IA, incluindo uso malicioso, corrida tecnológica e falhas organizacionais.",
+    "Fundamentos de Inteligência Artificial: conceitos básicos de IA, aprendizado de máquina e aprendizado profundo, com ênfase em leis de escala e ritmo de desenvolvimento.",
+    "Segurança em Sistemas de Agente Único: problemas de alinhamento, robustez, monitoramento e segurança em agentes individuais de IA.",
+    "Engenharia de Segurança: princípios e métodos de engenharia de segurança aplicados a sistemas de IA, incluindo confiabilidade e análise de falhas.",
+    "Sistemas Complexos: noções de sistemas complexos e comportamentos emergentes relevantes para a segurança em IA.",
+    "Inteligência Artificial Benéfica e Ética das Máquinas: fundamentos éticos, legais e sociais para o desenvolvimento de sistemas de IA alinhados a valores humanos.",
+    "Problemas de Ação Coletiva: desafios de cooperação, conflito e incentivos no desenvolvimento e uso da IA.",
+    "Governança: estruturas e políticas de governança da IA em níveis corporativo, nacional e internacional."
   ],
   "Bibliografia Básica": [
-    "MARRS, Anthony et al. Big Data: Principles and best practices of scalable real-time data systems. Manning Publications, 2015.",
-    "WHITE, Tom. Hadoop: The Definitive Guide. 4. ed. O'Reilly Media, 2015.",
-    "ZAHARIA, Matei et al. Learning Spark: Lightning-Fast Big Data Analysis. 2. ed. O'Reilly Media, 2016."
+    "HENDRYCKS, Dan. Introduction to AI Safety, Ethics and Society. Boca Raton: Taylor \\& Francis, 2024. ISBN 978-1-032-79802-8. Disponível em: <https://www.aisafetybook.com>. Acesso em: 17 dez. 2025.",
+    "RUSSELL, Stuart. Inteligência artificial a nosso favor: como manter o controle sobre a tecnologia. Tradução de Clóvis Marques. São Paulo: Companhia das Letras, 2020.",
+    "AMODEI, Dario et al. Concrete problems in AI safety. arXiv preprint, arXiv:1606.06565, 2016. Disponível em: <https://arxiv.org/abs/1606.06565>. Acesso em: 17 dez. 2025."
   ],
   "Bibliografia Complementar": [
-    "DEAN, Jeffrey; GHEMAWAT, Sanjay. MapReduce: Simplified Data Processing on Large Clusters. Communications of the ACM, 2008.",
-    "KLEPPMANN, Martin. Designing Data-Intensive Applications. O'Reilly Media, 2017.",
-    "KARAU, Holden et al. High Performance Spark. O'Reilly Media, 2017.",
-    "AGRAWAL, Rakesh; IMIELIŃSKI, Tomasz; SWAMI, Arun. Mining Association Rules between Sets of Items in Large Databases. ACM SIGMOD Record, 1993.",
-    "WHITE, Tom. Hadoop: The Definitive Guide. O'Reilly Media, 2012."
+    "BOSTROM, Nick. Superinteligência: caminhos, perigos e estratégias. Tradução de Laura Teixeira Motta. Lisboa: Gradiva, 2017.",
+    "PERROW, Charles. Acidentes normais: vivendo com tecnologias de alto risco. São Paulo: Editora Senac São Paulo, 2007.",
+    "LEWIS, David et al. Engineering safe AI systems. Communications of the ACM, New York, v. 65, n. 3, p. 36–38, 2022.",
+    "BRASIL. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021. Disponível em: <https://www.gov.br/mcti>. Acesso em: 17 dez. 2025."
   ]
 },
  {
   "Nome (ptBR)": "Projeto 1: Resolução de Problemas do Mundo Real",
   "Nome (enUS)": "Project 1: Real-World Problem Solving",
-  "Código": "BCC901",
+  "Código": "BIA201",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -569,7 +639,7 @@
 {
   "Nome (ptBR)": "Projeto 2: Resolução de Problemas do Mundo Real",
   "Nome (enUS)": "Project 2: Real-World Problem Solving",
-  "Código": "BCC902",
+  "Código": "BIA202",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -610,7 +680,7 @@
 {
   "Nome (ptBR)": "Projeto 3: Resolução de Problemas do Mundo Real",
   "Nome (enUS)": "Project 3: Real-World Problem Solving",
-  "Código": "BCC903",
+  "Código": "BIA203",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -651,7 +721,7 @@
 {
   "Nome (ptBR)": "Projeto 4: Resolução de Problemas do Mundo Real",
   "Nome (enUS)": "Project 4: Real-World Problem Solving",
-  "Código": "BCC904",
+  "Código": "BIA204",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -691,7 +761,7 @@
 },{
   "Nome (ptBR)": "Monografia",
   "Nome (enUS)": "Undergraduate Thesis",
-  "Código": "BCC905",
+  "Código": "BIA205",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -722,125 +792,6 @@
     "FERNANDEZ, Brena Paula Magno. Métodos e técnicas de pesquisa. 7. ed. Editora Saraiva, 2012.",
     "CERVO, Amado L.; BERVIAN, Pedro A.; SILVA, Roberto da. Metodologia Científica. 6. ed. São Paulo: Pearson, 2006."
   ]
-},{
-  "Nome (ptBR)": "Segurança, Ética e Sociedade em Inteligência Artificial",
-  "Nome (enUS)": "AI Ethics, Safety and Risk",
-  "Código": "BCC8XX",
-  "Departamento": "Departamento de Computação (DECOM)",
-  "Unidade Acadêmica": "ICEB",
-  "Modalidade": "presencial",
-  "Carga Horária": {
-    "Total": "60",
-    "Extensionista": "0",
-    "Teórica": "4",
-    "Prática": "0"
-  },
-  "Ementa": "Estudo dos riscos associados a sistemas de Inteligência Artificial e dos fundamentos técnicos que sustentam tais riscos. Análise de riscos catastróficos, uso malicioso e dinâmicas competitivas no desenvolvimento de IA. Fundamentos de Inteligência Artificial relevantes para segurança, incluindo aprendizado de máquina, deep learning, leis de escala e velocidade de desenvolvimento. Segurança de agentes individuais, abordando monitoramento, robustez, alinhamento e capacidades emergentes. Engenharia de segurança aplicada a sistemas de IA, incluindo confiabilidade, decomposição de riscos, falhas de componentes, fatores sistêmicos e eventos extremos. Análise da IA como sistema complexo e sociotécnico.",
-  "Conteúdo Programático": [
-    "Visão Geral dos Riscos Catastróficos da Inteligência Artificial: principais riscos existenciais e sistêmicos da IA, incluindo uso malicioso, corrida tecnológica e falhas organizacionais.",
-    "Fundamentos de Inteligência Artificial: conceitos básicos de IA, aprendizado de máquina e aprendizado profundo, com ênfase em leis de escala e ritmo de desenvolvimento.",
-    "Segurança em Sistemas de Agente Único: problemas de alinhamento, robustez, monitoramento e segurança em agentes individuais de IA.",
-    "Engenharia de Segurança: princípios e métodos de engenharia de segurança aplicados a sistemas de IA, incluindo confiabilidade e análise de falhas.",
-    "Sistemas Complexos: noções de sistemas complexos e comportamentos emergentes relevantes para a segurança em IA.",
-    "Inteligência Artificial Benéfica e Ética das Máquinas: fundamentos éticos, legais e sociais para o desenvolvimento de sistemas de IA alinhados a valores humanos.",
-    "Problemas de Ação Coletiva: desafios de cooperação, conflito e incentivos no desenvolvimento e uso da IA.",
-    "Governança: estruturas e políticas de governança da IA em níveis corporativo, nacional e internacional."
-  ],
-  "Bibliografia Básica": [
-    "HENDRYCKS, Dan. Introduction to AI Safety, Ethics and Society. Boca Raton: Taylor \\& Francis, 2024. ISBN 978-1-032-79802-8. Disponível em: <https://www.aisafetybook.com>. Acesso em: 17 dez. 2025.",
-    "RUSSELL, Stuart. Inteligência artificial a nosso favor: como manter o controle sobre a tecnologia. Tradução de Clóvis Marques. São Paulo: Companhia das Letras, 2020.",
-    "AMODEI, Dario et al. Concrete problems in AI safety. arXiv preprint, arXiv:1606.06565, 2016. Disponível em: <https://arxiv.org/abs/1606.06565>. Acesso em: 17 dez. 2025."
-  ],
-  "Bibliografia Complementar": [
-    "BOSTROM, Nick. Superinteligência: caminhos, perigos e estratégias. Tradução de Laura Teixeira Motta. Lisboa: Gradiva, 2017.",
-    "PERROW, Charles. Acidentes normais: vivendo com tecnologias de alto risco. São Paulo: Editora Senac São Paulo, 2007.",
-    "LEWIS, David et al. Engineering safe AI systems. Communications of the ACM, New York, v. 65, n. 3, p. 36–38, 2022.",
-    "BRASIL. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021. Disponível em: <https://www.gov.br/mcti>. Acesso em: 17 dez. 2025."
-  ]
-},
-{
-  "Nome (ptBR)": "Introdução à Ciência de Dados",
-  "Nome (enUS)": "Introduction to Data Science",
-  "Código": "BCCXXX",
-  "Departamento": "Departamento de Computação (DECOM)",
-  "Unidade Acadêmica": "ICEB",
-  "Modalidade": "presencial",
-  "Carga Horária": {
-    "Total": "60",
-    "Extensionista": "0",
-    "Teórica": "4",
-    "Prática": "0"
-  },
-  "Ementa": "Introdução à Ciência de Dados. Pré-processamento de dados. Análise exploratória de dados. Processamento de dados em larga escala. Workflow e rastreamento de experimentos. Ciência de Dados Responsável. Tópicos avançados em ciência de dados",
-  "Conteúdo Programático": [
-    "Introdução à Ciência de Dados. ",
-    "Tipos de dados.",
-    "Aquisição de dados.",
-    "Preparação de dados. ",
-    "Análise exploratória de dados: visualização, estatísticas descritivas e pré-processamento.",
-    "Processamento de dados em larga escala.",
-    "Workflow e rastreamento de experimentos.",
-    "Tópicos avançados em Ciência de Dados.",
-    "Ciência de Dados Ética e Responsável."
-  ],
-  "Bibliografia Básica": [
-    "CARVALHO, Andre Carlos Ponce de Leon Ferreira de; MENEZES, Angelo Garangau; BONIDIA, Robson Parmezan. Ciência de dados: fundamentos e aplicações. 2024.",
-    "TAN, Pang-Ning., Steinbach, Michael., Kumar, Vipin. Introduction to Data Mining. Alemanha: Pearson Addison Wesley, 2006.",
-    "HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. The Elements of Statistical Learning. 2. ed. New York: Springer, 2009.",
-    "MURPHY, Kevin P. Probabilistic Machine Learning: An Introduction. Cambridge: MIT Press, 2022.",
-    "JAMES, Gareth et al. An Introduction to Statistical Learning. 2. ed. New York: Springer, 2021."
-  ],
-  "Bibliografia Complementar": [
-    "BRUCE, Peter; BRUCE, Andrew; GEDECK, Peter. Practical statistics for data scientists: 50+ essential concepts using R and Python. O'Reilly Media, 2020.",
-    "MÜLLER, Andreas C.; GUIDO, Sarah. Introduction to Machine Learning with Python. 1. ed. O’Reilly, 2016.",
-    "BISHOP, Christopher M. Pattern Recognition and Machine Learning. New York: Springer, 2006.",
-    "AGARWAL, Charu C.; ZHAO, Zhi-Hua. Advanced Methods for Unsupervised Learning. Springer, 2023.",
-    "OLIVEIRA, Hélio C. V. de. Mineração de dados: conceitos, algoritmos, aplicações. 2. ed. Rio de Janeiro: LTC, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
-  ]
-},
-{
-  "Nome (ptBR)": "Fundamentos da Computação Paralela e Distribuída para Inteligência Artificial",
-  "Nome (enUS)": "Fundamentals of Parallel and Distributed Computing for Artificial Intelligence",
-  "Código": "BCCXXX",
-  "Departamento": "Departamento de Computação (DECOM)",
-  "Unidade Acadêmica": "ICEB",
-  "Modalidade": "presencial",
-  "Carga Horária": {
-    "Total": "60",
-    "Extensionista": "0",
-    "Teórica": "4",
-    "Prática": "0"
-  },
-  "Ementa": "Estudo dos fundamentos computacionais para a execução de aplicações de Inteligência Artificial. Modelo de Von Neumann e suas limitações, concorrência, paralelismo e distribuição. Processos, threads, sincronização e paralelismo de tarefas e de dados. Métricas de desempenho e escalabilidade. Arquiteturas paralelas e sistemas distribuídos, computação em nuvem para IA e técnicas de treinamento paralelo e distribuído de modelos. Estudo de caso integrador em aprendizado dividido, distribuído e federado.",
-  "Conteúdo Programático": [
-    "Modelo de Von Neumann, gargalos de comunicação e limitações para workloads de Inteligência Artificial",
-    "Evolução da infraestrutura de computação para Inteligência Artificial",
-    "Concorrência, paralelismo e distribuição: definições e distinções conceituais",
-    "Processos, threads e execução concorrente em memória compartilhada",
-    "Condições de corrida e princípios básicos de sincronização",
-    "Paralelismo de tarefas e de dados",
-    "Métricas de desempenho e escalabilidade: speedup, eficiência, Leis de Amdahl e Gustafson",
-    "Taxonomia de Flynn e arquiteturas paralelas e distribuídas modernas",
-    "Fundamentos de sistemas distribuídos: memória distribuída, comunicação entre processos, sistemas de nomes e sincronização",
-    "Computação em nuvem para Inteligência Artificial: IaaS, PaaS, SaaS, elasticidade, escalabilidade e custos computacionais",
-    "Treinamento paralelo de modelos de Inteligência Artificial",
-    "Treinamento distribuído de modelos de Inteligência Artificial",
-    "Estudo de caso: Introdução ao aprendizado dividido (split learning), distribuído (distributed learning) e federado (federated learning)"
-  ],
-  "Bibliografia Básica": [
-    "SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. Fundamentos de sistemas operacionais. Nova edição. São Paulo: LTC, 2015. ISBN 978-85-216-2321-2. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/978-85-216-3001-2>. Acesso em: jun. 2025.",
-    "TANENBAUM, Andrew S.; STEEN, Maarten van. Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo: Pearson Prentice Hall, 2007. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/411>. Acesso em: jun. 2025.",
-    "GRAMA, Ananth; GUPTA, Anshul; KARYPIS, George; KUMAR, Vipin. Introduction to parallel computing. 2. ed. Upper Saddle River: Pearson, 2003."
-  ],
-  "Bibliografia Complementar": [
-    "TANENBAUM, Andrew S. Sistemas operacionais modernos. 4. ed. São Paulo: Pearson, 2009. ISBN 978-85-430-0567-6. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/36876>. Acesso em: jun. 2025.",
-    "DEAN, Jeffrey; GHEMAWAT, Sanjay. MapReduce: simplified data processing on large clusters. Communications of the ACM, New York, v. 51, n. 1, p. 107–113, 2008.",
-    "PACHECO, Peter S. An introduction to parallel programming. 2. ed. Waltham: Morgan Kaufmann, 2011.",
-    "PATTERSON, David A.; HENNESSY, John L. Computer architecture: a quantitative approach. 4. ed. Amsterdam: Elsevier, 2009. ISBN 978-0-12-370490-0.",
-    "COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon. Sistemas distribuídos: conceitos e projeto. Tradução de Alexandre Carissimi e João Tortello. 5. ed. Porto Alegre: Bookman, 2013. Disponível em: <https://integrada.minhabiblioteca.com.br/#/books/9788582600542>. Acesso em: jun. 2025."
-  ]
 }
-
-
 ]
 }
