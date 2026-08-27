@@ -8,9 +8,9 @@
     "Unidade Acadêmica": "ICEB",
     "Modalidade": "presencial",
     "Carga Horária": {
-      "Total": "60",
+      "Total": "30",
       "Extensionista": "0",
-      "Teórica": "4",
+      "Teórica": "2",
       "Prática": "0"
     },
     "Ementa": "O que é Inteligência Artificial; o comportamento do aluno de Inteligência Artificial; áreas de pesquisa do Departamento de Computação; áreas nas quais atuam os profissionais em Inteligência Artificial.",
@@ -87,6 +87,52 @@
   "SAVITCH, W. J. C++ absoluto. São Paulo: Pearson Education; Addison-Wesley, 2004."
 ]
 
+},{
+  "Nome (ptBR)": "Teoria dos Grafos",
+  "Nome (enUS)": "Graph Theory",
+  "Código": "BCC204",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Grafos orientados e não-orientados; caminhos; planaridade; conectividade; coloração; grafos infinitos; problemas intratáveis; busca em largura e profundidade; algoritmos do menor caminho; árvore geradora; ordenação topológica.",
+  "Conteúdo Programático": [
+    "Introdução e estruturas de dados para grafos",
+    "Formalização: definições",
+    "Isomorfismo",
+    "Complementaridade e subgrafos",
+    "Teorema do aperto de mãos e bipartição",
+    "Passeio, cadeia e caminho",
+    "Transitividade e conectividade",
+    "Busca em grafos: busca em profundidade e largura",
+    "Algoritmos de caminhos mínimos: Dijkstra, Bellman-Ford, Floyd-Warshall",
+    "Ordenação topológica",
+    "Fluxo em redes: Ford-Fulkerson",
+    "Problemas Intratáveis",
+    "Casamento em grafos e Algoritmo Húngaro",
+    "Conjuntos independentes, cliques e conjuntos dominantes",
+    "O problema das 4 cores: coloração de mapas",
+    "Coloração de grafos",
+    "Planaridade em grafos",
+    "Busca de soluções usando grafos"
+  ],
+  "Bibliografia Básica": [
+    "GOLDBARG, Marco; GOLDBARG, Elizabeth. Grafos: conceitos, algoritmos e aplicações. Rio de Janeiro: Elsevier, 2012.",
+    "BOAVENTURA NETTO, Paulo Oswaldo. Grafos: teoria, modelos, algoritmos. 2. ed. rev. e ampl. São Paulo: Edgard Blucher, 2001."
+  ],
+  "Bibliografia Complementar": [
+    "GROSS, Jonathan L. Graph theory and its applications. 2. ed. Boca Raton: CRC Press, 2006.",
+    "JUNGNICKEL, D. Graphs, networks, and algorithms. 3. ed. Berlin: Springer, 2008.",
+    "WILSON, Robin J. Introduction to graph theory. 3. ed. New York: John Wiley & Sons, 1990.",
+    "New directions in the theory of graphs. New York: Wiley, 1971.",
+    "GIBBONS, Alan. Algorithmic graph theory. New York: Cambridge University Press, 1994.",
+    "CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Tradução Vandenberg D. de Souza. Rio de Janeiro: Campus, 2002."
+  ]
 },{
   "Nome (ptBR)": "Matemática Discreta I",
   "Nome (enUS)": "Discrete Mathematics I",
