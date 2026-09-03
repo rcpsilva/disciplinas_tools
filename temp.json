@@ -1,0 +1,298 @@
+[
+  {
+    "Nome (ptBR)": "Introdução à Inteligência Artificial",
+    "Nome (enUS)": "Introduction to Artificial Intelligence",
+    "Código": "BIA101",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": { "Total": "30", "Extensionista": "0", "Teórica": "2", "Prática": "0" },
+    "Ementa": "O que é Inteligência Artificial; o comportamento do aluno de Inteligência Artificial; áreas de pesquisa do Departamento de Computação; áreas nas quais atuam os profissionais em Inteligência Artificial.",
+    "Conteúdo Programático": [
+      "A área de Inteligência Artificial e suas oportunidades atuais",
+      "Áreas de atuação e mercado de trabalho em Inteligência Artificial",
+      "O curso de Inteligência Artificial: grade curricular, áreas, relações entre as disciplinas",
+      "Organização política da universidade e institutos/unidades",
+      "Representação acadêmica: centro acadêmico e movimentos estudantis",
+      "Áreas de pesquisa e extensão",
+      "Laboratórios de pesquisa e extensão",
+      "O comportamento do aluno de Inteligência Artificial: organização e conselhos para estudar melhor e ter sucesso no curso",
+      "Seminários de profissionais sobre o mercado de trabalho e carreiras na área de Inteligência Artificial",
+      "Implicações éticas, sociais e ambientais do uso de Inteligência Artificial"
+    ],
+    "Bibliografia Básica": [
+      "Morais, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. 1. ed. Campinas: Papirus, 2013. E-book.",
+      "Medeiros, Luciano Frontino de. Inteligência artificial aplicada: uma abordagem introdutória. Curitiba, PR: Intersaberes, 2018. E-book.",
+      "Dias, Ana Francisca Pinto et al.; Guimarães, João Alexandre Silva Alves; Alves, Rodrigo Vitorino Souza (org.). Os direitos humanos e a ética na era da inteligência artificial. Indaiatuba, SP: Foco, 2023. E-book.",
+      "Poole, David L.; Mackworth, Alan K. Artificial Intelligence: Foundations of Computational Agents. 3. ed. Cambridge: Cambridge University Press, 2023. ISBN 978-1-009-25819-7.",
+      "Crawford, Kate. Atlas da I.A.: poder, política e os custos planetários da inteligência artificial. São Paulo: Edições Sesc São Paulo, 2025. 138 p. ISBN 978-85-9493-328-7."
+    ],
+    "Bibliografia Complementar": [
+      "Krelling Neto, Antonio Osmar. Responsabilidade civil: cibercrimes. 1. ed. São Paulo: Contentus, 2020. E-book.",
+      "Taurion, Cezar. Big data. 1. ed. Rio de Janeiro: Brasport, 2013. E-book.",
+      "Munhoz, Antonio Siemsen. Responsabilidade e autoridade social das empresas. 1. ed. Curitiba: Intersaberes, 2015. E-book.",
+      "Flores, Márcio José das; Bess, Alexandre Leal. Inteligência artificial aplicada a negócios. Curitiba, PR: Intersaberes, 2023. E-book.",
+      "Muniz, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. [S.l.]: Brasport, 2024. E-book."
+    ]
+  },
+  {
+    "Nome (ptBR)": "Cálculo Diferencial e Integral A",
+    "Nome (enUS)": "Differential and Integral Calculus A",
+    "Código": "MTM700",
+    "Departamento": "Departamento de Matemática (DEMAT)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": { "Total": "60", "Extensionista": "0", "Teórica": "4", "Prática": "0" },
+    "Ementa": "Limite. Continuidade. Derivadas e Aplicações. Integral.",
+    "Conteúdo Programático": [
+      "Limite: Definição; Limites Laterais; Limites no Infinito; Limites Infinitos; Propriedades; Limites Fundamentais",
+      "Continuidade: Definição; Propriedades; Teorema do Valor Intermediário",
+      "Derivadas: Retas Tangentes a curvas; Definição; Regras de Derivação; Derivadas de Funções Trigonométricas e Exponenciais; Derivadas de Funções Inversas; Derivadas das Funções Trigonométricas Inversas e Logarítmica; Derivada de Funções Compostas (Regra da Cadeia)",
+      "Aplicações da Derivada: Máximos e Mínimos; Teorema do Valor Médio; Crescimento e Concavidade de Funções; Gráfico de Funções; Problemas de Máximos e Mínimos; Regra de L'Hospital",
+      "Integrais: Integral Indefinida e Suas Propriedades; Integral Definida e Suas Propriedades; Técnicas de Integração (Substituição, Por Partes, Frações Parciais, Substituição Trigonométrica)"
+    ],
+    "Bibliografia Básica": [
+      "Swokowski, Earl W.; tradução Alfredo Alves de Faria; revisão técnica Victor Hugo Teixeira Rodrigues e Antonio Gabriel da Silva St. Aubyn. Cálculo com geometria analítica: volume 1. 2. ed. São Paulo: McGraw-Hill do Brasil, 1995.",
+      "Thomas, George Brinton. Cálculo volume 1. 10. ed. São Paulo: Addison Wesley, 2002. v.1."
+    ],
+    "Bibliografia Complementar": [
+      "Stewart, James; tradução Helena Maria Ávila de Castro. Cálculo: volume 1. 8. ed. São Paulo: Cengage Learning, c2017.",
+      "Leithold, Louis. O cálculo com geometria analítica. 2. ed. v.1. São Paulo: HARBRA, c1982."
+    ]
+  },
+  {
+    "Nome (ptBR)": "Cálculo Diferencial e Integral B",
+    "Nome (enUS)": "Differential and Integral Calculus B",
+    "Código": "MTM702",
+    "Departamento": "Departamento de Matemática (DEMAT)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": { "Total": "60", "Extensionista": "0", "Teórica": "4", "Prática": "0" },
+    "Ementa": "Aplicações da Integral. Integrais Impróprias. Sequências e Séries Infinitas. Funções de Várias Variáveis.",
+    "Conteúdo Programático": [
+      "Aplicações de Integral: Área de Regiões Planas; Comprimento de Curvas; Volume de Sólidos de Revolução; Área de Superfícies de Revolução",
+      "Integrais Impróprias: Definição e Exemplos",
+      "Sequências e Séries Numéricas: Limites de Sequências; Critérios de Convergência para Séries; Propriedades da Convergência de Séries; Valor Aproximado do Limite de Séries",
+      "Séries de Potências: Intervalos de Convergência; Derivação e Integração de Séries de Potência; Polinômios e Séries de Taylor",
+      "Funções Reais de Várias Variáveis: Domínio e Imagem; Limite e Continuidade; Derivadas Parciais e Diferencial; Regra da Cadeia; Derivada Direcional e Gradiente; Derivadas Parciais de Ordem Superior; Máximos e Mínimos; Aplicações: Otimização"
+    ],
+    "Bibliografia Básica": [
+      "Thomas, George B.; Weir, Maurice D.; Hass, Joel; tradução Carlos Scalici; revisão técnica Claudio Hirofume Asano. Cálculo: volume 2. 12. ed. São Paulo: Pearson Education do Brasil, c2013.",
+      "Thomas, George B.; Weir, Maurice D.; Hass, Joel; tradução Kleber Roberto Pedroso, Regina Célia Simille de Macedo; revisão técnica Claudio Hirofume Asano. Cálculo: volume 1. 12. ed. São Paulo: Pearson Education do Brasil, c2013.",
+      "Simmons, George F. Cálculo com geometria analítica, v.1. São Paulo: Makron Books, 1987.",
+      "Simmons, George F. Cálculo com geometria analítica. São Paulo: McGraw-Hill, 1988.",
+      "Leithold, Louis. O cálculo com geometria analítica. 3. ed. v.2. São Paulo: HARBRA, c1994.",
+      "Leithold, Louis. O cálculo com geometria analítica. 3. ed. v.1. São Paulo: HARBRA, c1994.",
+      "Stewart, James. Cálculo volume I. 4. ed. São Paulo: Pioneira, 2001.",
+      "Stewart, James. Cálculo: volume 2. São Paulo: Pioneira, 2005."
+    ],
+    "Bibliografia Complementar": []
+  },
+  {
+    "Nome (ptBR)": "Geometria Analítica e Álgebra Linear",
+    "Nome (enUS)": "Analytical Geometry and Linear Algebra",
+    "Código": "MTM730",
+    "Departamento": "Departamento de Matemática (DEMAT)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": { "Total": "60", "Extensionista": "0", "Teórica": "4", "Prática": "0" },
+    "Ementa": "Álgebra Vetorial. Retas e Planos. Matrizes, Sistemas Lineares e Determinantes. Espaços Vetoriais. Autovalores e Autovetores. Diagonalização.",
+    "Conteúdo Programático": [
+      "Álgebra Vetorial: Vetor (definição e notação); Operações fundamentais com vetores (adição e multiplicação por número real); Combinação linear, dependência e independência linear de vetores; Bases Ortogonais e Ortonormais; Multiplicação escalar de dois vetores; Multiplicação vetorial de dois vetores",
+      "A Reta e o Plano no Espaço: Equações da reta; Equação do plano; Interseção de dois planos; Distâncias (de um ponto a um plano, de um ponto a uma reta, entre duas retas); Ângulos",
+      "Matrizes e Sistemas Lineares: Definição; Operações com matrizes e suas propriedades; Resolução de Sistemas de Equações Lineares (Matrizes Escalonadas, Eliminação de Gauss-Jordan); Inversas de Matrizes",
+      "Determinantes: Definição por Cofatores; Propriedades; Regra de Cramer",
+      "Espaços Vetoriais: Definição; Subespaços Vetoriais; Dependência e Independência linear; Bases e dimensão; Espaço-linha, espaço-coluna e posto de uma matriz; Produto Interno em um espaço vetorial (desigualdade de Cauchy-Schwarz)",
+      "Autovalores, Autovetores e Diagonalização: Definição; Polinômio Característico; Diagonalização; Diagonalização de Matrizes Simétricas"
+    ],
+    "Bibliografia Básica": [
+      "Anton, Howard. Álgebra Linear. Rio de Janeiro: Campus.",
+      "Lehmann, Charles H. Geometria analítica. 8. ed. São Paulo: Globo, 1995.",
+      "Santos, Reginaldo J. Um curso de geometria analítica e álgebra linear. Belo Horizonte (MG): Imprensa Universitária da UFMG, 2003.",
+      "Steinbruch, Alfredo. Geometria analítica. 2. ed. São Paulo: Makron Books, c1987.",
+      "Steinbruch, Alfredo. Álgebra linear. 2. ed. São Paulo: McGraw-Hill, 1987.",
+      "Kolman, Bernard. Álgebra linear. 3. ed. Livros Técnicos e Científicos."
+    ],
+    "Bibliografia Complementar": []
+  },
+  {
+    "Nome (ptBR)": "Planejamento e Análise de Experimentos",
+    "Nome (enUS)": "Experimental Design and Analysis",
+    "Código": "EST326",
+    "Departamento": "Departamento de Estatística (DEEST)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "semi-presencial",
+    "Carga Horária": { "Total": "60", "Extensionista": "0", "Teórica": "4", "Prática": "0" },
+    "Ementa": "Princípios básicos de experimentação. Experimentos com um fator: efeitos fixos e aleatórios. Planejamentos em blocos aleatorizados, quadrados latinos. Verificação das pressuposições do modelo. Regressão na análise de variância. Planejamentos fatoriais: dois fatores e três fatores. Experimentos com restrições na aleatorização. Análise de Covariância.",
+    "Conteúdo Programático": [
+      "Unidade 1 - Princípios básicos de experimentação: conceitos importantes em experimentação, repetição/réplica, casualização/randomização e controle local; delineamentos experimentais",
+      "Unidade 2 - Experimentos com um fator: modelos fixos, aleatórios e mistos; análise de variância e teste F; contrastes, comparações múltiplas e método de agrupamento de Scott-Knott",
+      "Unidade 3 - Delineamento em blocos casualizados e em quadrado latino",
+      "Unidade 4 - Análise de resíduos em experimentos e verificação das pressuposições do modelo linear geral de Gauss-Markov",
+      "Unidade 5 - Dimensionamento de amostra em experimentos; experimentos com subamostragem; uso de regressão em experimentos quando os tratamentos são de natureza quantitativa",
+      "Unidade 6 - Ensaios fatoriais com dois e três fatores; introdução à técnica de superfícies de resposta",
+      "Unidade 7 - Experimentos com restrições na aleatorização: ensaios em parcelas subdivididas e em faixas",
+      "Unidade 8 - Análise de Covariância: aplicações e análise",
+      "Conteúdos trabalhados de forma semipresencial: 53 horas presenciais e 7 horas a distância"
+    ],
+    "Bibliografia Básica": [
+      "Montgomery, D. C. Design and Analysis of Experiments. 8. ed. New York: J. Wiley, 2013.",
+      "Montgomery, D. C.; Kowalski, S. M. Design and Analysis of Experiments: MINITAB Companion. 7. ed. Wiley, 2010.",
+      "Pimentel-Gomes, F. Curso de Estatística Experimental. 15. ed. Piracicaba: FEALQ, 2009.",
+      "Hinkelmann, Klaus; Kempthorne, Oscar. Design and Analysis of Experiments: introduction to experimental design. v.1. Hoboken: John Wiley & Sons, 2008. 631 p."
+    ],
+    "Bibliografia Complementar": [
+      "Hinkelmann, Klaus; Kempthorne, Oscar. Design and analysis of experiments: advanced experimental design. v. 2. New York: Wiley-Interscience, 2005. 780 p. (Wiley Series in Probability and Statistics).",
+      "Calegare, A. J. A. Introdução ao Delineamento de Experimentos. 2. ed. São Paulo: Edgard Blucher, 2009.",
+      "Dean, A. M.; Voss, D. Design and Analysis of Experiments. Springer, 2000.",
+      "Werkema, M. C. C.; Aguiar, S. Planejamento e Análise de Experimentos: Como Identificar as Principais Variáveis Influentes em um Processo. Belo Horizonte, MG: Fundação Christiano Ottoni, E.E. UFMG, 1996.",
+      "Vieira, S. Análise de Variância: Anova. Atlas, 2006.",
+      "Cochran, W. G.; Cox, G. M. Experimental Designs. 2. ed. Wiley, 1992."
+    ]
+  },
+  {
+    "Nome (ptBR)": "Análise de Séries Temporais e Aprendizado Dinâmico",
+    "Nome (enUS)": "Time Series Analysis and Dynamic Learning",
+    "Código": "EST334",
+    "Departamento": "Departamento de Estatística (DEEST)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "semi-presencial",
+    "Carga Horária": { "Total": "60", "Extensionista": "0", "Teórica": "4", "Prática": "0" },
+    "Ementa": "Introdução. Conceitos importantes. Modelos para Séries Estacionárias. Os modelos ARIMA. Os modelos SARIMA. Identificação de Modelos. Estimação e Verificação. Previsão com modelos ARIMA. Métodos Automáticos de Previsão. Tópicos Especiais.",
+    "Conteúdo Programático": [
+      "Unidade 1 - Introdução: definições, exemplos e notação; classificação de séries temporais; objetivos e enfoques da Análise de Séries Temporais; tipos de variações",
+      "Unidade 2 - Conceitos importantes: séries temporais e processos estocásticos; média, covariância e correlação; processos estacionários; processo ruído branco",
+      "Unidade 3 - Modelos para Séries Estacionárias: processo linear geral; processos auto-regressivos; processos médias móveis; modelos mistos ARMA(p,q); condições de estacionariedade e invertibilidade",
+      "Unidade 4 - Os modelos ARIMA: séries não-estacionárias",
+      "Unidade 5 - Os modelos SARIMA: séries não-estacionárias com sazonalidade",
+      "Unidade 6 - Identificação de Modelos: propriedades da função de autocorrelação amostral; função de autocorrelação parcial; função de autocorrelação inversa; outros procedimentos de identificação",
+      "Unidade 7 - Estimação e Verificação: método de Momentos; método dos Mínimos Quadrados; método da Máxima Verossimilhança; propriedades dos estimadores; análise de resíduos",
+      "Unidade 8 - Previsão com modelos ARIMA: cálculo das previsões; formas básicas de previsão; intervalos de confiança",
+      "Unidade 9 - Métodos Automáticos de Previsão: modelos de alisamento exponencial (método de Holt-Winters)",
+      "Unidade 10 - Tópicos Especiais: introdução a modelos de volatilidade (ARCH e GARCH); modelos lineares dinâmicos; modelos de regressão dinâmica; modelos de função de transferência",
+      "Conteúdos trabalhados de forma semipresencial: 53 horas presenciais e 7 horas a distância"
+    ],
+    "Bibliografia Básica": [
+      "Enders, Walter. Applied econometric time series. 2. ed. New York: John Wiley, c2004.",
+      "Morettin, Pedro Alberto. Análise de séries temporais. 2. ed. São Paulo: E. Blücher, 2008.",
+      "Brockwell, P. J. Introduction to time series and forecasting. 2. ed. New York: Springer-Verlag, c2002.",
+      "Chatfield, C. The Analysis of Time Series: An Introduction. 6. ed. Chapman and Hall/CRC, 2003.",
+      "Box, G. E. P.; Jenkins, G. M. Time Series Analysis: Forecasting and Control. 3. ed. Prentice Hall, 1994."
+    ],
+    "Bibliografia Complementar": [
+      "Wei, William W. S. Time series analysis: univariate and multivariate methods. 2. ed. Boston: Pearson Education Addison Wesley, c2006. 614 p. ISBN 0321322169.",
+      "Pole, Andy. Applied bayesian forecasting and time series analysis. Boca Raton, FL: Chapman & Hall/CRC, 1994.",
+      "Hamilton, J. D. Time Series Analysis. Princeton University Press, 1994.",
+      "Montgomery, D. C.; Johnson, L. A. Forecasting and Time Series Analysis. New York: McGraw-Hill, 1976.",
+      "Pankratz, A. Forecasting with univariate Box and Jenkins Models. New York: John Wiley & Sons, 1983.",
+      "Nelson, C. R. Applied Time Series Analysis. San Francisco: Holden Day, 1973."
+    ]
+  },
+  {
+    "Nome (ptBR)": "Teoria dos Grafos",
+    "Nome (enUS)": "Graph Theory",
+    "Código": "BCC204",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": { "Total": "60", "Extensionista": "0", "Teórica": "4", "Prática": "0" },
+    "Ementa": "Grafos orientados e não-orientados; caminhos; planaridade; conectividade; coloração; grafos infinitos; problemas intratáveis; busca em largura e profundidade; algoritmos do menor caminho; árvore geradora; ordenação topológica.",
+    "Conteúdo Programático": [
+      "Introdução e estruturas de dados para grafos",
+      "Formalização: definições",
+      "Isomorfismo",
+      "Complementaridade e subgrafos",
+      "Teorema do aperto de mãos e bipartição",
+      "Passeio, cadeia e caminho",
+      "Transitividade e conectividade",
+      "Busca em grafos: busca em profundidade e largura",
+      "Algoritmos de caminhos mínimos: Dijkstra, Bellman-Ford, Floyd-Warshall",
+      "Ordenação topológica",
+      "Fluxo em redes: Ford-Fulkerson",
+      "Problemas Intratáveis",
+      "Casamento em grafos e Algoritmo Húngaro",
+      "Conjuntos independentes, cliques e conjuntos dominantes",
+      "O problema das 4 cores: coloração de mapas",
+      "Coloração de grafos",
+      "Planaridade em grafos",
+      "Busca de soluções usando grafos"
+    ],
+    "Bibliografia Básica": [
+      "Goldbarg, Marco; Goldbarg, Elizabeth. Grafos: conceitos, algoritmos e aplicações. Rio de Janeiro: Elsevier, 2012.",
+      "Boaventura Netto, Paulo Oswaldo. Grafos: teoria, modelos, algoritmos. 2. ed. rev. e ampl. São Paulo: Edgard Blucher, 2001."
+    ],
+    "Bibliografia Complementar": [
+      "Gross, Jonathan L. Graph theory and its applications. 2. ed. Boca Raton: CRC Press, 2006.",
+      "Jungnickel, D. Graphs, networks, and algorithms. 3. ed. Berlin.",
+      "Wilson, Robin J. Introduction to graph theory. 3. ed. New York: John Wiley & Sons, 1990.",
+      "New directions in the theory of graphs. New York.",
+      "Gibbons, Alan. Algorithmic graph theory. New York: Cambridge, 1994.",
+      "Cormen, Thomas H. et al.; tradução Vandenberg D. de Souza. Algoritmos: teoria e prática. Rio de Janeiro: Campus, 2002."
+    ]
+  },
+  {
+    "Nome (ptBR)": "Segurança, Ética e Sociedade em Inteligência Artificial",
+    "Nome (enUS)": "AI Ethics, Safety and Risk",
+    "Código": "BIA113",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": { "Total": "60", "Extensionista": "0", "Teórica": "4", "Prática": "0" },
+    "Ementa": "Estudo dos riscos associados a sistemas de Inteligência Artificial e dos fundamentos técnicos que sustentam tais riscos. Análise de riscos catastróficos, uso malicioso e dinâmicas competitivas no desenvolvimento de IA. Fundamentos de Inteligência Artificial relevantes para segurança, incluindo aprendizado de máquina, deep learning, leis de escala e velocidade de desenvolvimento. Segurança de agentes individuais, abordando monitoramento, robustez, alinhamento e capacidades emergentes. Engenharia de segurança aplicada a sistemas de IA, incluindo confiabilidade, decomposição de riscos, falhas de componentes, fatores sistêmicos e eventos extremos. Análise da IA como sistema complexo e sociotécnico.",
+    "Conteúdo Programático": [
+      "Visão Geral dos Riscos Catastróficos da Inteligência Artificial: principais riscos existenciais e sistêmicos da IA, incluindo uso malicioso, corrida tecnológica e falhas organizacionais",
+      "Fundamentos de Inteligência Artificial: conceitos básicos de IA, aprendizado de máquina e aprendizado profundo, com ênfase em leis de escala e ritmo de desenvolvimento",
+      "Segurança em Sistemas de Agente Único: problemas de alinhamento, robustez, monitoramento e segurança em agentes individuais de IA",
+      "Engenharia de Segurança: princípios e métodos de engenharia de segurança aplicados a sistemas de IA, incluindo confiabilidade e análise de falhas",
+      "Sistemas Complexos: noções de sistemas complexos e comportamentos emergentes relevantes para a segurança em IA",
+      "Inteligência Artificial Benéfica e Ética das Máquinas: fundamentos éticos, legais e sociais para o desenvolvimento de sistemas de IA alinhados a valores humanos",
+      "Problemas de Ação Coletiva: desafios de cooperação, conflito e incentivos no desenvolvimento e uso da IA",
+      "Governança: estruturas e políticas de governança da IA em níveis corporativo, nacional e internacional"
+    ],
+    "Bibliografia Básica": [
+      "Hendrycks, Dan. Introduction to AI Safety, Ethics and Society. Boca Raton: Taylor & Francis, 2024. ISBN 978-1-032-79802-8.",
+      "Russell, Stuart. Inteligência artificial a nosso favor: como manter o controle sobre a tecnologia. Tradução de Clóvis Marques. São Paulo: Companhia das Letras, 2020.",
+      "Amodei, Dario et al. Concrete problems in AI safety. arXiv preprint, arXiv:1606.06565, 2016.",
+      "Bostrom, Nick. Superinteligência: caminhos, perigos e estratégias. Tradução de Laura Teixeira Motta. Lisboa: Gradiva, 2017.",
+      "Perrow, Charles. Acidentes normais: vivendo com tecnologias de alto risco. São Paulo: Editora Senac São Paulo, 2007.",
+      "Lewis, David et al. Engineering safe AI systems. Communications of the ACM, New York, v. 65, n. 3, p. 36-38, 2022.",
+      "Brasil. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021."
+    ],
+    "Bibliografia Complementar": [
+      "Bostrom, Nick. Superinteligência: caminhos, perigos e estratégias. Tradução de Laura Teixeira Motta. Lisboa: Gradiva, 2017.",
+      "Perrow, Charles. Acidentes normais: vivendo com tecnologias de alto risco. São Paulo: Editora Senac São Paulo, 2007.",
+      "Lewis, David et al. Engineering safe AI systems. Communications of the ACM, New York, v. 65, n. 3, p. 36-38, 2022.",
+      "Brasil. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021."
+    ]
+  },
+  {
+    "Nome (ptBR)": "Monografia",
+    "Nome (enUS)": "Undergraduate Thesis",
+    "Código": "BIA205",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": { "Total": "90", "Extensionista": "0", "Teórica": "6", "Prática": "0" },
+    "Ementa": "Desenvolvimento de projeto memorial dos projetos de resolução de problemas do mundo real. Entrega de relatórios parciais ao longo do semestre. Entrega da monografia ao final do semestre. Apresentação oral dos resultados da monografia.",
+    "Conteúdo Programático": [
+      "Construção do projeto memorial",
+      "Redação de relatórios das atividades",
+      "Elaboração da monografia",
+      "Apresentação oral dos resultados finais obtidos"
+    ],
+    "Bibliografia Básica": [
+      "Wazlawick, Raul Sidnei. Metodologia de pesquisa para Ciência da Computação. 2. ed. Rio de Janeiro: Elsevier, 2014.",
+      "Marconi, Marina de Andrade; Lakatos, Eva Maria. Fundamentos de metodologia científica. 8. ed. São Paulo: Atlas, 2017.",
+      "Associação Brasileira de Normas Técnicas. NBR 14724: Informação e Documentação - Trabalhos acadêmicos - Apresentação. Rio de Janeiro, 2011."
+    ],
+    "Bibliografia Complementar": [
+      "Gil, Antônio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.",
+      "França, Júnia Lessa; Vasconcellos, Ana Cristina de. Manual para normalização de publicações técnico-científicas. 8. ed. Belo Horizonte: Editora UFMG, 2009.",
+      "Medeiros, João Bosco. Redação Científica: práticas de fichamentos, resumos, resenhas. 13. ed. São Paulo: Atlas, 2019.",
+      "Marconi, Marina de Andrade; Lakatos, Eva Maria. Metodologia científica. 7. ed. São Paulo: Atlas, 2017.",
+      "Matias-Pereira, José. Metodologia da pesquisa científica. 4. ed. São Paulo: Atlas, 2016.",
+      "Fernandez, Brena Paula Magno. Métodos e técnicas de pesquisa. 7. ed. Editora Saraiva, 2012.",
+      "Cervo, Amado L.; Bervian, Pedro A.; Silva, Roberto da. Metodologia Científica. 6. ed. São Paulo: Pearson, 2006."
+    ]
+  }
+]
