@@ -1,0 +1,843 @@
+{
+	"Disciplinas":[
+{
+    "Nome (ptBR)": "Introdução à Inteligência Artificial",
+    "Nome (enUS)": "Introduction to Artificial Intelligence",
+    "Código": "BIA101",
+    "Departamento": "Departamento de Computação (DECOM)",
+    "Unidade Acadêmica": "ICEB",
+    "Modalidade": "presencial",
+    "Carga Horária": {
+      "Total": "30",
+      "Extensionista": "0",
+      "Teórica": "2",
+      "Prática": "0"
+    },
+    "Ementa": "O que é Inteligência Artificial; o comportamento do aluno de Inteligência Artificial; áreas de pesquisa do Departamento de Computação; áreas nas quais atuam os profissionais em Inteligência Artificial.",
+    "Conteúdo Programático": [
+      	"A área de Inteligência Artificial e suas oportunidades atuais.",
+	      "Áreas de atuação e mercado de trabalho em Inteligência Artificial.",
+        "O curso de Inteligência Artificial: grade curricular, áreas, relações entre as disciplinas.",
+	      "Organização política da universidade e institutos/unidades.",
+	      "Representação acadêmica: centro acadêmico e movimentos estudantis.",
+        "Áreas de pesquisa e extensão.",
+        "Laboratórios de pesquisa e extensão.",
+        "O comportamento do aluno de Inteligência Artificial: organização e conselhos para estudar melhor e ter sucesso no curso.",
+        "Seminários de profissionais sobre o mercado de trabalho e carreiras na área de Inteligência Artificial.",
+        "Implicações éticas, sociais e ambientais do uso de Inteligência Artificial"
+    ],
+    "Bibliografia Básica": [
+      "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. 1. ed. Campinas: Papirus, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "MEDEIROS, Luciano Frontino de. Inteligência artificial aplicada: uma abordagem introdutória. Curitiba, PR: Intersaberes, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "DIAS, Ana Francisca Pinto et al.; GUIMARÃES, João Alexandre Silva Alves; ALVES, Rodrigo Vitorino Souza (org.). Os direitos humanos e a ética na era da inteligência artificial. Indaiatuba, SP: Foco, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "POOLE, David L.; MACKWORTH, Alan K. Artificial Intelligence: Foundations of Computational Agents. 3. ed. Cambridge: Cambridge University Press, 2023. ISBN 978-1-009-25819-7. Disponível em: <https://artint.info/>. Acesso em: 17 dez. 2025.",
+      "CRAWFORD, Kate. Atlas da I.A.: poder, política e os custos planetários da inteligência artificial. São Paulo: Edições Sesc São Paulo, 2025. 138 p. ISBN 978-85-9493-328-7."
+    ],
+    "Bibliografia Complementar": [
+      "KRELLING NETO, Antonio Osmar. Responsabilidade civil: cibercrimes. 1. ed. São Paulo: Contentus, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "TAURION, Cezar. Big data. 1. ed. Rio de Janeiro: Brasport, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "MUNHOZ, Antonio Siemsen. Responsabilidade e autoridade social das empresas. 1. ed. Curitiba: Intersaberes, 2015. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "FLORES, Márcio José das; BESS, Alexandre Leal. Inteligência artificial aplicada a negócios. Curitiba, PR: Intersaberes, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+      "MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. [S.l.]: Brasport, 2024. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+    ]
+ },{
+  "Nome (ptBR)": "Introdução à Programação",
+  "Nome (enUS)": "Introduction to Programming",
+  "Código": "BCC201",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "90",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "2"
+  },
+  "Ementa": "Introdução à lógica de programação; conceitos básicos sobre algoritmos, utilização e formas de representação (fluxograma e Portugol); tipos de dados; variáveis e constantes; expressões e operadores relacionais, aritméticos e lógicos; estruturas condicionais e de repetição; subprogramação: modularização de programas (funções e procedimentos); estruturas de dados homogêneas (vetores e matrizes) e heterogêneas (estruturas/registros); manipulação de cadeias de caracteres; ponteiros; alocação dinâmica de memória; processamento de arquivos.",
+  "Conteúdo Programático": [
+  "Representação de dados",
+  "Conceitos e representação de algoritmos",
+  "Fluxograma e Portugol",
+  "Conceitos básicos de programação: valores, tipos e expressões",
+  "Variáveis, comandos de atribuição e de entrada e saída",
+  "Comandos de controle de fluxo",
+  "Comando de decisão (if)",
+  "Comandos de decisão múltipla e de salto (switch, break)",
+  "Comandos de repetição (while, do-while, for)",
+  "Subprogramação: funções, procedimentos e parâmetros",
+  "Estruturas de dados homogêneas (vetores)",
+  "Cadeia de caracteres (strings)",
+  "Estruturas de dados homogêneas (matrizes)",
+  "Estruturas de dados heterogêneas",
+  "Apontadores e memória dinâmica (ponteiros)",
+  "Arquivos"
+]
+,
+  "Bibliografia Básica": [
+  "DEITEL, P.; DEITEL, H. M. C: como programar. 6. ed. São Paulo: Pearson Education, 2011.",
+  "DEITEL, H. M.; DEITEL, P. J. C++: como programar. 5. ed. São Paulo: Pearson Prentice Hall, 2006.",
+  "SOUZA, M. A. F. de. Algoritmos e lógica de programação. São Paulo: Cengage Learning, 2005."
+]
+,
+  "Bibliografia Complementar": [
+  "ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da programação de computadores: algoritmos, Pascal e C/C++. 2. ed. São Paulo: Prentice Hall, 2007.",
+  "GUEDES, S. Lógica de programação algorítmica. São Paulo: Pearson Education do Brasil, 2014.",
+  "MIZRAHI, V. V. Treinamento em linguagem C. 2. ed. São Paulo: Pearson Education, 2010.",
+  "MIZRAHI, V. V. Treinamento em linguagem C++: módulo 2. São Paulo: Pearson Education, 2006.",
+  "SAVITCH, W. J. C++ absoluto. São Paulo: Pearson Education; Addison-Wesley, 2004."
+]
+
+},{
+  "Nome (ptBR)": "Teoria dos Grafos",
+  "Nome (enUS)": "Graph Theory",
+  "Código": "BCC204",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Grafos orientados e não-orientados; caminhos; planaridade; conectividade; coloração; grafos infinitos; problemas intratáveis; busca em largura e profundidade; algoritmos do menor caminho; árvore geradora; ordenação topológica.",
+  "Conteúdo Programático": [
+    "Introdução e estruturas de dados para grafos",
+    "Formalização: definições",
+    "Isomorfismo",
+    "Complementaridade e subgrafos",
+    "Teorema do aperto de mãos e bipartição",
+    "Passeio, cadeia e caminho",
+    "Transitividade e conectividade",
+    "Busca em grafos: busca em profundidade e largura",
+    "Algoritmos de caminhos mínimos: Dijkstra, Bellman-Ford, Floyd-Warshall",
+    "Ordenação topológica",
+    "Fluxo em redes: Ford-Fulkerson",
+    "Problemas Intratáveis",
+    "Casamento em grafos e Algoritmo Húngaro",
+    "Conjuntos independentes, cliques e conjuntos dominantes",
+    "O problema das 4 cores: coloração de mapas",
+    "Coloração de grafos",
+    "Planaridade em grafos",
+    "Busca de soluções usando grafos"
+  ],
+  "Bibliografia Básica": [
+    "GOLDBARG, Marco; GOLDBARG, Elizabeth. Grafos: conceitos, algoritmos e aplicações. Rio de Janeiro: Elsevier, 2012.",
+    "BOAVENTURA NETTO, Paulo Oswaldo. Grafos: teoria, modelos, algoritmos. 2. ed. rev. e ampl. São Paulo: Edgard Blucher, 2001."
+  ],
+  "Bibliografia Complementar": [
+    "GROSS, Jonathan L. Graph theory and its applications. 2. ed. Boca Raton: CRC Press, 2006.",
+    "JUNGNICKEL, D. Graphs, networks, and algorithms. 3. ed. Berlin: Springer, 2008.",
+    "WILSON, Robin J. Introduction to graph theory. 3. ed. New York: John Wiley & Sons, 1990.",
+    "New directions in the theory of graphs. New York: Wiley, 1971.",
+    "GIBBONS, Alan. Algorithmic graph theory. New York: Cambridge University Press, 1994.",
+    "CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Tradução Vandenberg D. de Souza. Rio de Janeiro: Campus, 2002."
+  ]
+},{
+  "Nome (ptBR)": "Matemática Discreta I",
+  "Nome (enUS)": "Discrete Mathematics I",
+  "Código": "BCC101",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Introdução à teoria de conjuntos: definições de conjuntos, operações sobre conjuntos, cardinalidade de conjuntos. Funções: conceitos básicos, composição, funções recursivas. Lógica proposicional e lógica de predicados: sintaxe, semântica e sistema de dedução. Estratégias de prova. Indução e recursão.",
+  "Conteúdo Programático": [
+    "Introdução e Revisão de Teoria de Conjuntos",
+    "Sintaxe e Semântica da Lógica Proposicional",
+    "Sistema de Dedução da Lógica Proposicional",
+    "Álgebra Booleana",
+    "Sintaxe e Semântica da Lógica de Predicados",
+    "Sistema de Dedução - Lógica de Predicados",
+    "Álgebra de Predicados",
+    "Estratégias de prova",
+    "Indução e Recursão",
+    "Provas e correção de provas"],
+  "Bibliografia Básica": ["VELLEMAN, Daniel. J. How to Prove it: A Structured Approach. Cambridge: Cambridge University Press, 2006.", 
+  "ROSEN, Kenneth. H. Matemática Discreta e suas Aplicações. 6.ed. São Paulo: McGraw-Hill, 2009.",
+  "O´DONNELL, Jonh.; HALL, Cordelia.; PAGE, Rex. Discrete Mathematics Using a Computer. Glasgow: Springer-Verlag, 2000."],
+  "Bibliografia Complementar": ["HUTH, Michael; RYAN, Mark. Lógica em Ciência da Computação: Modelagem e Argumentação sobre Sistemas. 2. ed. Rio de Janeiro: LTC, 2008.",
+  "SCHEINERMAN, Edward. R. Matemática Discreta: Uma Introdução. São Paulo: Cengage Learning, 2011.",
+  "GERSTING, Judith L. Fundamentos Matemáticos para a Ciência da Computação. 5. ed. Rio de Janeiro: LTC, 2004."]
+},{
+  "Nome (ptBR)": "Inteligência Artificial Clássica",
+  "Nome (enUS)": "Classical Artificial Intelligence",
+  "Código": "BIA102",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos fundamentos da Inteligência Artificial baseada em agentes. Resolução de problemas por busca, satisfação de restrições, raciocínio lógico e probabilístico, planejamento determinístico e sob incerteza. Representação de conhecimento, inferência e tomada de decisão. Introdução a sistemas multiagentes e discussão de aplicações, limitações e impactos sociais da Inteligência Artificial.",
+  "Conteúdo Programático": [
+    "Inteligência Artificial e Agentes.",
+    "Resolução de Problemas por Busca",
+    "Problemas de Satisfação de Restrições",
+    "Proposições e Inferência",
+    "Planejamento Determinístico",
+    "Raciocínio Probabilístico",
+    "Planejamento com Incerteza",
+    "Sistemas Multiagentes",
+    "Impacto Social da Inteligência Artificial"
+
+  ],
+  "Bibliografia Básica": [
+    "POOLE, David L.; MACKWORTH, Alan K. Artificial Intelligence: Foundations of Computational Agents. 3. ed. Cambridge: Cambridge University Press, 2023. ISBN 978-1-009-25819-7. Disponível em: <https://artint.info/>. Acesso em: 17 dez. 2025.",
+    "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "BARROS, L. N. de. Introdução à inteligência artificial. 1. ed. Rio de Janeiro: LTC, 2010. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ],
+  "Bibliografia Complementar": [
+    "MEDEIROS, Luciano Frontino de. Inteligência artificial aplicada: uma abordagem introdutória. Curitiba, PR: Intersaberes, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "BARR, Avron; FEIGENBAUM, Edward A. The Handbook of Artificial Intelligence. Volume I. Reading, MA: Addison-Wesley, 1981. (clássico da área; disponível em bibliotecas digitais).",
+    "LUGER, George F. Inteligência artificial: estruturas e estratégias para a solução de problemas complexos. 6. ed. Porto Alegre: Bookman, 2004. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "DIAS, Ana Francisca Pinto et al. (org.). Os direitos humanos e a ética na era da inteligência artificial. Indaiatuba, SP: Foco, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "LAUFER, C. Sistemas especialistas e representação do conhecimento. 1. ed. São Paulo: Érica, 2009. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ]
+},
+ {
+  "Nome (ptBR)": "Fundamentos de Arquitetura e Organização de Computadores",
+  "Nome (enUS)": "Computer Architecture and Organization",
+  "Código": "BIA103",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos componentes básicos de um computador e suas interações. Conceitos de organização e arquitetura de computadores. Sistemas de numeração e codificação. Conjuntos de instruções, ciclo de execução, hierarquia de memória e barramentos.",
+  "Conteúdo Programático": [
+    "Conceitos fundamentais: diferença entre organização e arquitetura de computadores.",
+    "Sistemas de numeração: binário, octal, decimal e hexadecimal.",
+    "Aritmética computacional: operações com números inteiros e de ponto flutuante.",
+    "Unidade Central de Processamento (UCP): registradores, ALU, UC.",
+    "Ciclo de instrução: busca, decodificação e execução.",
+    "Conjuntos de instruções (ISA): instruções RISC e CISC.",
+    "Hierarquia de memória: registradores, cache, RAM, memória secundária.",
+    "Sistemas de entrada e saída: interfaces e dispositivos.",
+    "Barramentos e comunicação entre componentes.",
+    "Noções de pipelines e paralelismo em processadores modernos."
+  ],
+  "Bibliografia Básica": [
+    "STALLINGS, William. Arquitetura e organização de computadores. 10. ed. São Paulo: Pearson, 2016. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "MAK, Ronald. Organização de computadores: arquitetura, interfaces e sistemas operacionais. 1. ed. São Paulo: Cengage Learning, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "TANENBAUM, Andrew S.; AUSTIN, Todd. Estruturas de computadores. 6. ed. São Paulo: Pearson, 2014. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ],
+  "Bibliografia Complementar": [
+    "BRITO, Fábio de Souza. Arquitetura e organização de computadores: teoria e prática. 1. ed. São Paulo: Érica, 2022. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "HENNESSY, John L.; PATTERSON, David A. Organização e projeto de computadores: a interface hardware/software. 5. ed. Porto Alegre: Bookman, 2014. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "SANTOS, Silas P. Fundamentos de organização de computadores. 2. ed. Curitiba: Intersaberes, 2021. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "MACHADO, Fábio; MAIA, Marcos. Arquitetura de computadores moderna. 1. ed. Rio de Janeiro: LTC, 2019. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "FERREIRA, Luiz. Sistemas digitais e arquitetura de computadores. 3. ed. São Paulo: Érica, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ]
+},{
+  "Nome (ptBR)": "Introdução à Ciência de Dados",
+  "Nome (enUS)": "Introduction to Data Science",
+  "Código": "BIA104",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Introdução à Ciência de Dados. Pré-processamento de dados. Análise exploratória de dados. Processamento de dados em larga escala. Workflow e rastreamento de experimentos. Ciência de Dados Responsável. Tópicos avançados em ciência de dados",
+  "Conteúdo Programático": [
+    "Introdução à Ciência de Dados. ",
+    "Tipos de dados.",
+    "Aquisição de dados.",
+    "Preparação de dados. ",
+    "Análise exploratória de dados: visualização, estatísticas descritivas e pré-processamento.",
+    "Processamento de dados em larga escala.",
+    "Workflow e rastreamento de experimentos.",
+    "Tópicos avançados em Ciência de Dados.",
+    "Ciência de Dados Ética e Responsável."
+  ],
+  "Bibliografia Básica": [
+    "CARVALHO, Andre Carlos Ponce de Leon Ferreira de; MENEZES, Angelo Garangau; BONIDIA, Robson Parmezan. Ciência de dados: fundamentos e aplicações. 2024.",
+    "TAN, Pang-Ning., Steinbach, Michael., Kumar, Vipin. Introduction to Data Mining. Alemanha: Pearson Addison Wesley, 2006.",
+    "HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. The Elements of Statistical Learning. 2. ed. New York: Springer, 2009.",
+    "MURPHY, Kevin P. Probabilistic Machine Learning: An Introduction. Cambridge: MIT Press, 2022.",
+    "JAMES, Gareth et al. An Introduction to Statistical Learning. 2. ed. New York: Springer, 2021."
+  ],
+  "Bibliografia Complementar": [
+    "BRUCE, Peter; BRUCE, Andrew; GEDECK, Peter. Practical statistics for data scientists: 50+ essential concepts using R and Python. O'Reilly Media, 2020.",
+    "MÜLLER, Andreas C.; GUIDO, Sarah. Introduction to Machine Learning with Python. 1. ed. O’Reilly, 2016.",
+    "BISHOP, Christopher M. Pattern Recognition and Machine Learning. New York: Springer, 2006.",
+    "AGARWAL, Charu C.; ZHAO, Zhi-Hua. Advanced Methods for Unsupervised Learning. Springer, 2023.",
+    "OLIVEIRA, Hélio C. V. de. Mineração de dados: conceitos, algoritmos, aplicações. 2. ed. Rio de Janeiro: LTC, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ]
+},
+{
+  "Nome (ptBR)": "Aprendizado de Máquina Supervisionado",
+  "Nome (enUS)": "Supervised Machine Learning",
+  "Código": "BIA105",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Conceitos e algoritmos de aprendizado de máquina supervisionado. Classificação, regressão, avaliação de modelos e análise de desempenho. Aplicações em ciência de dados e inteligência artificial. Enfoque prático com experimentação computacional.",
+  "Conteúdo Programático": [
+    "Introdução ao aprendizado de máquina: conceitos, tarefas e tipos de aprendizado.",
+    "Conjuntos de dados supervisionados: características, rótulos e pré-processamento.",
+    "Conceito de função alvo, hipótese e generalização.",
+    "Modelos de classificação: k-NN, Naive Bayes, árvores de decisão, regressão logística, SVM.",
+    "Modelos de regressão: regressão linear simples e múltipla, regularização (Ridge, Lasso).",
+    "Técnicas de ensemble: Random Forest, Gradient Boosting, bagging e boosting.",
+    "Divisão de dados: treino, validação e teste; validação cruzada.",
+    "Métricas de avaliação: acurácia, precisão, recall, F1, curva ROC e AUC.",
+    "Overfitting e underfitting: diagnóstico e controle (bias-variance tradeoff).",
+    "Uso de bibliotecas de software para modelagem supervisionada.",
+    "Impactos Sociais, Viés e Limitações do Aprendizado de Máquina"
+  ],
+  "Bibliografia Básica": [
+    "JAMES, Gareth et al. An introduction to statistical learning. 2. ed. New York: Springer, 2021. Disponível em: <https://www.statlearning.com> . Acesso em: 22 dez. 2025.",
+    "GERON, Aurélien. Mãos à obra: aprendizado de máquina com Scikit-Learn, Keras e TensorFlow. 2. ed. São Paulo: Novatec, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "LIU, Yuxi Hayden. Machine learning with Python in practice: unlock machine learning best practices with real-world use cases. 1. ed. São Paulo: Blucher, 2025. E-book. Disponível em: <https://plataforma.bvirtual.com.br> . Acesso em: 22 dez. 2025."
+  ],
+  "Bibliografia Complementar": [
+    "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep Learning. Cambridge: MIT Press, 2016. (Capítulos introdutórios sobre aprendizado supervisionado).",
+    "MÜLLER, Andreas C.; GUIDO, Sarah. Introduction to Machine Learning with Python. 1. ed. O'Reilly, 2016.",
+    "BISHOP, Christopher M. Pattern Recognition and Machine Learning. New York: Springer, 2006.",
+    "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013. (Capítulo sobre aprendizado).",
+    "ZELIKOVSKY, Alexander; SAFRO, Ilya. Introduction to Machine Learning. New York: Springer, 2022."
+  ]
+},
+{
+  "Nome (ptBR)": "Aprendizado de Máquina Não Supervisionado",
+  "Nome (enUS)": "Unsupervised Machine Learning",
+  "Código": "BIA106",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos principais métodos de aprendizado de máquina não supervisionado. Técnicas de agrupamento, redução de dimensionalidade, extração de características e detecção de anomalias. Aplicações em ciência de dados, visualização e descoberta de padrões.",
+  "Conteúdo Programático": [
+    "Introdução ao aprendizado não supervisionado: definição, desafios e aplicações.",
+    "Análise exploratória de dados: visualização, estatísticas descritivas e pré-processamento.",
+    "Técnicas de agrupamento: k-means, k-medoids, DBSCAN, aglomerativo hierárquico.",
+    "Métricas para avaliação de agrupamentos: silhueta, SSE, Davies-Bouldin.",
+    "Modelos baseados em mistura: Gaussian Mixture Models (GMM).",
+    "Redução de dimensionalidade: PCA (Análise de Componentes Principais), t-SNE, UMAP.",
+    "Extração de características e embeddings para dados complexos.",
+    "Detecção de anomalias: outliers, isolamento de florestas, técnicas baseadas em distância.",
+    "Tópicos avançados: agrupamento em dados de alta dimensão e em grandes volumes.",
+    "Implementações práticas com bibliotecas de software.",
+    "Impactos Sociais, Viés e Limitações do Aprendizado de Máquina"
+  ],
+  "Bibliografia Básica": [
+    "GERON, Aurélien. Mãos à obra: aprendizado de máquina com Scikit-Learn, Keras e TensorFlow. 2. ed. São Paulo: Novatec, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "MURPHY, Kevin P. Probabilistic Machine Learning: An Introduction. Cambridge: MIT Press, 2022.",
+    "JAMES, Gareth et al. An introduction to statistical learning. 2. ed. New York: Springer, 2021. Disponível em: <https://www.statlearning.com> . Acesso em: 22 dez. 2025.",
+    "LENZ, Maikon L.; NEUMANN, Fabiano B.; SANTARELLI, Rodrigo; et al. Fundamentos de aprendizagem de máquina. Porto Alegre: Grupo A, 2020. E-book. Disponível em: <https://integrada.minhabiblioteca.com.br/reader/books/9786556900902>. Acesso em: 22 dez. 2025."
+  ],
+  "Bibliografia Complementar": [
+    "HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. The Elements of Statistical Learning. 2. ed. New York: Springer, 2009.",
+    "MÜLLER, Andreas C.; GUIDO, Sarah. Introduction to Machine Learning with Python. 1. ed. O’Reilly, 2016.",
+    "BISHOP, Christopher M. Pattern Recognition and Machine Learning. New York: Springer, 2006.",
+    "AGARWAL, Charu C.; ZHAO, Zhi-Hua. Advanced Methods for Unsupervised Learning. Springer, 2023.",
+    "OLIVEIRA, Hélio C. V. de. Mineração de dados: conceitos, algoritmos, aplicações. 2. ed. Rio de Janeiro: LTC, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ]
+},
+{
+  "Nome (ptBR)": "Inteligência de Negócios e Armazenamento de Dados",
+  "Nome (enUS)": "Business Intelligence and Data",
+  "Código": "BIA107",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Conceitos e tecnologias para organização, modelagem e análise de dados em apoio à tomada de decisão. Banco de dados relacionais, não relacionais e multidimensionais. Processos de ETL, modelagem dimensional, OLAP e fundamentos de inteligência de negócios.",
+  "Conteúdo Programático": [
+    "Introdução à inteligência de negócios (BI): conceitos, objetivos e aplicações.",
+    "Modelagem de dados: modelo relacional, MER e DER.",
+    "Banco de dados relacionais: SQL, normalização, integridade e consultas.",
+    "NoSQL e bancos de dados não estruturados: documentos, grafos e chave-valor.",
+    "Modelagem dimensional: fatos, dimensões, estrelas e flocos de neve.",
+    "Processos ETL: extração, transformação e carga de dados.",
+    "Armazenamento de dados: data warehouse e data lake.",
+    "Consultas analíticas e OLAP: operações roll-up, drill-down, slice e dice.",
+    "Ferramentas de visualização e dashboards: princípios de design de relatórios.",
+    "Estudos de caso: uso de dados em decisões empresariais e operacionais."
+  ],
+  "Bibliografia Básica": [
+    "SCHAEDLER, Andrew; MENDES, Giselly Santos. Business intelligence . 1st ed. Curitiba: Intersaberes, 2021. E-book . Available at: https://plataforma.bvirtual.com.br. Accessed on: December 22, 2025.",
+    "SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistemas de bancos de dados. 6. ed. São Paulo: Pearson, 2013. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "VIDA, Edinilson da Silva; ALVES, Nicolli S. Rios; FERREIRA, Rafael G. Coimbra; et al. Data warehouse. Porto Alegre: Grupo A, 2021. E-book. Disponível em: <https://integrada.minhabiblioteca.com.br/reader/books/9786556901916>. Acesso em: 22 dez. 2025"
+    ],
+  "Bibliografia Complementar": [
+    "DATE, C. J. Introdução a sistemas de bancos de dados. 8. ed. Rio de Janeiro: Campus, 2004. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "HELMERS, Shawn; LARSON, Baya Dewitt. Fundamentos de BI: inteligência de negócios orientada por dados. 2. ed. São Paulo: Alta Books, 2022. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "KRUG, Michael. Bancos de dados NoSQL: fundamentos e aplicações. 1. ed. São Paulo: Érica, 2021. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025.",
+    "PANIZ, David. NoSQL : How to store the data of a modern application. São Paulo, SP: Casa do Código, 2016. E-book . Available at: https://plataforma.bvirtual.com.br. Accessed on: December 22, 2025.",
+    "KIMBALL, Ralph; ROSS, Margy. The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. 3. ed. Indianapolis: Wiley, 2013.",
+    "PONNAIAH, Paulraj. Data Warehousing Fundamentals. 1. ed. New York: Wiley, 2001.",
+    "FERREIRA, Rodrigo Siqueira. Banco de dados: teoria e prática. 1. ed. São Paulo: Novatec, 2020. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: jun/2025."
+  ]
+},{
+  "Nome (ptBR)": "Aprendizado por Reforço",
+  "Nome (enUS)": "Reinforcement Learning",
+  "Código": "BCC131",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4 horas/aula semanais",
+    "Prática": "0 horas/aula semanais"
+  },
+  "Ementa": "Aprendizado por reforço: formulação, modelagem, métodos baseados em valores, métodos baseados em políticas, métodos baseados em modelos, aprendizado por imitação, meta-learning.",
+  "Conteúdo Programático": [
+    "Formulação de problemas de aprendizado por reforço (espaço de ações, espaço de estados, ambiente)",
+    "Métodos tabulares (Programação Dinâmica, Monte Carlo, Diferença Temporal)",
+    "Aproximação de funções (Deep Q-networks)",
+    "Gradientes de políticas (REINFORCE)",
+    "Aprendizado por reforço baseado em modelos",
+    "Aprendizado por imitação",
+    "Meta-learning"
+  ],
+  "Bibliografia Básica": [
+    "SUTTON, Richard S.; BARTO, Andrew G. Reinforcement learning: an introduction. 2. ed. Cambridge: MIT Press, 2018.",
+    "GRAESSER, Laura; KENG, Wah Loon. Foundations of deep reinforcement learning: theory and practice in Python. Boston: Addison-Wesley Professional, 2019.",
+    "LUGER, George F. Inteligência artificial. 6. ed. São Paulo: Pearson, 2014."
+  ],
+  "Bibliografia Complementar": [
+    "RUSSELL, Stuart J.; NORVIG, Peter. Artificial intelligence: a modern approach. 2. ed. Upper Saddle River: Prentice Hall, 2003.",
+    "POOLE, David L.; MACKWORTH, Alan K. Artificial intelligence: foundations of computational agents. 2. ed. Cambridge: Cambridge University Press, 2017. Disponível em: https://artint.info/2e/html/ArtInt2e.html.",
+    "FACELI, Katti; LORENA, Ana C.; GAMA, João; et al. Inteligência artificial: uma abordagem de aprendizado de máquina. Porto Alegre: Grupo GEN, 2021. Disponível em: https://integrada.minhabiblioteca.com.br/\\#/books/9788521637509."
+  ]
+},
+{
+  "Nome (ptBR)": "Fundamentos da Computação Paralela e Distribuída para Inteligência Artificial",
+  "Nome (enUS)": "Fundamentals of Parallel and Distributed Computing for Artificial Intelligence",
+  "Código": "BIA109",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos fundamentos computacionais para a execução de aplicações de Inteligência Artificial. Modelo de Von Neumann e suas limitações, concorrência, paralelismo e distribuição. Processos, threads, sincronização e paralelismo de tarefas e de dados. Métricas de desempenho e escalabilidade. Arquiteturas paralelas e sistemas distribuídos, computação em nuvem para IA e técnicas de treinamento paralelo e distribuído de modelos. Estudo de caso integrador em aprendizado dividido, distribuído e federado.",
+  "Conteúdo Programático": [
+    "Modelo de Von Neumann, gargalos de comunicação e limitações para workloads de Inteligência Artificial",
+    "Evolução da infraestrutura de computação para Inteligência Artificial",
+    "Concorrência, paralelismo e distribuição: definições e distinções conceituais",
+    "Processos, threads e execução concorrente em memória compartilhada",
+    "Condições de corrida e princípios básicos de sincronização",
+    "Paralelismo de tarefas e de dados",
+    "Métricas de desempenho e escalabilidade: speedup, eficiência, Leis de Amdahl e Gustafson",
+    "Taxonomia de Flynn e arquiteturas paralelas e distribuídas modernas",
+    "Fundamentos de sistemas distribuídos: memória distribuída, comunicação entre processos, sistemas de nomes e sincronização",
+    "Computação em nuvem para Inteligência Artificial: IaaS, PaaS, SaaS, elasticidade, escalabilidade e custos computacionais",
+    "Treinamento paralelo de modelos de Inteligência Artificial",
+    "Treinamento distribuído de modelos de Inteligência Artificial",
+    "Estudo de caso: Introdução ao aprendizado dividido (split learning), distribuído (distributed learning) e federado (federated learning)"
+  ],
+  "Bibliografia Básica": [
+    "SILBERSCHATZ, Abraham; GALVIN, Peter B.; GAGNE, Greg. Fundamentos de sistemas operacionais. Nova edição. São Paulo: LTC, 2015. ISBN 978-85-216-2321-2. Disponível em: <https://integrada.minhabiblioteca.com.br/\\#/books/978-85-216-3001-2>. Acesso em: jun. 2025.",
+    "TANENBAUM, Andrew S.; STEEN, Maarten van. Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo: Pearson Prentice Hall, 2007. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/411>. Acesso em: jun. 2025.",
+    "GRAMA, Ananth; GUPTA, Anshul; KARYPIS, George; KUMAR, Vipin. Introduction to parallel computing. 2. ed. Upper Saddle River: Pearson, 2003."
+  ],
+  "Bibliografia Complementar": [
+    "TANENBAUM, Andrew S. Sistemas operacionais modernos. 4. ed. São Paulo: Pearson, 2009. ISBN 978-85-430-0567-6. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/36876>. Acesso em: jun. 2025.",
+    "DEAN, Jeffrey; GHEMAWAT, Sanjay. MapReduce: simplified data processing on large clusters. Communications of the ACM, New York, v. 51, n. 1, p. 107–113, 2008.",
+    "PACHECO, Peter S. An introduction to parallel programming. 2. ed. Waltham: Morgan Kaufmann, 2011.",
+    "PATTERSON, David A.; HENNESSY, John L. Computer architecture: a quantitative approach. 4. ed. Amsterdam: Elsevier, 2009. ISBN 978-0-12-370490-0.",
+    "COULOURIS, George; DOLLIMORE, Jean; KINDBERG, Tim; BLAIR, Gordon. Sistemas distribuídos: conceitos e projeto. Tradução de Alexandre Carissimi e João Tortello. 5. ed. Porto Alegre: Bookman, 2013. Disponível em: <https://integrada.minhabiblioteca.com.br/\\#/books/9788582600542>. Acesso em: jun. 2025."
+  ]
+},
+{
+  "Nome (ptBR)": "Processamento de Linguagem Natural",
+  "Nome (enUS)": "Natural Language Processing",
+  "Código": "BIA110",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo de técnicas avançadas em Processamento de Linguagem Natural (PLN) e modelos de linguagem de larga escala (LLMs). Arquiteturas baseadas em transformadores, pré-treinamento, fine-tuning, geração de texto, aplicações e desafios éticos.",
+  "Conteúdo Programático": [
+    "Introdução ao Processamento de Linguagem Natural: história e desafios.",
+    "Representação de texto: embeddings tradicionais (TF-IDF, word2vec, GloVe) e contextualizados (ELMo, BERT).",
+    "Modelos de linguagem clássicos: n-gramas, Markov e RNNs.",
+    "Arquitetura Transformer: atenção, codificadores e decodificadores.",
+    "Modelos de linguagem de larga escala: GPT, BERT, T5 e variantes.",
+    "Pré-treinamento e fine-tuning: técnicas, datasets e estratégias.",
+    "Avaliação de modelos de linguagem: perplexidade, BLEU, ROUGE e outras métricas.",
+    "Aplicações práticas: chatbots, tradução automática, sumarização e análise de sentimento.",
+    "Desafios e limitações: vieses, ética, consumo computacional e explicabilidade.",
+    "Tendências atuais e pesquisas emergentes em PLN e LLMs.",
+    "Ética e Vieses e Limites de LLMs"
+  ],
+  "Bibliografia Básica": [
+    "JURAFSKY, Daniel; MARTIN, James H. Speech and Language Processing. 3. ed. Draft. 2023. Disponível em: https://web.stanford.edu/~jurafsky/slp3/. Acesso em: jun/2025.",
+    "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep Learning. Cambridge: MIT Press, 2016.",
+    "CASELI, Helena de Medeiros; NUNES, Maria das Graças Volpe (org.). Processamento de linguagem natural: conceitos, técnicas e aplicações em português. 3. ed. São Carlos: BPLN, 2024. Disponível em: <https://brasileiraspln.com/livro-pln>. Acesso em: 22 dez. 2025.",
+    "EISENSTEIN, Jacob. Introduction to natural language processing. Cambridge; London: The MIT Press, 2019. ISBN 978-0-262-04284-0. 536 p.",
+    "MARTINS, Júlio Serafim; LENZ, Maikon Lucian; SILVA, Michel Bernardo Fernandes da; et al. Processamentos de linguagem natural. Porto Alegre: Grupo A, 2020. E-book. Disponível em: <https://integrada.minhabiblioteca.com.br/reader/books/9786556900575>. Acesso em: 22 dez. 2025."
+  ],
+  "Bibliografia Complementar": [
+    "VASWANI, Ashish et al. Attention is All You Need. In: Advances in Neural Information Processing Systems (NeurIPS), 2017.",
+    "BENDER, Emily M.; GEBRU, Timnit; McMILLAN-MAJOR, Angelina; SHMITCHELL, Shmargaret. On the dangers of stochastic parrots: can language models be too big? In: ACM CONFERENCE ON FAIRNESS, ACCOUNTABILITY, AND TRANSPARENCY (FAccT), 2021, New York. Proceedings… New York: Association for Computing Machinery, 2021. p. 610–623. DOI: https://doi.org/10.1145/3442188.3445922.",
+    "RADFORD, Alec et al. Language Models are Few-Shot Learners. OpenAI, 2020. Disponível em: https://arxiv.org/abs/2005.14165.",
+    "DEVLIN, Jacob et al. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. 2019. Disponível em: https://arxiv.org/abs/1810.04805.",
+    "CHOWDHURY, Gaurav. Natural Language Processing. 1. ed. Springer, 2021.",
+    "MANNING, Christopher D.; SCHÜTZE, Hinrich. Foundations of Statistical Natural Language Processing. Cambridge: MIT Press, 1999.",
+    "BROWN, Tom et al. GPT-3: Language Models are Few-Shot Learners. OpenAI, 2020."
+  ]
+},
+{
+  "Nome (ptBR)": "Visão Computacional e Processamento de Imagem",
+  "Nome (enUS)": "Computer Vision and Image Processing",
+  "Código": "BIA111",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Introdução aos fundamentos da visão computacional e processamento de imagem digital. Técnicas para análise, transformação e interpretação de imagens. Aplicações em reconhecimento, segmentação e análise visual.",
+  "Conteúdo Programático": [
+    "Fundamentos da formação de imagens e percepção visual.",
+    "Representação digital de imagens: pixels, cores e formatos.",
+    "Operações básicas de processamento de imagens: filtragem, realce e transformação.",
+    "Detecção de bordas, contornos e extração de características.",
+    "Segmentação de imagens: métodos baseados em limiarização, region growing e clustering.",
+    "Morfologia matemática e processamento de formas.",
+    "Reconhecimento de padrões e classificação de imagens.",
+    "Visão computacional baseada em aprendizado: redes neurais convolucionais (CNNs).",
+    "Detecção e rastreamento de objetos em vídeo.",
+    "Aplicações práticas: reconhecimento facial, visão para robótica, análise médica."
+  ],
+  "Bibliografia Básica": [
+  "GONZALEZ, Rafael C.; WOODS, Richard E. Digital image processing. 3. ed. São Paulo: Pearson, 2009. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 22 dez. 2025.",
+  "BARELLI, Felipe. Introduction to computer vision: a practical approach with Python and OpenCV. São Paulo: Casa do Código, 2018. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 22 dez. 2025.",
+  "SZELISKI, Richard. Computer vision: algorithms and applications. 2. ed. Cham: Springer, 2022. E-book. DOI: https://doi.org/10.1007/978-3-030-34372-9."
+]
+,
+  "Bibliografia Complementar": [
+  "SZAJDAK, Marek. Introdução à visão computacional. 1. ed. Rio de Janeiro: LTC, 2021.",
+  "GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. Deep learning. Cambridge: MIT Press, 2016.",
+  "RUSSELL, Stuart; NORVIG, Peter. Inteligência artificial. 3. ed. São Paulo: Pearson, 2013.",
+  "FORSYTH, David A.; PONCE, Jean. Computer vision: a modern approach. 2. ed. Boston: Pearson, 2011.",
+  "BALLARD, Dana H.; BROWN, Christopher M. Computer vision. Englewood Cliffs: Prentice Hall, 1982.",
+  "ZHAO, Sheng et al. Deep learning for computer vision: a brief review. IEEE Access, v. 7, p. 156973–156984, 2019."
+]
+},{
+  "Nome (ptBR)": "Metodologia Científica para Inteligência Artificial",
+  "Nome (enUS)": "Scientific Methodology for Artificial Intelligence",
+  "Código": "BIA112",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos fundamentos epistemológicos da ciência e de seus métodos, com ênfase na filosofia da ciência. Análise dos elementos da pesquisa científica em ciência da computação, incluindo formulação de problemas, hipóteses e desenho experimental. Abordagem da metodologia científica própria da pesquisa em inteligência artificial, com foco em avaliação empírica, validade, reprodutibilidade, interpretação de resultados experimentais e ética",
+  "Conteúdo Programático": [
+  "Ciência e Demarcação Científica: critérios de cientificidade, distinção entre ciência, pseudociência e tecnologia, e limites do conhecimento científico.",
+  "Observação, Indução e Teoria: papel da observação na ciência, crítica ao indutivismo e influência das teorias na produção do conhecimento científico.",
+  "Progresso Científico e Mudança de Paradigmas: falsificacionismo, paradigmas científicos, programas de pesquisa e pluralismo metodológico.",
+  "Pesquisa em Ciência da Computação e Inteligência Artificial: natureza da pesquisa em computação, distinção entre pesquisa científica, experimental e desenvolvimento tecnológico.",
+  "Busca e avaliação de fontes bibliográficas: bases de dados, periódicos e conferências em IA.",
+  "Formulação de Problemas e Hipóteses: definição de problemas científicos, abstrações, modelos, hipóteses e objetivos de pesquisa.",
+  "Pesquisa Empírica em Inteligência Artificial: características da investigação empírica em IA e aprendizado de máquina, estudos exploratórios e confirmatórios.",
+  "Desenho Experimental e Avaliação em Inteligência Artificial: experimentos controlados, comparação de métodos, métricas e interpretação de resultados.",
+  "Rigor Científico, Validade e Reprodutibilidade em IA: validade interna e externa, vieses experimentais, reprodutibilidade e boas práticas em pesquisa em IA.",
+  "Avaliação Empírica e Inferência em Sistemas de IA: métricas de desempenho, testes estatísticos, comparação de modelos e interpretação científica de evidências.",
+  "Ética em pesquisa científica: plágio, integridade, viés algorítmico e responsabilidade social."
+],
+  "Bibliografia Básica": [
+      "CHALMERS, Alan F. O que é ciência, afinal? São Paulo: Brasiliense, 1993.",
+      "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para ciência da computação. 2. ed. Rio de Janeiro: Elsevier, 2014.",
+      "PINEAU, Joelle et al. Improving reproducibility in machine learning research. Journal of Machine Learning Research, v. 22, n. 164, p. 1–20, 2021.",
+      "RAINIO, O.; TEUHO, J.; KLÉN, R. Evaluation metrics and statistical tests for machine learning. Scientific Reports, London, v. 14, p. 6086, 2024. DOI: 10.1038/s41598-024-56706-x. Disponível em: <https://doi.org/10.1038/s41598-024-56706-x>. Acesso em: dez. 2025."
+  ],
+  "Bibliografia Complementar": [
+    "NEWELL, Allen; SIMON, Herbert A. Computer science as empirical inquiry: symbols and search. Communications of the ACM, v. 19, n. 3, p. 113–126, 1976.",
+    "COHEN, Paul R. Empirical methods for artificial intelligence. AI Magazine, v. 16, n. 1, p. 63–73, 1995.",
+    "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para ciência da computação. 1. ed. Rio de Janeiro: Elsevier, 2009.",
+    "KAPLAN, David M. Philosophy of Technology. 2. ed. New York: Routledge, 2017.",
+    "ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023, NBR 10520 e demais normas para trabalhos acadêmicos. Disponível em: https://www.abnt.org.br. Acesso em: jun/2025.",
+    "LIPTON, Zachary C.; STEINHARDT, Jacob. Troubling trends in machine learning scholarship. arXiv preprint, arXiv:1807.03341, 2018.",
+    "OLTEANU, Alexandra; BLODGETT, Su Lin; BALAYN, Agathe; WANG, Angelina; DIAZ, Fernando; CALMON, Flavio du Pin; MITCHELL, Margaret; EKSTRAND, Michael; BINNS, Reuben; BAROCAS, Solon. Rigor in AI: doing rigorous AI work requires a broader, responsible AI-informed conception of rigor. arXiv preprint, arXiv:2506.14652, 2025. Disponível em: <https://arxiv.org/abs/2506.14652>. Acesso em: dez. 2025.",
+    "HERRMANN, Moritz; LANGE, F. Julian D.; EGGENSPERGER, Katharina; CASALICCHIO, Giuseppe; WEVER, Marcel; FEURER, Matthias; RÜGAMER, David; HÜLLERMEIER, Eyke; BOULESTEIX, Anne-Laure; BISCHL, Bernd. Position: why we must rethink empirical research in machine learning. arXiv preprint, arXiv:2405.02200, 2024. Disponível em: <https://arxiv.org/abs/2405.02200>. Acesso em: dez. 2025."
+  ]
+},{
+  "Nome (ptBR)": "Segurança, Ética e Sociedade em Inteligência Artificial",
+  "Nome (enUS)": "AI Ethics, Safety and Risk",
+  "Código": "BIA113",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo dos riscos associados a sistemas de Inteligência Artificial e dos fundamentos técnicos que sustentam tais riscos. Análise de riscos catastróficos, uso malicioso e dinâmicas competitivas no desenvolvimento de IA. Fundamentos de Inteligência Artificial relevantes para segurança, incluindo aprendizado de máquina, deep learning, leis de escala e velocidade de desenvolvimento. Segurança de agentes individuais, abordando monitoramento, robustez, alinhamento e capacidades emergentes. Engenharia de segurança aplicada a sistemas de IA, incluindo confiabilidade, decomposição de riscos, falhas de componentes, fatores sistêmicos e eventos extremos. Análise da IA como sistema complexo e sociotécnico.",
+  "Conteúdo Programático": [
+    "Visão Geral dos Riscos Catastróficos da Inteligência Artificial: principais riscos existenciais e sistêmicos da IA, incluindo uso malicioso, corrida tecnológica e falhas organizacionais.",
+    "Fundamentos de Inteligência Artificial: conceitos básicos de IA, aprendizado de máquina e aprendizado profundo, com ênfase em leis de escala e ritmo de desenvolvimento.",
+    "Segurança em Sistemas de Agente Único: problemas de alinhamento, robustez, monitoramento e segurança em agentes individuais de IA.",
+    "Engenharia de Segurança: princípios e métodos de engenharia de segurança aplicados a sistemas de IA, incluindo confiabilidade e análise de falhas.",
+    "Sistemas Complexos: noções de sistemas complexos e comportamentos emergentes relevantes para a segurança em IA.",
+    "Inteligência Artificial Benéfica e Ética das Máquinas: fundamentos éticos, legais e sociais para o desenvolvimento de sistemas de IA alinhados a valores humanos.",
+    "Problemas de Ação Coletiva: desafios de cooperação, conflito e incentivos no desenvolvimento e uso da IA.",
+    "Governança: estruturas e políticas de governança da IA em níveis corporativo, nacional e internacional."
+  ],
+  "Bibliografia Básica": [
+    "HENDRYCKS, Dan. Introduction to AI Safety, Ethics and Society. Boca Raton: Taylor \\& Francis, 2024. ISBN 978-1-032-79802-8. Disponível em: <https://www.aisafetybook.com>. Acesso em: 17 dez. 2025.",
+    "RUSSELL, Stuart. Inteligência artificial a nosso favor: como manter o controle sobre a tecnologia. Tradução de Clóvis Marques. São Paulo: Companhia das Letras, 2020.",
+    "AMODEI, Dario et al. Concrete problems in AI safety. arXiv preprint, arXiv:1606.06565, 2016. Disponível em: <https://arxiv.org/abs/1606.06565>. Acesso em: 17 dez. 2025."
+  ],
+  "Bibliografia Complementar": [
+    "BOSTROM, Nick. Superinteligência: caminhos, perigos e estratégias. Tradução de Laura Teixeira Motta. Lisboa: Gradiva, 2017.",
+    "PERROW, Charles. Acidentes normais: vivendo com tecnologias de alto risco. São Paulo: Editora Senac São Paulo, 2007.",
+    "LEWIS, David et al. Engineering safe AI systems. Communications of the ACM, New York, v. 65, n. 3, p. 36–38, 2022.",
+    "BRASIL. Ministério da Ciência, Tecnologia e Inovações. Estratégia brasileira de inteligência artificial (EBIA). Brasília, DF: MCTI, 2021. Disponível em: <https://www.gov.br/mcti>. Acesso em: 17 dez. 2025."
+  ]
+},
+ {
+  "Nome (ptBR)": "Projeto 1: Resolução de Problemas do Mundo Real",
+  "Nome (enUS)": "Project 1: Real-World Problem Solving",
+  "Código": "BIA201",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "90",
+    "Extensionista": "6",
+    "Teórica": "0",
+    "Prática": "0"
+  },
+  "Ementa": "Desenvolvimento de projetos extensionistas voltados à identificação e resolução de problemas reais com aplicação de técnicas de inteligência artificial e computação. Enfoque em trabalho interdisciplinar, colaboração com a comunidade e inovação social.",
+  "Conteúdo Programático": [
+    "Identificação e definição de problemas reais em diferentes contextos sociais e econômicos.",
+    "Levantamento e análise das necessidades dos stakeholders.",
+    "Metodologias de pesquisa aplicada e extensão universitária.",
+    "Planejamento e gestão de projetos colaborativos.",
+    "Aplicação de técnicas de inteligência artificial e computação para desenvolvimento de soluções.",
+    "Desenvolvimento, implementação e prototipagem de projetos.",
+    "Avaliação de impacto social e técnico dos projetos.",
+    "Documentação e apresentação dos resultados.",
+    "Trabalho em equipe e comunicação interdisciplinar.",
+    "Ética, responsabilidade social e sustentabilidade em projetos tecnológicos.",
+    "\\textbf{Perfil da Comunidade:} A disciplina atua em parceria com comunidades locais, órgãos públicos, escolas, ONGs, associações comunitárias e pequenos negócios que enfrentam desafios reais relacionados a tecnologia, gestão ou inclusão digital. Os projetos são desenvolvidos de forma colaborativa, com participação da comunidade na identificação das necessidades, definição das soluções e avaliação dos resultados, priorizando contextos com demandas sociais claras e potencial de impacto.",
+    "\\textbf{Objetivos Extencionistas:} A disciplina visa (i) identificar e co-construir soluções tecnológicas para problemas reais em conjunto com comunidades e instituições locais, (ii) aplicar técnicas de computação e inteligência artificial de modo a gerar impacto social e apoiar demandas comunitárias, (iii) promover a inclusão digital e a democratização do conhecimento aproximando a universidade da sociedade, (iv) desenvolver competências sociotécnicas nos discentes, como comunicação, ética, cooperação e responsabilidade social, e (v) fortalecer o papel da UFOP como agente de transformação social por meio de projetos colaborativos e tecnologicamente orientados."
+  ],
+  "Bibliografia Básica": [
+    "SILVA, Maria Aparecida; LIMA, José Carlos. Metodologias de Pesquisa e Extensão. 1. ed. EDUFBA, 2019.",
+    "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. Campinas: Papirus, 2013.",
+    "KELNER, John; JACOBSON, Steve. Project-Based Learning and Extension: A Guide to Community Engagement. Routledge, 2020."
+  ],
+  "Bibliografia Complementar": [
+    "HECK, Angela; FERREIRA, Paulo. Inovação Social e Extensão Universitária. 1. ed. Editora UFSC, 2018.",
+    "BROWN, Tim. Change by Design: How Design Thinking Creates New Alternatives for Business and Society. HarperBusiness, 2009.",
+    "GIBSON, David. Managing Successful Projects with PRINCE2. 6. ed. The Stationery Office, 2017.",
+    "RUSSELL, Stuart; NORVIG, Peter. Inteligência Artificial. 3. ed. Pearson, 2013. (Capítulo sobre aplicações práticas).",
+    "MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. Brasport, 2024."
+  ]
+},
+{
+  "Nome (ptBR)": "Projeto 2: Resolução de Problemas do Mundo Real",
+  "Nome (enUS)": "Project 2: Real-World Problem Solving",
+  "Código": "BIA202",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "90",
+    "Extensionista": "6",
+    "Teórica": "0",
+    "Prática": "0"
+  },
+  "Ementa": "Continuação do desenvolvimento de projetos extensionistas focados na solução de problemas reais, com aprofundamento técnico e interdisciplinar. Ênfase em prototipagem avançada, validação e avaliação de impacto social e tecnológico.",
+  "Conteúdo Programático": [
+    "Revisão e aprimoramento dos projetos iniciados em Projeto 1.",
+    "Técnicas avançadas para desenvolvimento e otimização de soluções.",
+    "Validação e testes com usuários e stakeholders.",
+    "Metodologias para avaliação de impacto social e técnico.",
+    "Documentação técnica e relatórios de progresso.",
+    "Comunicação científica e apresentação de resultados.",
+    "Gestão de projetos e planejamento de etapas finais.",
+    "Ética e responsabilidade social no desenvolvimento tecnológico.",
+    "Trabalho colaborativo interdisciplinar e com a comunidade.",
+    "Preparação para continuidade e escalabilidade dos projetos.",
+    "\\textbf{Perfil da Comunidade:} A disciplina atua em parceria com comunidades locais, órgãos públicos, escolas, ONGs, associações comunitárias e pequenos negócios que enfrentam desafios reais relacionados a tecnologia, gestão ou inclusão digital. Os projetos são desenvolvidos de forma colaborativa, com participação da comunidade na identificação das necessidades, definição das soluções e avaliação dos resultados, priorizando contextos com demandas sociais claras e potencial de impacto.",
+    "\\textbf{Objetivos Extencionistas:} A disciplina visa (i) identificar e co-construir soluções tecnológicas para problemas reais em conjunto com comunidades e instituições locais, (ii) aplicar técnicas de computação e inteligência artificial de modo a gerar impacto social e apoiar demandas comunitárias, (iii) promover a inclusão digital e a democratização do conhecimento aproximando a universidade da sociedade, (iv) desenvolver competências sociotécnicas nos discentes, como comunicação, ética, cooperação e responsabilidade social, e (v) fortalecer o papel da UFOP como agente de transformação social por meio de projetos colaborativos e tecnologicamente orientados."
+  ],
+  "Bibliografia Básica": [
+    "SILVA, Maria Aparecida; LIMA, José Carlos. Metodologias de Pesquisa e Extensão. 1. ed. EDUFBA, 2019.",
+    "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. Campinas: Papirus, 2013.",
+    "KELNER, John; JACOBSON, Steve. Project-Based Learning and Extension: A Guide to Community Engagement. Routledge, 2020."
+  ],
+  "Bibliografia Complementar": [
+    "HECK, Angela; FERREIRA, Paulo. Inovação Social e Extensão Universitária. 1. ed. Editora UFSC, 2018.",
+    "BROWN, Tim. Change by Design: How Design Thinking Creates New Alternatives for Business and Society. HarperBusiness, 2009.",
+    "GIBSON, David. Managing Successful Projects with PRINCE2. 6. ed. The Stationery Office, 2017.",
+    "RUSSELL, Stuart; NORVIG, Peter. Inteligência Artificial. 3. ed. Pearson, 2013. (Capítulo sobre aplicações práticas).",
+    "MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. Brasport, 2024."
+  ]
+},
+{
+  "Nome (ptBR)": "Projeto 3: Resolução de Problemas do Mundo Real",
+  "Nome (enUS)": "Project 3: Real-World Problem Solving",
+  "Código": "BIA203",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "90",
+    "Extensionista": "6",
+    "Teórica": "0",
+    "Prática": "0"
+  },
+  "Ementa": "Conclusão dos projetos extensionistas iniciados nas disciplinas anteriores, com foco na entrega final, avaliação de resultados, documentação completa e disseminação das soluções desenvolvidas para problemas reais.",
+  "Conteúdo Programático": [
+    "Finalização e refinamento das soluções desenvolvidas.",
+    "Validação definitiva com usuários e stakeholders.",
+    "Avaliação do impacto social, econômico e tecnológico.",
+    "Documentação técnica, científica e de extensão.",
+    "Preparação e realização de apresentações e defesas dos projetos.",
+    "Divulgação e publicação dos resultados em eventos e mídias acadêmicas e comunitárias.",
+    "Planejamento para continuidade, manutenção e escalabilidade das soluções.",
+    "Ética e responsabilidade na aplicação dos projetos.",
+    "Trabalho colaborativo interdisciplinar e comunitário.",
+    "Reflexão crítica sobre o processo de extensão e inovação social.",
+    "\\textbf{Perfil da Comunidade:} A disciplina atua em parceria com comunidades locais, órgãos públicos, escolas, ONGs, associações comunitárias e pequenos negócios que enfrentam desafios reais relacionados a tecnologia, gestão ou inclusão digital. Os projetos são desenvolvidos de forma colaborativa, com participação da comunidade na identificação das necessidades, definição das soluções e avaliação dos resultados, priorizando contextos com demandas sociais claras e potencial de impacto.",
+    "\\textbf{Objetivos Extencionistas:} A disciplina visa (i) identificar e co-construir soluções tecnológicas para problemas reais em conjunto com comunidades e instituições locais, (ii) aplicar técnicas de computação e inteligência artificial de modo a gerar impacto social e apoiar demandas comunitárias, (iii) promover a inclusão digital e a democratização do conhecimento aproximando a universidade da sociedade, (iv) desenvolver competências sociotécnicas nos discentes, como comunicação, ética, cooperação e responsabilidade social, e (v) fortalecer o papel da UFOP como agente de transformação social por meio de projetos colaborativos e tecnologicamente orientados."
+  ],
+  "Bibliografia Básica": [
+    "SILVA, Maria Aparecida; LIMA, José Carlos. Metodologias de Pesquisa e Extensão. 1. ed. EDUFBA, 2019.",
+    "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. Campinas: Papirus, 2013.",
+    "KELNER, John; JACOBSON, Steve. Project-Based Learning and Extension: A Guide to Community Engagement. Routledge, 2020."
+  ],
+  "Bibliografia Complementar": [
+    "HECK, Angela; FERREIRA, Paulo. Inovação Social e Extensão Universitária. 1. ed. Editora UFSC, 2018.",
+    "BROWN, Tim. Change by Design: How Design Thinking Creates New Alternatives for Business and Society. HarperBusiness, 2009.",
+    "GIBSON, David. Managing Successful Projects with PRINCE2. 6. ed. The Stationery Office, 2017.",
+    "RUSSELL, Stuart; NORVIG, Peter. Inteligência Artificial. 3. ed. Pearson, 2013. (Capítulo sobre aplicações práticas).",
+    "MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. Brasport, 2024."
+  ]
+},
+{
+  "Nome (ptBR)": "Projeto 4: Resolução de Problemas do Mundo Real",
+  "Nome (enUS)": "Project 4: Real-World Problem Solving",
+  "Código": "BIA204",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "90",
+    "Extensionista": "6",
+    "Teórica": "0",
+    "Prática": "0"
+  },
+  "Ementa": "Desenvolvimento avançado de projetos extensionistas com foco na resolução de problemas reais, incorporando aprimoramentos técnicos, análise crítica dos resultados e estratégias para sustentabilidade e escalabilidade das soluções.",
+  "Conteúdo Programático": [
+    "Avaliação e análise crítica dos projetos anteriores.",
+    "Incorporação de melhorias técnicas e funcionais nas soluções.",
+    "Estudo de viabilidade para escalabilidade e sustentabilidade.",
+    "Integração de novas tecnologias e abordagens inovadoras.",
+    "Documentação atualizada e elaboração de relatórios finais.",
+    "Preparação para divulgação acadêmica e comunitária.",
+    "Planejamento estratégico para continuidade dos projetos.",
+    "Considerações éticas e responsabilidade social.",
+    "Trabalho colaborativo multidisciplinar e com a comunidade.",
+    "Reflexões sobre o impacto social e tecnológico dos projetos.",
+    "\\textbf{Perfil da Comunidade:} A disciplina atua em parceria com comunidades locais, órgãos públicos, escolas, ONGs, associações comunitárias e pequenos negócios que enfrentam desafios reais relacionados a tecnologia, gestão ou inclusão digital. Os projetos são desenvolvidos de forma colaborativa, com participação da comunidade na identificação das necessidades, definição das soluções e avaliação dos resultados, priorizando contextos com demandas sociais claras e potencial de impacto.",
+    "\\textbf{Objetivos Extencionistas:} A disciplina visa (i) identificar e co-construir soluções tecnológicas para problemas reais em conjunto com comunidades e instituições locais, (ii) aplicar técnicas de computação e inteligência artificial de modo a gerar impacto social e apoiar demandas comunitárias, (iii) promover a inclusão digital e a democratização do conhecimento aproximando a universidade da sociedade, (iv) desenvolver competências sociotécnicas nos discentes, como comunicação, ética, cooperação e responsabilidade social, e (v) fortalecer o papel da UFOP como agente de transformação social por meio de projetos colaborativos e tecnologicamente orientados."
+  ],
+  "Bibliografia Básica": [
+    "SILVA, Maria Aparecida; LIMA, José Carlos. Metodologias de Pesquisa e Extensão. 1. ed. EDUFBA, 2019.",
+    "MORAIS, Regis de (org.). Filosofia da ciência e da tecnologia: introdução metodológica e crítica. Campinas: Papirus, 2013.",
+    "KELNER, John; JACOBSON, Steve. Project-Based Learning and Extension: A Guide to Community Engagement. Routledge, 2020."
+  ],
+  "Bibliografia Complementar": [
+    "HECK, Angela; FERREIRA, Paulo. Inovação Social e Extensão Universitária. 1. ed. Editora UFSC, 2018.",
+    "BROWN, Tim. Change by Design: How Design Thinking Creates New Alternatives for Business and Society. HarperBusiness, 2009.",
+    "GIBSON, David. Managing Successful Projects with PRINCE2. 6. ed. The Stationery Office, 2017.",
+    "RUSSELL, Stuart; NORVIG, Peter. Inteligência Artificial. 3. ed. Pearson, 2013. (Capítulo sobre aplicações práticas).",
+    "MUNIZ, Antonio et al. Inteligência artificial: entenda como a IA pode impactar no mercado de trabalho e na sociedade. Brasport, 2024."
+  ]
+},{
+  "Nome (ptBR)": "Monografia",
+  "Nome (enUS)": "Undergraduate Thesis",
+  "Código": "BIA205",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "90",
+    "Extensionista": "0",
+    "Teórica": "6",
+    "Prática": "0"
+  },
+  "Ementa": "Desenvolvimento de projeto memorial dos projetos de resolução de problemas do mundo real. Entrega de relatórios parciais ao longo do semestre. Entrega da monografia ao final do semestre. Apresentação oral dos resultados da monografia.",
+  "Conteúdo Programático": [
+    "Construção do projeto memorial.",
+    "Redação de relatórios das atividades.",
+    "Elaboração da monografia.",
+    "Apresentação oral dos resultados finais obtidos."
+  ],
+  "Bibliografia Básica": [
+    "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para Ciência da Computação. 2. ed. Rio de Janeiro: Elsevier, 2014.",
+    "MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 8. ed. São Paulo: Atlas, 2017.",
+    "Associação Brasileira de Normas Técnicas. NBR 14724: Informação e Documentação - Trabalhos acadêmicos - Apresentação. Rio de Janeiro, 2011."
+  ],
+  "Bibliografia Complementar": [
+    "GIL, Antônio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.",
+    "FRANÇA, Júnia Lessa; VASCONCELLOS, Ana Cristina de. Manual para normalização de publicações técnico-científicas. 8. ed. Belo Horizonte: Editora UFMG, 2009.",
+    "MEDEIROS, João Bosco. Redação Científica: práticas de fichamentos, resumos, resenhas. 13. ed. São Paulo: Atlas, 2019.",
+    "MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia científica. 7. ed. São Paulo: Atlas, 2017.",
+    "MATIAS-PEREIRA, José. Metodologia da pesquisa científica. 4. ed. São Paulo: Atlas, 2016.",
+    "FERNANDEZ, Brena Paula Magno. Métodos e técnicas de pesquisa. 7. ed. Editora Saraiva, 2012.",
+    "CERVO, Amado L.; BERVIAN, Pedro A.; SILVA, Roberto da. Metodologia Científica. 6. ed. São Paulo: Pearson, 2006."
+  ]
+}
+]
+}
