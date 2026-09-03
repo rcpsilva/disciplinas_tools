@@ -1,0 +1,73 @@
+[
+  {
+    "Nome (ptBR)": "Introdução à Sociologia",
+    "Nome (enUS)": "Introduction to Sociology",
+    "Código": "CSO113",
+    "Departamento": "Departamento de Ciências Sociais (DECSO)",
+    "Unidade Acadêmica": "ICSA",
+    "Modalidade": "presencial",
+    "Carga Horária": {
+      "Total": "30",
+      "Extensionista": "0",
+      "Teórica": "2",
+      "Prática": "0"
+    },
+    "Ementa": "Análise do debate sobre o campo específico de investigação conforme as diversas perspectivas teóricas e a partir dos conceitos gerais de cultura e natureza além de socialização e individualização. Análise dos processos comunicativos com foco na construção comunicativa do mundo social, a relação entre informação e interação social além de modernidade e crise de sentido. Estudo das estruturas sociais, mais especificamente os conceitos de instituição, ação social, controle social e solidariedade.",
+    "Conteúdo Programático": [
+      "As ciências sociais enquanto ciências da realidade",
+      "Conceitos fundamentais: instituição",
+      "Conceitos fundamentais: dominação/poder (maioridade; reflexividade)",
+      "Conceitos fundamentais: cultura/identidade (comunitarismo)",
+      "Conceitos fundamentais: liberdade/justiça (marxismo; feminismo)",
+      "Conceitos fundamentais: modernização (técnica; tradição)"
+    ],
+    "Bibliografia Básica": [
+      "Bauman, Zygmunt. Aprendendo a pensar com a sociologia: Zygmunt Bauman e Tim May; tradução: Alexandre Werneck. Rio de Janeiro: Zahar, 2010.",
+      "Berger, Peter L.; Luckmann, Thomas; tradução de Floriano de Souza Fernandes. A construção social da realidade: tratado de sociologia do conhecimento. Petrópolis: Vozes, 1973.",
+      "Berger, Peter L.; tradução de Donaldson M. Garschangen. Perspectivas sociológicas: uma visão humanística. 3. ed. Petrópolis: Vozes, 1976."
+    ],
+    "Bibliografia Complementar": [
+      "Goffman, Erving. A representação do eu na vida cotidiana. 13. ed. Petrópolis, RJ: Vozes, 2007.",
+      "Joas, Hans; tradução Nélio Schneider. A sacralidade da pessoa: nova genealogia dos direitos humanos. São Paulo: UNESP, c2012.",
+      "Gehlen, Arnold; [tradução de Margit Martincic com a colaboração de Daniel Camarinha da Silva]. Moral e hipermoral: uma ética pluralista. Rio de Janeiro: Tempo Brasileiro, 1984."
+    ]
+  },
+  {
+    "Nome (ptBR)": "Direito da Informática",
+    "Nome (enUS)": "Informatics Law",
+    "Código": "DIR260",
+    "Departamento": "Departamento de Direito (DEDIR)",
+    "Unidade Acadêmica": "EDTM",
+    "Modalidade": "presencial",
+    "Carga Horária": {
+      "Total": "30",
+      "Extensionista": "0",
+      "Teórica": "2",
+      "Prática": "0"
+    },
+    "Ementa": "Noções de direito. Comércio eletrônico e legislação pertinente. Estudos de direito comparado. O direito da informática e a contribuição hermenêutica da jurisprudência brasileira. Direito da informática e demais áreas do ordenamento jurídico.",
+    "Conteúdo Programático": [
+      "Governança e Jurisdição na Internet",
+      "Comércio eletrônico e contrato eletrônico",
+      "Privacidade e proteção de dados",
+      "Responsabilidade civil na Internet",
+      "Crimes Cibernéticos",
+      "Direito das Startups",
+      "A propriedade intelectual e o Direito Digital"
+    ],
+    "Bibliografia Básica": [
+      "Blum, Renato M. S. Opice; Bruno, Marcos Gomes da Silva; Abrusio, Juliana Canha. Manual de direito eletrônico e internet. São Paulo: Lex, 2006.",
+      "Paesani, Lilian. Direito na Sociedade da Informação III. São Paulo: Atlas, 2013.",
+      "Pinheiro, Patrícia Peck. Direito Digital. 6. ed. São Paulo: Saraiva, 2016."
+    ],
+    "Bibliografia Complementar": [
+      "De Lucca, Newton; Simão Filho, Adalberto. Direito & Internet: aspectos jurídicos relevantes. 2. ed. São Paulo: Quartier Latin, 2005.",
+      "Gandelman, Henrique. De Gutenberg a Internet: direitos autorais na era digital. 2. ed. Rio de Janeiro: Record, 1997.",
+      "Paesani, Liliana Minardi. Direito e internet: liberdade de informação, privacidade e responsabilidade civil. 3. ed. São Paulo: Atlas, 2006.",
+      "Pinheiro, Patrícia Peck. Proteção de dados pessoais - comentários à Lei n. 13.709/2018 LGPD. São Paulo: Saraiva, 2018.",
+      "Rohrmann, Carlos Alberto. Curso de direito virtual. Belo Horizonte: Del Rey, 2005.",
+      "Silveira, Newton. Propriedade Intelectual: Propriedade Industrial, Direito de Autor, Software, Cultivares, Nome Empresarial, Abuso de Patentes. Barueri, SP: Manole, 2014.",
+      "Teixeira, Tarcisio; Lopes, Alan (coords.). Startups e Inovação: Direito no Empreendedorismo. Barueri, SP: Manole, 2017."
+    ]
+  }
+]
