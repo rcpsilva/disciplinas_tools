@@ -1,0 +1,1420 @@
+{
+  "Electives": [
+    {
+      "Name (Portuguese)": "Programação Funcional",
+      "Name (English)": "Functional Programming",
+      "Code": "BCC191",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "2",
+        "Practical": "2"
+      },
+      "Course Description": "Characteristics of the main programming paradigms; principles of the functional programming paradigm; main characteristics of functional programming languages: recursion, functional abstraction, higher-order functions, algebraic data types, polymorphism, type inference, strict and lazy evaluation, overloading; demonstrating the correctness of functional programs.",
+      "Course Content": [
+        "Introduction",
+        "Programming paradigms",
+        "Defining functions",
+        "Recursive functions",
+        "Tuples, lists, and parametric and overloading polymorphism",
+        "Pattern matching",
+        "Input and output",
+        "Anonymous and higher-order functions",
+        "Algebraic data types",
+        "Functors and Monads",
+        "Property-based testing",
+        "Reasoning about functional programs",
+        "Notions of dependent types in programming languages"
+      ],
+      "Basic Bibliography": [
+        "Lipovaca, Miran. Learn you a Haskell for the great good! No Starch Press. Disponível gratuitamente on-line: http://learnyouahaskell.com",
+        "O'Sullivan, Bryan; Stewart, Don; Goerzen, John. Real World Haskell. Disponível gratuitamente on-line: http://book.realworldhaskell.org",
+        "WADLER, Philip; KOKKE, Wen; SIEK, Jeremy. Programming Languages Foundations in Agda. Disponível gratuitamente on-line: https://plfa.github.io",
+        "MARLOW, Simon. Parallel and Concurrent Programming in Haskell. Disponível gratuitamente on-line: https://simonmar.github.io/pages/pcph.html"
+      ],
+      "Supplementary Bibliography": [
+        "Jhala, Ranjit; Seidel, Eric; Vazou, Niki. Programming with Refinement Types: An introduction to Liquid Haskell. Disponível gratuitamente on-line: http://ucsd-progsys.github.io/liquidhaskell-tutorial/",
+        "BIRD, Richard. Introduction to Functional Programming using Haskell. 2. ed. London: Prentice Hall Press, 1998.",
+        "MILNER, R.; TOFTE, Mads; HARPER, Robert. The definition of standard ML. Cambridge: MIT, 1997.",
+        "ULLMAN, Jeffrey D. Elements of ML programming. New Jersey: Prentice-Hall, 1998.",
+        "PAULSON, Laurence C. ML for the working programming. 2. ed. Cambridge: Cambridge University, 1996.",
+        "PEYTON JONES, Simon L. The implementation of functional programming languages. New York: Prentice-Hall, 1987."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Engenharia de Software II",
+      "Name (English)": "Software Engineering II",
+      "Code": "BCC194",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Software Development Processes. Software Requirements Engineering. Software Project Management. Software as a Service (SaaS). DevOps.",
+      "Course Content": [
+        "Development Processes: importance of processes for team productivity and product quality assurance; types of processes (sequential or cyclical, incremental and/or evolutionary); plan-driven processes (waterfall, spiral, Rational Unified Process); agile processes (Agile Manifesto, main characteristics, main differences between XP, Scrum and Kanban, criticisms of agile methods); Extreme Programming (historical context, principles and values, customer representative and user stories, iterations and releases, effort estimation, programming practices, project management); Scrum (historical context, development cycles, roles, artifacts, ceremonies); Kanban (historical context, product backlog, Kanban board, WIP limits)",
+        "Requirements Engineering: types of requirements (functional, non-functional, interface); object-oriented requirements elicitation and analysis techniques; requirements specification (behavior-driven development - BDD, user stories and test scenarios, use cases, UML use case diagrams); minimum viable product (MVP); A/B testing",
+        "Project Management: methods and techniques for project management based on the 10 PMI - Project Management Institute knowledge areas (scope, time, cost, quality, human resources, communications, risk, procurement, stakeholders and integration); techniques for defining the product backlog and work breakdown structure (WBS); team mobilization (processes, organization, roles and responsibilities, traceability, problem solving); effort estimation and pricing; tools for monitoring and controlling software development processes (Jira and Git)",
+        "Software as a Service (SaaS): introduction and historical context; basic concepts (Service-Oriented Architecture - SOA, Software as a Service, Cloud Computing); SaaS application architecture (client-server versus peer-to-peer architecture, web clients and scripting languages, communication via HTTP and URIs, representation via HTML and CSS, 3-tier architecture and horizontal scalability, Model-View-Controller - MVC architecture); SaaS application performance (responsiveness and availability, monitoring and bottleneck identification, use of caching, database queries); security: protection of customer data and the Brazilian General Data Protection Law (LGPD)",
+        "DevOps: version control (concepts, tools, multi-repositories versus mono-repositories); Continuous Integration - CI (motivation, concepts such as master/trunk, branches, merges, integration conflicts, gitflow); Continuous Delivery - CD (deployment, delivery, feature flags, release flags and business flags); tools for source code version control and CI/CD pipeline automation (Git)"
+      ],
+      "Basic Bibliography": [
+        "Valente, M. T. Engenharia de Software Moderna: Princípios e Práticas para Desenvolvimento de Software com Produtividade. 1ª edição. 2020. ISBN 978-6500019506. Disponível on-line: https://engsoftmoderna.info/",
+        "Patterson, D. A.; Fox, A. Construindo Software como Serviço (SaaS): Uma abordagem Ágil Usando Computação em Nuvem. 1st ed. Strawberry Canyon LLC, 2015. ISBN 9780984881277. Disponível on-line: http://www.saasbook.info/translations/br ou http://www.saasbook.info/first-edition",
+        "HULL, Elizabeth; JACKSON, Ken; DICK, Jeremy. Requirements Engineering. 3. ed. Springer. ISBN 978184996404. https://pergamum.ufop.br/pergamum/biblioteca/fotos.php?cod_acervo=1415964"
+      ],
+      "Supplementary Bibliography": [
+        "Sommerville, I. Engenharia de Software. 10º edição. São Paulo: Pearson, 2019. ISBN 9788543024974. https://plataforma.bvirtual.com.br/Leitor/Loader/168127/pdf/6?keep=True",
+        "Fowler, M. UML distilled: a brief guide to the standard object modeling language. 3nd ed. Boston: Addison Wesley, c2004. xxx, 175 p. (Object technology series). ISBN 9780321193681. https://integrada.minhabiblioteca.com.br/#/books/9788560031382/cfi/6/2!/4/18/52@0:76.8",
+        "Gamma, E. Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos / Erich Gamma... [et al.]. Reading: Addison Wesley, 1995. 395 p. (Addison-Wesley Professional Computing Series). ISBN 9788573076103. https://doku.pub/download/padroes-de-projeto-soluoes-reutilizaveis-de-software-orientado-a-objetos-erich-gammapdf-6lkvge8em804",
+        "PMBOK® Guide (2021). https://www.pmi.org/pmbok-guide-standards/",
+        "CRISPIN, Lisa; GREGORY, Janet. Agile testing: a practical guide for testers and agile teams. Upper Saddle River, NJ: Addison Wesley, c2009. xli, 533 p. (The Addison-Wesley signature series). ISBN 9780321534460."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Sistemas Distribuídos",
+      "Name (English)": "Distributed Systems",
+      "Code": "BCC195",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "2",
+        "Practical": "2"
+      },
+      "Course Description": "Concept of distributed systems. Architecture of distributed systems. Processes and inter-process communication. Naming service in distributed systems. Synchronization service in distributed systems. Consistency and replication service in distributed systems. Fault tolerance service in distributed systems. Distributed platforms and applications.",
+      "Course Content": [
+        "Introduction to distributed systems: architectures, examples, evolution, and remaining open challenges",
+        "Review: processes, inter-process communication, concurrent programming, and network programming",
+        "Concept of virtualization and introduction to virtual environments",
+        "Examples of distributed platforms operating in computational clouds",
+        "How to name and locate services in distributed environments",
+        "Mutual exclusion and distributed synchronization protocols",
+        "The consistency problem and replication protocols",
+        "Types of failure and protocols for fault tolerance and failure recovery",
+        "Examples of distributed applications (routing, ordering, graph problems, information retrieval, data mining, databases, among others)"
+      ],
+      "Basic Bibliography": [
+        "TANENBAUM, Andrew S.; STEEN, Maarten Van. Sistemas distribuídos: princípios e paradigmas. 2. ed. São Paulo: Pearson Prentice Hall, 2007.",
+        "DOLLIMORE, Jean; KINDBERG, Tim; TORTELLO, João; CARISSIMI, Alexandre; COULOURIS, George. Sistemas distribuídos: conceitos e projeto. 5. ed. Porto Alegre: Bookman, 2013."
+      ],
+      "Supplementary Bibliography": [
+        "KLEPPMANN, Martin. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems. 1. ed. São Paulo: Oreilly & Assoc, 2015.",
+        "VERAS, Manoel. Computação em Nuvem. 1. ed. Brasport, 2015. Disponível online em MinhaUFOP/BibliotecaDigital/BVirtualPearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/160695",
+        "SANTOS, Ricardo Ribeiro dos. FACOM – UFMS, 2020. Material de Sistemas Distribuídos. Disponível em: https://www.facom.ufms.br/~ricardo/Courses/DisSys/Material/ . Acesso em: 07/12/2020.",
+        "RODRIGUEZ, Noemi. PUC-RJ, 2020. Material de Sistemas Distribuídos. Disponível em: http://www.inf.puc-rio.br/~noemi/sd-19/ . Acesso em: 07/12/2020.",
+        "FERNANDEZ, Marcial Porto. UECE, 2020. Material de Sistemas Distribuídos. Disponível em: http://marcial.larces.uece.br/cursos/sistemas-distribuidos-2018-1 . Acesso em: 07/12/2020.",
+        "FIGUEIREDO, Daniel Ratton. UFRJ, 2020. Material de sistemas distribuídos. Disponível em: https://www.cos.ufrj.br/~daniel/sd/ . Acesso em: 07/12/2020."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Banco de Dados II",
+      "Name (English)": "Databases II",
+      "Code": "BCC281",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Transaction processing. Concurrency control. Failure recovery. Stored functions and triggers. Query optimization. Object-oriented databases. Introduction to XML. Advanced database topics.",
+      "Course Content": [
+        "Transaction processing: theory of transaction processing, transaction execution schedules",
+        "Concurrency control: theory of concurrency control, concurrency control techniques",
+        "Failure recovery: theory of failure recovery, failure recovery techniques",
+        "Stored functions and triggers: creation and use of stored functions, creation and use of triggers",
+        "Query optimization: algorithms for query processing and optimization, processing cost estimation",
+        "Object-oriented databases: theory of object-oriented databases, object definition language, object query language",
+        "Introduction to XML: XML syntax, XML and semi-structured data, XML and relational databases",
+        "Advanced database topics: data storage and indexing, spatial databases, distributed databases, text databases, non-relational databases, digital libraries, data warehouses"
+      ],
+      "Basic Bibliography": [
+        "ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, 2018. 1152 p.",
+        "SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. Sistema de banco de dados. 5. ed. Rio de Janeiro: Elsevier, 2006. 805 p.",
+        "DATE, Christopher J. Introdução a sistemas de bancos de dados. 8. ed. Rio de Janeiro: Elsevier, 2004. 1623 p."
+      ],
+      "Supplementary Bibliography": [
+        "RAMAKRISHNAN, Raghu; GEHRKE, Johannes. Sistemas de gerenciamento de banco de dados. 3. ed. São Paulo: McGraw-Hill, 2008. 905 p.",
+        "ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 6. ed. São Paulo: Pearson, Addison Wesley, 2011. 788 p.",
+        "AMADEU, Claudia V. Banco de Dados. 1. ed. São Paulo: Pearson, 2015. 208 p.",
+        "MEDEIROS, Luciano F. Banco de Dados: princípios e prática. 1. ed. Editora Intersaberes, 2013. 188 p.",
+        "PUGA, Sandra; FRANÇA, Edson; GOYA, Milton. Banco de dados: implementação em SQL, PL/SQL e Oracle 11g. 1. ed. São Paulo: Pearson, 2013. 356 p.",
+        "SETZER, Valdemar W.; SILVA, Flávio S. C. Bancos de dados. 1. ed. Editora Blucher, 2005. 393 p.",
+        "CASANOVA, Marco; CÂMARA, Gilberto; DAVIS, Clodoveu; VINHAS, Lúbia; QUEIROZ, Gilberto R. Bancos de Dados Geográficos. 1. ed. Curitiba: MundoGEO, 2005."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Programação Web",
+      "Name (English)": "Web Programming",
+      "Code": "BCC283",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Markup languages and style sheets; Front-end development topics; Server-side programming; How browsers work; Libraries and frameworks for Web application development.",
+      "Course Content": [
+        "Markup languages and style sheets: HTML (basic concepts and best practices, semantic web, responsiveness); CSS (basic concepts and best practices, block vs inline, selectors, box model, flexbox, position, responsiveness, animations)",
+        "Front-end development topics: basic scripting language concepts, Document Object Model (DOM), events, browser extensions, asynchronous events (fetch API, Promise), JSON",
+        "Server-side programming: HTTP requests, CORS, routes, databases, authentication",
+        "How browsers work: history, design principles",
+        "Libraries and frameworks for Web application development"
+      ],
+      "Basic Bibliography": [
+        "FLANAGAN, David. JavaScript: o guia definitivo. Porto Alegre: Bookman, 2013. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788565837484/. Acesso em: 31 jul. 2020.",
+        "FLATSCHART, Fábio. HTML5 Embarque imediato. Rio de Janeiro: Brasport, 2011. Disponível em: https://plataforma.bvirtual.com.br/Leitor/Publicacao/160673/epub/0. Acesso em: 31 jul. 2020.",
+        "SEGURADO, Valquiria Santos. Projeto de interface com o usuário. 1. ed. São Paulo: Pearson Education do Brasil, 2016. Disponível em: https://plataforma.bvirtual.com.br/Leitor/Publicacao/124143/pdf/0. Acesso em: 31 jul. 2020."
+      ],
+      "Supplementary Bibliography": [
+        "BANIN, Sérgio Luiz. Python 3: conceitos e aplicações: uma abordagem didática. São Paulo: Érica, 2018. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536530253. Acesso em: 02 ago. 2020.",
+        "CAELUM. Apostila do curso: Desenvolvimento Web com HTML, CSS e JavaScript. 2020. Disponível em: https://www.caelum.com.br/apostila-html-css-javascript/. Acesso em: 31 jul. 2020.",
+        "HAVERBEKE, Marijn. Eloquent JavaScript: A Modern Introduction to Programming. 3. ed., 2018. Disponível em: https://eloquentjavascript.net/. Acesso em: 02 ago. 2020.",
+        "MILETTO, Evandro Manara; BERTAGNOLLI, Silvia de Castro. Desenvolvimento de Software II: Introdução ao Desenvolvimento Web com HTML, CSS, JavaScript e PHP. Porto Alegre: Bookman, 2014. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788582601969. Acesso em: 02 ago. 2020.",
+        "SOUSA, Roque Fernando Marcos. Canvas HTML5. Rio de Janeiro: Brasport, 2013. Disponível em: https://plataforma.bvirtual.com.br/Leitor/Publicacao/160686/epub/0. Acesso em: 02 ago. 2020."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Redes Complexas",
+      "Name (English)": "Complex Networks",
+      "Code": "BCC284",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Introduction and basic concepts; Directed and weighted networks; Models and algorithms for generating complex networks; Degree correlations; Network robustness; Community detection; Dynamic network phenomena; Advanced topics.",
+      "Course Content": [
+        "Introduction and basic concepts: types of networks and applications; adjacency matrix, adjacency list, weighted networks; paths and distances, centrality measures, connectivity and transitivity",
+        "Directed and weighted networks: directed networks, the Web, PageRank",
+        "Models and algorithms for generating complex networks: random networks, small-world networks, scale-free property, Barabási-Albert model, dynamic networks",
+        "Degree correlations: assortativity",
+        "Network robustness: percolation, failures and attacks",
+        "Community detection: concepts and algorithms",
+        "Dynamic network phenomena: viral spreading and information diffusion, synchronization of coupled oscillators",
+        "Advanced topics"
+      ],
+      "Basic Bibliography": [
+        "BARABÁSI, A.-L. Network science. Cambridge: Cambridge University Press, 2016. 475 p.",
+        "MENCZER, F.; FORTUNATO, S.; DAVIS, C. A First Course in Network Science. Cambridge: Cambridge University Press, 2020. 300 p.",
+        "NEWMAN, M. Networks. 2. ed. Oxford: Oxford University Press, 2018. 800 p."
+      ],
+      "Supplementary Bibliography": [
+        "BARABÁSI, A.-L. Linked: how everything is connected to everything else and what it means for business, science and everyday life. New York: Plume, 2003. 294 p.",
+        "BARRAT, A.; MELY, M. B.; VESPIGNANI, A. Dynamical Processes on Complex Networks. Cambridge: Cambridge University Press, 2012. 361 p.",
+        "EASLEY, D.; KLEINBERG, J. Networks, Crowds, and Markets: Reasoning about a Highly Connected World. Cambridge: Cambridge University Press, 2010. 727 p.",
+        "ESTRADA, E. The structure of complex networks: theory and applications. Oxford: Oxford University Press, 2012. 478 p.",
+        "JACKSON, M. O. Social and Economic Networks. Princeton: Princeton University Press, 2010. 504 p."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Engenharia de Dados",
+      "Name (English)": "Data Engineering",
+      "Code": "BCC285",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "2",
+        "Practical": "2"
+      },
+      "Course Description": "Virtualization. Cloud computing. Clusters, virtual machines, containers, and container orchestrators. Data ingestion. Data modeling, storage, and querying. Data pipeline: design, implementation, and testing.",
+      "Course Content": [
+        "Course presentation: syllabus, objectives, bibliography",
+        "Virtualization concepts and overview of the main cloud environments",
+        "Basic operations for installing and managing a cluster of virtual machines",
+        "Basic operations for installing and managing containers and their orchestrators",
+        "Review: basic Python concepts, the pub/sub pattern, and messaging",
+        "Notebooks: concept, tools, and examples of best practices",
+        "Data ingestion: data types, existing architectures, and supporting tools",
+        "Data modeling: relational, non-relational, and multidimensional",
+        "Data storage: data ingestion into data lakes or data lakehouses",
+        "Data querying: tools, examples, and operationalization",
+        "Data pipeline: concepts and stages that make up a data pipeline; main tools for building and managing a data pipeline on virtual clusters; data pipeline bottlenecks and how to mitigate them; data pipeline examples; design, implementation, and testing of some data pipelines"
+      ],
+      "Basic Bibliography": [
+        "KLEPPMANN, Martin. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems. 1. ed. São Paulo: Oreilly & Assoc, 2015.",
+        "KUKREJA, Manoj. Data Engineering with Apache Spark, Delta Lake, and Lakehouse: Create scalable pipelines that ingest, curate, and aggregate complex data in a timely and secure way. 1. ed. Packt Publishing, 2021.",
+        "EAGAR, Gareth. Data Engineering with AWS: Learn how to design and build cloud-based data transformation pipelines using AWS. 1. ed. Packt Publishing, 2021.",
+        "JÚNIOR, Armando Kolbe. Computação em Nuvem. 1. ed. Contentus, 2020. Disponível online em MinhaUFOP/BibliotecaDigital/BVirtualPearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/184851",
+        "VITALINO, Jeferson Fernando Noronha; CASTRO, Marcus André Nunes. Descomplicando o Docker. 2. ed. Brasport, 2018. Disponível online em MinhaUFOP/BibliotecaDigital/BVirtualPearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/164690"
+      ],
+      "Supplementary Bibliography": [
+        "HARENSLAK, Bas P.; RUITER, Julian Rutger. Data Pipelines with Apache Airflow. 1. ed. Manning Publications, 2021.",
+        "Vários tutoriais sobre Jupyter notebooks. Disponível em: https://docs.jupyter.org/en/latest/ . Acesso em: 07/12/2021.",
+        "Vários tutoriais sobre Kubernetes. Disponível em: https://kubernetes.io/pt-br/docs/tutorials/ . Acesso em: 07/12/2021.",
+        "KOEN, Semi. Architecting a Machine Learning Pipeline. TowardsDataScience, 2019. Disponível em: https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7 . Acesso em: 07/12/2021.",
+        "YOSKOVICH, Tomer. Build your Data-Lake using AWS S3 & Athena. TowardsDataScience, 2019. Disponível em: https://medium.com/swlh/tutorial-build-your-data-lake-using-aws-s3-athena-150c1aaa44cf . Acesso em: 07/12/2021.",
+        "CARAMELLO, Ivan. Keeping Data Under (Your) Control with Apache Airflow. TowardsDataScience, 2022. Disponível em: https://medium.com/daitan-tech/keeping-data-under-your-control-with-apache-airflowa46f884f8c5d . Acesso em: 07/12/2021.",
+        "BLANCAS, Eduardo. On writing clean Jupyter notebooks. TowardsDataScience, 2021. Disponível em: https://medium.com/towards-data-science/on-writing-clean-jupyter-notebooks-abdf6c708c75 . Acesso em: 07/12/2021."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Visualização de Dados",
+      "Name (English)": "Data Visualization",
+      "Code": "BCC287",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Introduction to data visualization. Data representation. Scalar data visualization. Vector data visualization. Tensor data visualization. Information visualization.",
+      "Course Content": [
+        "Introduction to data visualization: definitions and types of visualization; visualization pipeline; computational tools",
+        "Data representation: continuous data; data sampling and reconstruction; discrete data sets (cell, mesh, and attribute)",
+        "Scalar data visualization: color mapping; contouring; height plots",
+        "Vector data visualization: vector glyphs; color coding; stream objects (line and tube)",
+        "Tensor data visualization: dimensionality reduction techniques; tensor glyphs; fiber tracking",
+        "Information visualization: relational data visualization; multidimensional data visualization"
+      ],
+      "Basic Bibliography": [
+        "FOLEY, James D. Computer graphics: principles and practice in C. 2nd ed. Reading, Mass.: Addison Wesley, 1996. 1175 p.",
+        "GONZALEZ, Rafael C.; WOODS, Richard E. Digital image processing. 3. ed. Upper Saddle River, NJ: Pearson Prentice Hall, 2008. 954 p.",
+        "HAN, Jiawei; KAMBER, Micheline; PEI, Jian. Data mining: concepts and techniques. 3. ed. Boston: Elsevier, 2012. 703 p.",
+        "PEDRINI, Hélio; SCHWARTZ, William Robson. Análise de imagens digitais: princípios, algoritmos e aplicações. São Paulo: Thomson Learning, 2008. 508 p.",
+        "SCHROEDER, Will; MARTIN, Ken; LORENSE, Bill. The visualization toolkit. New Jersey: Prentice-Hall, 1996. 826 p."
+      ],
+      "Supplementary Bibliography": [
+        "HAYKIN, Simon S. Redes neurais: princípios e prática. 2. ed. Porto Alegre: Bookman, 2001. 900 p.",
+        "KIRK, Andy. Data visualisation: a handbook for data driven design. 2. ed. London: Sage Publications Ltd, 2019. 328 p.",
+        "LIM, Tee T.; SMITS, Alexander J. Flow visualization: techniques and examples. 2. ed. London: Imperial College Press, 2012. 442 p.",
+        "MUNZNER, Tamara. Visualization analysis and design. 1. ed. New York: A K Peters/CRC Press, 2014. 428 p.",
+        "SPENCE, Robert. Information visualization: an introduction. 3. ed. London: Springer International Publishing, 2014. 346 p.",
+        "TELEA, Alexandru C. Data visualization: principles and practice. 2. ed. New York: A K Peters/CRC Press, 2014. 617 p.",
+        "TIERNY, Julien. Topological data analysis for scientific visualization. 1. ed. Switzerland: Springer International Publishing AG, 2017. 165 p."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Métodos Numéricos para Equações Diferenciais",
+      "Name (English)": "Numerical Methods for Differential Equations",
+      "Code": "BCC294",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Initial value problems for ordinary differential equations. Boundary value problems for ordinary differential equations. Numerical solutions for partial differential equations.",
+      "Course Content": [
+        "Initial value problems for ordinary differential equations: introduction to initial value problems; Euler's method; higher-order Taylor methods; Runge-Kutta methods; multistep methods; variable-step-size multistep methods; higher-order equations and systems of differential equations; application examples",
+        "Boundary value problems for ordinary differential equations: introduction to boundary value problems; linear shooting method; shooting method for nonlinear problems; finite difference method for linear problems; finite difference method for nonlinear problems; application examples",
+        "Numerical solutions for partial differential equations: introduction to partial differential equations; elliptic partial differential equations; parabolic partial differential equations; hyperbolic partial differential equations; application examples"
+      ],
+      "Basic Bibliography": [
+        "BURDEN, R. L.; FAIRES, J. D.; BURDEN, A. M. Análise numérica. 10. ed. São Paulo: Cengage Learning, c2016. 879 p. ISBN 9788522123407.",
+        "CAMPOS FILHO, F. F. Algoritmos numéricos. Rio de Janeiro: LTC, 2001. xv, 383 p. ISBN 8521612656.",
+        "RUGGIERO, M. A. G.; LOPES, V. L. R. Cálculo numérico: aspectos teóricos e computacionais. 2. ed. São Paulo: Makron Books, c1997. xvi, 406 p. ISBN 8534602042.",
+        "FRANCO, N. B. Cálculo numérico. São Paulo: Pearson Prentice Hall, 2006. 505 p. ISBN 8576050870.",
+        "DOERING, C. I.; LOPES, A. O. Equações diferenciais ordinárias. 2. ed. Rio de Janeiro: IMPA, 2007. 423 p. ISBN 9788524402395.",
+        "SMITH, G. D. Numerical solution of partial differential equations: finite difference methods. 3. ed. Oxford: Clarendon, 1992. 337 p. ISBN 0198596502."
+      ],
+      "Supplementary Bibliography": [
+        "QUARTERONI, A.; SACCO, R.; SALERI, F. Numerical Mathematics. 2. ed. New York: Springer, 2010. 657 p. ISBN 3642071015.",
+        "QUARTERONI, A.; VALLI, A. Numerical Approximation of Partial Differential Equations. 1. ed. New York: Springer, 2008. 562 p. ISBN 3540852670.",
+        "GOCKENBACH, M. S. Partial differential equations: analytical and numerical methods. Philadelphia: Society for Industrial and Applied Mathematics, c2002. xxii, 614 p. ISBN 0898715180."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Lógica Aplicada à Computação",
+      "Name (English)": "Logics in Computer Science",
+      "Code": "BCC295",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "First-order logic, the DPLL algorithm, and the use of SAT and SMT solvers. Intuitionistic logic and type theory. Use of proof assistants. Induction and co-induction and their use in program verification. Temporal logic and model checking.",
+      "Course Content": [
+        "Course presentation: motivation and evaluation criteria",
+        "Review of propositional logic: syntax, semantics, and natural deduction",
+        "Review of predicate logic: syntax, semantics, and natural deduction",
+        "The SAT problem and the DPLL algorithm",
+        "Modeling problems using SAT and using SAT solvers",
+        "Satisfiability Modulo Theories (SMT) and the DPLL-T algorithm",
+        "Modeling problems using SMT and SMT solvers",
+        "Intuitionistic logic and typed lambda calculus: the Curry-Howard isomorphism",
+        "Introduction to the use of type-theory-based proof assistants",
+        "Review: mathematical induction, proofs by structural induction",
+        "Induction over well-founded relations",
+        "Proofs by co-induction; use of co-induction in proof assistants",
+        "Temporal logic and model checking"
+      ],
+      "Basic Bibliography": [
+        "HUTH, Michael; RYAN, Mark. Lógica para ciência da computação: modelagem e argumentação sobre sistemas. 2. ed. LTC, 2008.",
+        "BERTOT, Yves; CASTÉRAN, Pierre. Interactive Theorem Proving and Program Development: The Coq'Art – The calculus of inductive constructions. 1. ed. Springer-Verlag, 2002.",
+        "MITCHELL, John. Foundations for Programming Languages. MIT Press, 1996."
+      ],
+      "Supplementary Bibliography": [
+        "BIERE, Armin; HEULE, Martin. Handbook of Satisfiability: Volume 185, Frontiers in Artificial Intelligence and Applications. 1. ed. IOS Press.",
+        "CLARKE, Edmund; GRUMBERG, Orna. Model Checking. 1. ed. MIT Press, 1999.",
+        "BAIER, Christel; KATOEN, Joost-Pieter. Principles of Model Checking. 1. ed. MIT Press, 2008.",
+        "SANGIORGI, Davide. Introduction to Bisimulation and Coinduction. 1. ed. Cambridge University Press, 2011."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Projeto de Software de Tempo Real",
+      "Name (English)": "Real-Time Software Design",
+      "Code": "BCC222",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "2",
+        "Practical": "2"
+      },
+      "Course Description": "Introduction to Operating Systems. Basic Operating System concepts. Introduction to Real-Time Operating Systems. Classification of Operating Systems. Concurrency. Scheduling for Operating Systems. Scheduling for Real-Time Operating Systems. Synchronization objects and Critical Section. Inter-task Communication. Time Management. Formal methods for Real Time: modeling, languages, verification. Development of real-time systems.",
+      "Course Content": [
+        "Operating System Concepts: characteristics of operating systems, processes, tasks, schedulers, scheduling policies, synchronization between tasks/processes, task and process states",
+        "Introduction to Real-Time Operating Systems: definitions and characteristics; motivation for real-time operating systems; periodic and aperiodic tasks (arrival time, ready time, execution time, period, deadline); priorities; classification (Hard and Soft RTOS); volatile and static global variables; preemptive and non-preemptive; real-time interrupts and exceptions; real-time task states; task control block (TCB); performance measures",
+        "Concurrent Systems: concepts and problems",
+        "Real-Time System Scheduling Policies",
+        "Synchronization Objects and Critical Section",
+        "Task Synchronization: busy waiting, semaphores, mutexes, deadlock",
+        "Inter-task Communication: shared memory, message passing",
+        "Real-Time Communication: architecture, access methods, real-time protocols",
+        "Formal Methods for Real Time: modeling, language, verification",
+        "Development of real-time systems"
+      ],
+      "Basic Bibliography": [
+        "BERNARDIN, Gustavo Weber; BARRIQUELLO, Carlos Henrique. Sistemas operacionais de tempo real e sua aplicação em sistemas embarcados. Editora Blucher, 2019. ISBN 9788521213970. Disponível na Minha Biblioteca: https://plataforma.bvirtual.com.br/Leitor/Publicacao/169968/pdf/ (acessível via Minha UFOP – Biblioteca Digital).",
+        "LABROSSE, J. J. MicroC/OS-III, The Real-Time Kernel, or a High Performance, Scalable, ROMable, Preemptive, Multitasking Kernel for Microprocessors, Microcontrollers & DSPs. Micrium Press, 2009. ISBN 978-0982337530 / 9788587918574. Disponível em: https://www.micrium.com/books/ucosiii/",
+        "TANENBAUM, Andrew S. Sistemas Operacionais Modernos. Editora Pearson, 2003. Disponível na Minha Biblioteca: https://plataforma.bvirtual.com.br/Leitor/Publicacao/36876/pdf/ (acessível via Minha UFOP – Biblioteca Digital)."
+      ],
+      "Supplementary Bibliography": [
+        "SILBERSCHATZ, Abraham; GAGNE, Greg; GALVIN, Peter B. Fundamentos de Sistemas Operacionais. John Wiley & Sons, 2008. ISBN 9780470128725. Disponível na Minha Biblioteca: https://integrada.minhabiblioteca.com.br/#/books/978-85-216-3001-2 (acessível via Minha UFOP – Biblioteca Digital).",
+        "DEITEL, H. M.; DEITEL, P. J.; CHOFFNES, D. R. Sistemas Operacionais. Editora Pearson, 2005. ISBN 9788576050117. Disponível na Minha Biblioteca: https://plataforma.bvirtual.com.br/Leitor/Loader/315/pdf (acessível via Minha UFOP – Biblioteca Digital Virtual Pearson).",
+        "TANENBAUM, Andrew S. Organização estruturada de computadores. 6. ed. Disponível na Biblioteca Pearson: https://plataforma.bvirtual.com.br/Acervo/Publicacao/3825 (acessível via Minha UFOP – Biblioteca Digital).",
+        "HALLINAN, Christopher. Embedded Linux Primer: A Practical Real-World Approach. Prentice-Hall, 2010. ISBN 9780137017836.",
+        "ABBOTT, Doug. Linux for Embedded and Real-time Applications. Newnes, 2006. ISBN 9780750679329.",
+        "BURNS, Alan; WELLINGS, Andy. Real-Time Systems & Programming Languages. Addison-Wesley, 1. ed. ISBN 9780201729887."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Estrutura de Dados II",
+      "Name (English)": "Data Structures II",
+      "Code": "BCC283",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Secondary memory storage. Secondary memory sorting. Secondary memory searching. String matching. Text compression. Spatial data structures.",
+      "Course Content": [
+        "Secondary memory storage: storage devices, sequential and random access",
+        "Secondary memory sorting: balanced multiway merging, replacement selection, polyphase merging, external quicksort",
+        "Secondary memory searching: indexed sequential access, B-tree, B*-tree",
+        "String matching: exact string matching, approximate string matching",
+        "Text compression: natural language text compression, Huffman coding",
+        "Spatial data structures: quadtree, kD-tree, R-tree"
+      ],
+      "Basic Bibliography": [
+        "SEDGEWICK, Robert. Algorithms. 4. ed. Upper Saddle River: Addison Wesley, 2011.",
+        "ZIVIANI, Nivio. Projeto de algoritmos: com implementações em Pascal e C. 5. ed. São Paulo: Pioneira, 2000.",
+        "CORMEN, Thomas H. ... [et al.]; tradução Vandenberg D. de Souza. Algoritmos: teoria e prática. Rio de Janeiro: Campus, 2002."
+      ],
+      "Supplementary Bibliography": [
+        "ZIVIANI, Nivio; BOTELHO, Fabiano C. Projeto de algoritmos: com implementações em Java e C++. São Paulo: Cengage Learning, 2015. (item inexistente na UFOP)",
+        "Bancos de dados geográficos. Curitiba: MundoGeo, 2005.",
+        "DEITEL, Harvey M. C++ how to program. Harvey M. Deitel, Paul J. Deitel. 6. ed. Boston: Prentice Hall, c2008.",
+        "MIZRAHI, Victorine Viviane. Treinamento em linguagem C. 2. ed. São Paulo: Pearson Education, c2010.",
+        "TENENBAUM, Aaron M. Estruturas de dados usando C. São Paulo: Makron Books, 1995."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Teoria da Computação",
+      "Name (English)": "Theory of Computation",
+      "Code": "BCC324",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Regular languages, regular expressions, finite-state automata. Context-free languages and grammars, pushdown automata. Context-sensitive languages and grammars. Turing machines. The Church-Turing thesis. Computability and decidability. The Chomsky hierarchy.",
+      "Course Content": [
+        "Introduction: alphabets, strings, and languages",
+        "Deterministic and Nondeterministic Finite-State Automata",
+        "Regular Expressions",
+        "Minimization of Finite Automata",
+        "Properties of Regular Languages",
+        "Pumping Lemma for Regular Languages (RLs)",
+        "Context-Free Grammars and Languages (CFLs)",
+        "Ambiguity",
+        "Properties of CFLs",
+        "Pushdown Automata",
+        "Chomsky Normal Form",
+        "Regular Grammars and Context-Sensitive Grammars",
+        "Pumping Lemma for CFLs",
+        "Turing Machines",
+        "The Church-Turing Thesis",
+        "Decision Problems",
+        "Undecidability of the Halting Problem",
+        "Decidable and undecidable problems about languages"
+      ],
+      "Basic Bibliography": [
+        "VIEIRA, Newton José. Introdução aos fundamentos da computação: linguagens e máquinas. São Paulo: Thomson Pioneira, 2006.",
+        "SIPSER, Michael. Introdução à teoria da computação. São Paulo: Thomson Learning, 2007.",
+        "SUDKAMP, Thomas A. Languages and machines: an introduction to the theory of computer science. 2. ed. Reading: Addison Wesley, c1997."
+      ],
+      "Supplementary Bibliography": [
+        "MENDELSON, Elliott. Introduction to mathematical logic. 3rd ed. Pacific Grove, CA: Wadsworth & Brooks/Cole Advanced Books & Software, 1987.",
+        "LEWIS, Harry R. Elementos de teoria da computação. 2. ed. Porto Alegre: Bookman, 2000.",
+        "EPSTEIN, Richard L. Computability: computable functions, logic and the foundations of mathematics. Pacific Grove: Wadsworth, c1989.",
+        "DAVIS, Martin. Computability and unsolvability. New York: Dover, c1982.",
+        "Handbook of theoretical computer science. Amsterdã: Elsevier."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Sistemas Operacionais",
+      "Name (English)": "Operational Systems",
+      "Code": "BCC344",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Overview and history of operating systems; operating system principles; process management; use of thread APIs (Application Programming Interface); memory management; device management; security and protection; file systems.",
+      "Course Content": [
+        "Introduction: definition, history, basic concepts, system calls, and structure",
+        "Processes and Threads: inter-process communication (IPC), scheduling, and deadlocks",
+        "Memory management: swapping, virtual memory, replacement algorithms, and segmentation",
+        "Input/Output: disks, clocks, networks, and terminals",
+        "File Systems: directories, file system implementation, and examples",
+        "Network security: basic concepts of cryptography, authentication, attacks, and protection mechanisms",
+        "Case Studies: overview, processes, memory management, I/O, file system, and security"
+      ],
+      "Basic Bibliography": [
+        "SILBERSCHATZ, Abraham. Fundamentos de sistemas operacionais. 8. ed. Rio de Janeiro: LTC, c2010.",
+        "SILBERSCHATZ, Abraham; GALVIN, Peter Baer; tradução e revisão técnica Carlos Camarão de Figueiredo. Sistemas operacionais: conceitos. São Paulo: Prentice-Hall, 2000.",
+        "TANENBAUM, Andrew S. Sistemas operacionais modernos. 2. ed. São Paulo: Prentice-Hall, 2003."
+      ],
+      "Supplementary Bibliography": [
+        "BACH, Maurice J. The design of the UNIX operating system. Englewood Cliffs, N.J.: Prentice-Hall, c1986.",
+        "STEVENS, W. Richard. Advanced programming in the UNIX environment. Reading, MA: Addison Wesley, c1992.",
+        "MACHADO, Francis B. Arquitetura de sistemas operacionais. 3. ed. Rio de Janeiro: LTC, 2002.",
+        "CÔRTES, Pedro Luiz. Sistemas operacionais: fundamentos. São Paulo: Érica, 2003.",
+        "DEITEL, Harvey M. An Introduction to operating systems. 2nd ed. Reading: Addison Wesley, 1990."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Interação Humano-Computador",
+      "Name (English)": "Human-Computer Interaction",
+      "Code": "BCC404",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "User interface and interaction. Quality in HCI. Theoretical approaches in HCI. Introduction to the interactive systems design process. Introduction to the interactive systems evaluation process.",
+      "Course Content": [
+        "User Interface and Interaction: concept of interface and interaction, importance of the HCI field in software development, history, HCI as a multidisciplinary field, benefits of HCI, interaction problems",
+        "Quality in HCI: usability, communicability, accessibility, user experience",
+        "Theoretical Approaches in HCI: experimental psychology (Hick-Hyman Law and Fitts's Law), cognitive engineering, semiotic engineering",
+        "Introduction to the Interactive Systems Design Process: task modeling, interaction modeling, prototyping, principles and guidelines for HCI design, interaction styles",
+        "Introduction to the Interactive Systems Evaluation Process: HCI evaluation planning, inspection-based evaluation, user testing"
+      ],
+      "Basic Bibliography": [
+        "PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen; tradução de Viviane Possamai. Design de interação: além da interação homem-computador. Porto Alegre: Bookman, 2005.",
+        "BARBOSA, Simone Diniz Junqueira. Interação humano-computador. Rio de Janeiro: Campus, 2010.",
+        "SOUZA, Clarisse da Silva Vieira Camelo de. The semiotic engineering of human-computer interaction. Cambridge, Mass.: MIT Press, 2005."
+      ],
+      "Supplementary Bibliography": [
+        "PREECE, Jenny. Human-computer interaction. Harlow: Addison Wesley, c1994.",
+        "CYBIS, Walter; BETIOL, Adriana Holtz; FAUST, Richard. Ergonomia e usabilidade: conhecimentos, métodos e aplicações. 2. ed. São Paulo: Novatec, 2007.",
+        "BENYON, David. Interação humano-computador. 2. ed. São Paulo: Pearson, 2011.",
+        "SHNEIDERMAN, Ben; PLAISANT, Catherine. Designing the user interface: strategies for effective human-computer interaction. 5th ed. Boston: Addison Wesley, 2010.",
+        "JACKO, Julie A. (ed.). The human-computer interaction handbook: fundamentals, evolving technologies, and emerging applications. 3rd ed. Boca Raton, FL: CRC Press, c2012."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Computação Gráfica",
+      "Name (English)": "Computer Graphics",
+      "Code": "BCC407",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Graphics systems; interactive graphics programming; modeling of three-dimensional objects and scenes; geometric transformations; viewing; lighting and shading; transparency and opacity; texture mapping; clipping; hidden surface removal; rasterization.",
+      "Course Content": [
+        "Graphics systems",
+        "Input and output devices",
+        "Graphics system architecture",
+        "Color",
+        "Graphics programming: application programmer interface, primitives and attributes, interactive techniques",
+        "Modeling of three-dimensional objects and scenes: elementary geometric objects, operations on geometric data, three-dimensional primitives, coordinate systems, object modeling",
+        "Data structures",
+        "Affine transformations",
+        "Object movement",
+        "Viewing: positioning the observer relative to the scene, viewing transformation, projection types, projection transformation",
+        "Lighting and shading: interaction between light and surfaces, light sources, Phong reflection model, shading of polygonal surfaces, transparency, texture mapping",
+        "Clipping: of line segments, of polygons, of other primitives",
+        "Hidden surface removal: back-face culling",
+        "Z-buffer sorting algorithm: depth sorting",
+        "Rasterization: of line segments, of polygons",
+        "Aliasing"
+      ],
+      "Basic Bibliography": [
+        "CONCI, Aura; AZEVEDO, Eduardo. Computação gráfica: geração de imagens. 8. ed. Rio de Janeiro: Campus, 2003.",
+        "ANGEL, Edward. Interactive computer graphics: a top-down approach with OpenGL. 6th ed. Boston: Addison Wesley, 2012.",
+        "HILL, F. S. Jr. Computer graphics: using OpenGL. 2nd ed. Upper Saddle River: Prentice-Hall, 2001."
+      ],
+      "Supplementary Bibliography": [
+        "GOMES, Jonas de Miranda. Fundamentos da computação gráfica. Rio de Janeiro: Instituto Nacional de Matemática Pura e Aplicada, 2008.",
+        "HEARN, Donald. Computer graphics with OpenGL. 4th ed. Boston: Prentice-Hall, 2011.",
+        "FOLEY, James D. Fundamentals of interactive computer graphics. Reading, Mass.: Addison Wesley, 1984.",
+        "TORI, Romero et al. Fundamentos da computação gráfica: Compugrafia. São Paulo: Livros Técnicos e Científicos.",
+        "AZEVEDO, Eduardo; CONCI, Aura. Computação gráfica: teoria e prática. Rio de Janeiro: Elsevier."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Construção de Compiladores I",
+      "Name (English)": "Compiler Construction I",
+      "Code": "BCC488",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Implementation of programming languages: compilation and interpretation; lexical analysis; syntax analysis; semantic analysis.",
+      "Course Content": [
+        "Implementation of programming languages: compilation and interpretation",
+        "Lexical analysis: lexical analysis, ad hoc lexical analyzers, regular expressions, finite automata, and lexical analyzer generators",
+        "Syntax analysis: syntax analysis, context-free grammars, top-down parsing, bottom-up parsing, parser generators, and semantic actions",
+        "Semantic analysis: abstract syntax trees, symbol tables, type checking, and semantic rules"
+      ],
+      "Basic Bibliography": [
+        "APPEL, Andrew W. Modern compiler implementation in Java. 2nd ed. Cambridge: Cambridge University Press, c2002.",
+        "AHO, Alfred V. Compiladores, princípios, técnicas e ferramentas. São Paulo: Pearson Addison-Wesley, 2007.",
+        "APPEL, Andrew W. Modern compiler implementation in ML. New York: Cambridge University Press, c1998."
+      ],
+      "Supplementary Bibliography": [
+        "MOGENSEN, Torben Ægidius. Introduction to Compiler Design. 2. ed. Springer, 2011. (item inexistente na UFOP)",
+        "GRÜNE, Dick; REEUWIJK, Kees van; BAL, Henri E.; JACOBS, Ceriel J. H.; LANGENDOEN, Koen. Modern Compiler Design. 2. ed. Springer, 2012. (item inexistente na UFOP)",
+        "WILHELM, Reinhard; SEIDL, Helmut; HACK, Sebastian. Compiler Design: Syntactic and Semantic Analysis. Springer, 2013. (item inexistente na UFOP)",
+        "FISCHER, Charles N.; CYTRON, Ron K.; LEBLANC, Richard J. Jr. Crafting a Compiler. Pearson, 2010. (item inexistente na UFOP)",
+        "COOPER, Keith D.; TORCZON, Linda. Engineering a Compiler. 2. ed. Elsevier, 2011. (item inexistente na UFOP)"
+      ]
+    },
+    {
+      "Name (Portuguese)": "Projeto de Circuitos Lógicos Integrados usando HDL (Hardware Description Language)",
+      "Name (English)": "Design of Integrated Logic Circuits Using HDL (Hardware Description Language)",
+      "Code": "BCC568",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "1",
+        "Practical": "3"
+      },
+      "Course Description": "Overview of the Digital Integrated Circuit Design flow and its importance for the country's economic development. Concepts and applicability of application-specific integrated circuits (ASICs). Main hardware description languages (HDLs). Integrated Circuit Design techniques. Use of HDL for integrated circuit design.",
+      "Course Content": [
+        "Introduction: digital integrated circuit design flow (architecture, design, verification, logic synthesis, and physical synthesis)",
+        "Introduction to FPGA (gate arrays, capacity, Look-Up Tables - LUTs)",
+        "Digital Integrated Circuit Architecture (processors, communication buses for System-on-Chip - SoC, peripherals, and memory access)",
+        "Hardware Description Language: Verilog 2001",
+        "Description of basic combinational and sequential digital integrated circuits (logic gates, half adder, full adder, multiplexers and demultiplexers, encoders and decoders, counters, registers and flip-flops) using Verilog 2001",
+        "CISC Architecture and RISC Architecture",
+        "Integrated circuit design projects using HDL"
+      ],
+      "Basic Bibliography": [
+        "PEDRONI, Volnei A. Eletrônica digital moderna e VHDL. Rio de Janeiro: Elsevier, 2010. ISBN 9788535234657.",
+        "COFFMAN, Ken. Real world FPGA design with Verilog. Pearson Education, 1999. ISBN 0130998516.",
+        "CHU, Pong P. FPGA prototyping by VHDL examples: Xilinx Spartan-3 version. John Wiley & Sons, 2011. ISBN 9780470185315."
+      ],
+      "Supplementary Bibliography": [
+        "ERCEGOVAC, Miloš Dragutin; LANG, Tomás; MORENO, Jaime H. Introdução aos sistemas digitais. Bookman, 2000. ISBN 0471527998.",
+        "TOCCI, Ronald J.; WIDMER, Neal S.; MOSS, Gregory L. Sistemas Digitais: Princípios e Aplicações. 11. ed. Rio de Janeiro: MZ Editora, 2007. ISBN 9788576059226.",
+        "VAHID, Frank. Sistemas Digitais. Bookman Editora, 2009. ISBN 9788577801909.",
+        "TANENBAUM, Andrew S. Organização estruturada de computadores. 3. ed. Rio de Janeiro: Prentice-Hall do Brasil, 1992. 460 p. ISBN 857054040X.",
+        "STALLINGS, William. Arquitetura e organização de computadores. 8. ed. São Paulo: Pearson, c2010. 624 p. ISBN 9788576055648."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Computação Móvel",
+      "Name (English)": "Mobile Computing",
+      "Code": "BCC581",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Signal propagation, wireless communication networks, location-based services, communication protocols, information management, structured and unstructured networks. Development of mobile applications on current platforms.",
+      "Course Content": [
+        "Signal propagation",
+        "Wireless communication networks",
+        "Location-based services",
+        "Communication protocols",
+        "Information management",
+        "Structured and unstructured networks",
+        "Mobile application development: Android platform, Windows platform, iOS platform"
+      ],
+      "Basic Bibliography": [
+        "RAPPAPORT, Theodore. Wireless Personal Communications. 2. ed. Kluwer Academic, 2007. (item inexistente na UFOP)",
+        "MATEUS, G. R. Introdução à Computação Móvel. 11. ed. Rio de Janeiro: Escola de Computação, 1998. (item inexistente na UFOP)",
+        "TERUEL, E. Web Mobile: Desenvolva Sites para Dispositivos Móveis com Tecnologias de Uso Livre. Ciência Moderna, 2010. (item inexistente na UFOP)",
+        "SCHILLER, Jochen H. Mobile communications. 2nd ed. London: Addison Wesley, 2003."
+      ],
+      "Supplementary Bibliography": [
+        "LECHETA, Ricardo R. Google Android: aprenda a criar aplicações para dispositivos móveis com o Android SDK. 2. ed. São Paulo: Novatec Editora, 2010. (item inexistente na UFOP)",
+        "BORGES JÚNIOR, M. Aplicativos Móveis: Aplicativos para Dispositivos Móveis usando C#.Net. Rio de Janeiro: Ciência Moderna, 2005. (item inexistente na UFOP)",
+        "PETERSON, Larry L.; DAVIE, Bruce S.; tradução Daniel Vieira; revisão técnica Marcos Simplício. Redes de computadores: uma abordagem de sistemas. Rio de Janeiro: Campus.",
+        "OPPENHEIM, Alan V. Discrete-time signal processing. 3rd ed. New Delhi: Pearson, c2010."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Computação nas Nuvens",
+      "Name (English)": "Cloud Computing",
+      "Code": "BCC582",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Fundamentals of Cloud Computing: terminology and concepts; virtualization; elasticity, resilience, on-demand and metered use; benefits, challenges, and risks of platforms and services; administration and governance; Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) Cloud Delivery Models; Service Level Agreements (SLAs) for Cloud-based IT Resources.",
+      "Course Content": [
+        "Fundamentals of Cloud Computing: terminology and concepts",
+        "Virtualization: XEN, QEMU, Eucalyptus, Private Cloud",
+        "Elasticity, Resilience, On-Demand, and Metered Use",
+        "Software as a Service (SaaS), Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) Cloud Delivery",
+        "Benefits, challenges, and risks of platforms and services",
+        "Creating a Cloud solution: Ruby on Rails as PaaS; Software-Defined Routing as IaaS; SOA as SaaS",
+        "Administration and Governance",
+        "Service Level Agreements (SLAs) for Cloud-based IT Resources",
+        "Performance analysis"
+      ],
+      "Basic Bibliography": [
+        "BIRMAN, Kenneth. Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services. Springer, 2012. (item inexistente na UFOP)",
+        "DEITEL, Paul J. Internet Applications e desenvolvimento Web para programadores. São Paulo: Prentice-Hall, 2009. (item inexistente na UFOP)",
+        "KUROSE, James F. Redes de computadores e a Internet: uma abordagem top-down. 5. ed. São Paulo: Pearson Addison Wesley, 2010."
+      ],
+      "Supplementary Bibliography": [
+        "COMER, Douglas E.; tradução ARX Publicações. Interligação em redes com TCP/IP, volume 1: princípios, protocolos e arquitetura. 6. ed. Rio de Janeiro: Campus, c2015.",
+        "STALLINGS, William. Arquitetura e organização de computadores. 8. ed. São Paulo: Pearson, c2010.",
+        "ERL, Thomas; tradução Carlos Schafranski e Edson Furmankiewicz; revisão técnica Francisco Calmon N. da Gama, Ricardo A. de Castro Barbosa. SOA: princípios de design de serviços. São Paulo: Prentice Hall, c2009.",
+        "PETERSON, Larry L.; DAVIE, Bruce S.; tradução Daniel Vieira; revisão técnica Marcos Simplício. Redes de computadores: uma abordagem de sistemas. Rio de Janeiro: Campus."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Criptografia e Segurança de Sistemas",
+      "Name (English)": "Cryptography and Security Systems",
+      "Code": "BCC583",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Network, system, and information security, cybersecurity. Cryptography. Digital signatures, digital certificates, attribute certificates. Network security. Cryptographic media: biometric identifiers. Cybersecurity and impacts on contemporary society.",
+      "Course Content": [
+        "Introduction to security: information security, network security, system security, and cybersecurity",
+        "Symmetric and asymmetric cryptography",
+        "Cryptographic algorithms",
+        "Digital signatures: digital certificates and the PKI (ICP) standard",
+        "ICP-Brasil and ICP-Edu",
+        "Network security: monitoring and network intrusion",
+        "Principles of hacking",
+        "Cryptographic media and biometric identifiers",
+        "ISO27000",
+        "ITIL and COBIT within the information security context",
+        "IISP certifications, among others",
+        "Cybersecurity and impacts on contemporary society"
+      ],
+      "Basic Bibliography": [
+        "STALLINGS, William. Cryptography and Network Security: Principles and Practice. 7. ed. N.Y.: Pearson, 2016. (item inexistente na UFOP)",
+        "GOLDREICH, Oded. Foundations of cryptography. Cambridge: Cambridge University Press, 2009. (item inexistente na UFOP)",
+        "MENEZES, A. J. Handbook of applied cryptography. Boca Raton: CRC Press, c1997."
+      ],
+      "Supplementary Bibliography": [
+        "TRAPPE, Wade; WASHINGTON, Lawrence C. Introduction to cryptography: with coding theory. 2. ed. Upper Saddle River, N.J.: Pearson Prentice Hall, c2006.",
+        "COUTINHO, S. C. Números inteiros e criptografia RSA. 2. ed. Rio de Janeiro: IMPA, 2009.",
+        "KATZ, Jonathan. Introduction to modern cryptography. New York: Chapman & Hall/CRC, 2008.",
+        "GOLDREICH, Oded. Foundations of cryptography: basic tools. New York: Cambridge University Press, 2001."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Sistemas Embutidos",
+      "Name (English)": "Embedded Systems",
+      "Code": "BCC585",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "2",
+        "Practical": "2"
+      },
+      "Course Description": "Fixed-point and floating-point integer arithmetic. Computer and microcontroller architecture. Microcontroller programming in C and Assembly. Input and output concepts for microcontrollers. Use of finite-state machines to solve programming problems. Programming applications with keypads, liquid crystal and seven-segment displays, interfacing with actuators (motors). Analog-to-digital (ADC) and digital-to-analog (DAC) converters. Interrupt and Timer concepts. Data transmission. Embedded Systems Design.",
+      "Course Content": [
+        "Course plan presentation and Introduction: what is an embedded system, types of embedded systems",
+        "Numerical representation: integer, fixed-point, floating-point",
+        "C language and tools: compiler, linker, loader",
+        "Review of computer architecture and introduction to microcontroller architecture: architecture, instruction set, programming, Assembly for microcontrollers",
+        "Basic Input/Output interfacing: buttons, LEDs, displays, segments, LCD; basic input/output interfacing with actuators (DC motor, stepper motor, servo motor); analog interfacing (ADC, DAC, PWM)",
+        "Interrupts and Timers: concept, programming, resource-sharing issues",
+        "Serial Communication: RS232, I2C, SPI, CAN",
+        "Embedded systems design: modeling methodology, finite-state machines, software development cycle, data flow diagrams, statecharts"
+      ],
+      "Basic Bibliography": [
+        "LEE, Edward Ashford. Introduction to embedded systems: A cyber-physical systems approach. MIT Press, 2016. (item inexistente na UFOP)",
+        "NOERGAARD, Tammy. Embedded systems architecture: a comprehensive guide for engineers and programmers. Amsterdam.",
+        "BALL, Stuart R. Embedded microprocessor systems: real world design. 2. ed. Boston: Newnes, 2002."
+      ],
+      "Supplementary Bibliography": [
+        "WILMSHURST, Tim. Designing embedded systems with PIC microcontrollers: principles and applications. Amsterdã.",
+        "PONT, Michael J. Embedded C. Boston, MA: Addison Wesley, 2002.",
+        "PEREIRA, Fábio. Microcontroladores PIC: programação em C. 7. ed. São Paulo: Érica, 2007.",
+        "HALLINAN, Christopher. Embedded Linux Primer: a practical, real-world approach. 2. ed. New York: Prentice Hall, 2011.",
+        "SOUZA, David José de. Desbravando o PIC: ampliado e atualizado para PIC16F628A. 9. ed. São Paulo: Érica, 2005."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Geoprocessamento e Sistemas de Informação Geográfica",
+      "Name (English)": "Geoprocessing and Geographic Information Systems",
+      "Code": "BCC593",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Computational representations of geographic space; introduction to cartography for geoinformatics; introduction to Geographic Information Systems; introduction to numerical terrain modeling; introduction to the global positioning system; introduction to remote sensing; introduction to Geographic Database modeling; introduction to Geographic Data Analysis; applications in Geoinformatics.",
+      "Course Content": [
+        "Computational representations of geographic space: mathematical-computational modeling concepts, time, space, scale (extent and resolution) and processes of change; conceptual field and object models; raster data structures (numerical grids and images) and vector data structures (points, lines, and polygons)",
+        "Introduction to Cartography for Geoinformatics: datum, cartographic projections, geographic coordinate systems, standardized geographic reference systems, cartographic scale",
+        "Introduction to Geographic Information Systems: architecture (dual and integrated), typology (desktop, client-server, web), use of free tools (TerraView and QGIS); data layers, views, themes, and legends; vector and raster data acquisition; interoperability (DXF, SHP, GML); alphanumeric and spatial queries",
+        "Introduction to Remote Sensing: concepts of satellites and remote sensors; types of imagery (optical, radar, and thermal); bands and false-color composition (RGB); image registration and georeferencing; digital image processing techniques (contrast, resampling, filtering, segmentation, and classification)",
+        "Introduction to Geographic Database Modeling: OMT-G notation; implementation of geographic databases using free tools; spatial queries (reports) in free tools; spatial data indexing (Quadtree and R-tree)",
+        "Introduction to Numerical Terrain Modeling: digital elevation model (DEM) and triangulated irregular networks (TIN); construction of digital terrain models from contour lines, drainage lines, and ridge lines",
+        "Introduction to the Global Positioning System: GPS and Galileo systems; calibration and use of GPS equipment; sources of error and lack of precision; types of GPS equipment (navigation, mapping, differential)",
+        "Introduction to Geographic Data Analysis: spatial analysis (point and area data), geostatistics (ordinary kriging), and map algebra (Tomlin and Egenhofer operators)",
+        "Applications in Geoinformatics: land use and land cover change, disease spread, and multipurpose technical cadastre"
+      ],
+      "Basic Bibliography": [
+        "BLASCHKE, Thomas; KUX, Hermann (org.); tradução Hermann Kux. Sensoriamento remoto e SIG avançados: novos sistemas sensores, métodos inovadores. São Paulo: Oficina de Textos, c2005.",
+        "Anatomia de sistemas de informação geográfica. Campinas: UNICAMP, 1996.",
+        "GONZALEZ, Rafael C. Digital image processing. 3rd ed. Upper Saddle River, NJ: Pearson Prentice Hall, c2008.",
+        "JENSEN, John R.; tradução José Carlos Neves Epiphanio ... [et al.]. Sensoriamento remoto do ambiente: uma perspectiva em recursos terrestres. São José dos Campos: Parêntese, 2011.",
+        "CÂMARA, Gilberto. Geoprocessamento para projetos ambientais. São José dos Campos: INPE, 1996.",
+        "Conceitos básicos de sistemas de informação geográfica e cartografia aplicados à saúde. Brasília: Organização Pan-Americana de Saúde, 2000."
+      ],
+      "Supplementary Bibliography": [
+        "Bancos de dados geográficos. Curitiba: MundoGeo, 2005.",
+        "Análise espacial de dados geográficos. Planaltina, DF: EMBRAPA Cerrados, 2004.",
+        "CANTY, Morton J. Image analysis, classification and change detection in remote sensing: with algorithms for ENVI/IDL. Boca Raton, FL: CRC/Taylor & Francis, 2007.",
+        "NOVO, Evlyn M. L. de Moraes. Sensoriamento remoto: princípios e aplicações. 2. ed. São Paulo: E. Blucher, c1992.",
+        "MOURA, Ana Clara Mourão. Geoprocessamento na gestão e planejamento urbano. Belo Horizonte: Difusora, 2003."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Modelagem e Simulação de Sistemas Terrestres",
+      "Name (English)": "Modeling and Simulation of Land Systems",
+      "Code": "BCC595",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Introduction to computational modeling of geographic phenomena. Theoretical foundations of Earth system science. Concepts and computational representations of scale, space, time, and behavior. Introduction to spatially explicit dynamic models. Introduction to computational simulation. Introduction to Earth system modeling paradigms. Free tools for Earth system modeling. Multi-scale Earth system modeling. Applications in Earth system modeling and simulation. Mathematical methods applied to Earth system modeling.",
+      "Course Content": [
+        "Introduction to Computational Modeling of Geographic Phenomena",
+        "Theoretical foundations of Earth system science: mathematical-computational models, the modeling process, process simulation, energy stocks and flows, feedbacks, Earth system science",
+        "Spatially explicit dynamic models: definition, taxonomy, development methodology, verification, calibration, validation",
+        "Introduction to computational simulation: discrete simulation and discrete-event simulation, advantages and disadvantages, implementation of simulators",
+        "Concepts and computational representation of scale, space, time, and behavior",
+        "Earth system modeling paradigms: system dynamics, cellular automata, multi-agent systems",
+        "Free tools for environmental modeling: Vensim, NetLogo, Repast, TerraME",
+        "Multi-scale Earth system modeling: software requirements, integration with geographic information systems, development platforms",
+        "Applications: hydrological models, climate models, population dynamics models, land use and land cover change models, species dispersal models, atmospheric models, epidemiological models, econometric models",
+        "Mathematical methods applied to Earth system modeling: statistical inference, probability, and spatial analysis"
+      ],
+      "Basic Bibliography": [
+        "AXELROD, Robert M. The complexity of cooperation: agent-based models of competition and collaboration. Princeton, N.J.: Princeton University Press, 1997. (item inexistente na UFOP)",
+        "GOODCHILD, Michael F.; STEYAERT, Louis T.; PARKS, Bradley O.; JOHNSTON, Carol ... [et al.]. GIS and environmental modeling: progress and research issues. Fort Collins: GIS World Books, c1996.",
+        "WAINWRIGHT, John; MULLIGAN, Mark (eds.). Environmental modelling: finding simplicity in complexity. Chichester, West Sussex, England.",
+        "ZEIGLER, Bernard P.; PRAEHOFER, Herbert; KIM, Tag Gon. Theory of modeling and simulation: integrating discrete event and continuous complex dynamic systems. 2nd ed. San Diego: Academic, c2000.",
+        "FORD, Andrew. Modeling the environment: an introduction to system dynamics models of environmental systems. 2. ed. Washington, D.C.: Island Press, c1999.",
+        "EPSTEIN, Joshua M. Generative social science: studies in agent-based computational modeling. Princeton, NJ.",
+        "Integrating geographic information systems and agent-based modeling techniques for simulating social and ecological processes. Oxford.",
+        "MEADOWS, Donella H.; ed. Diana Wright. Thinking in systems: a primer. White River Junction, Vt.: Chelsea Green Pub., c2008.",
+        "LANTUÉJOUL, Christian. Geostatistical simulation: models and algorithms. Berlin: Springer-Verlag, 2002."
+      ],
+      "Supplementary Bibliography": [
+        "BATTY, Michael. Cities and complexity: understanding cities with cellular automata, agent-based models, and fractals. Cambridge, Mass.: MIT Press, 2005. (item inexistente na UFOP)",
+        "SKIDMORE, Andrew. Environmental modelling with GIS and remote sensing. London: Taylor & Francis, 2002. (item inexistente na UFOP)",
+        "SMITH, Jo U. Introduction to environmental modelling. Oxford: Oxford University Press, 2007."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Programação em Lógica",
+      "Name (English)": "Logic Programming",
+      "Code": "BCC596",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Theoretical foundations of logic programming: unification and resolution; concepts of logic programming languages; study of a logic programming language; applications.",
+      "Course Content": [
+        "Declarative programming",
+        "Introduction to Prolog",
+        "Syntax and Semantics of Prolog programs",
+        "Lists, operators, arithmetic",
+        "Structures",
+        "Backtracking",
+        "Input and output",
+        "Predefined predicates",
+        "Programming style and techniques",
+        "Operations on data structures",
+        "Prolog's relation to Logic: predicate calculus, clausal form, resolution, theorem proving, and Horn clauses"
+      ],
+      "Basic Bibliography": [
+        "BRATKO, Ivan. Prolog programming for artificial intelligence. 3rd ed. Harlow: Pearson Education, 2001.",
+        "CASANOVA, Marco Antonio. Programação em lógica e a linguagem PROLOG. São Paulo: E. Blucher, c1987.",
+        "CLOCKSIN, W. F. Programming in Prolog. 4th ed. Berlin: Springer-Verlag, c1994."
+      ],
+      "Supplementary Bibliography": [
+        "O'KEEFE, Richard. The Craft of Prolog. MIT Press, 2009. (item inexistente na UFOP)",
+        "BRAMER, Max. Logic Programming with Prolog. 2. ed. Springer, 2014. (item inexistente na UFOP)",
+        "MAIER, David; WARREN, David S. Computing with logic: logic programming with prolog. Menlo Park, Calif.: Benjamin/Cummings, c1988.",
+        "DERANSART, Pierre; ED-DBALI, AbdelAli; CERVONI, Laurent. Prolog: the standard: reference manual. Berlin: Springer-Verlag, 1996.",
+        "STERLING, Leon; SHAPIRO, Ehud; foreword by David H. D. Warren. The art of prolog: advanced programming techniques. 2nd ed. Cambridge: The MIT Press, 1994."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Recuperação de Informação na Web",
+      "Name (English)": "Web Information Retrieval",
+      "Code": "BCC599",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Modeling of information retrieval systems. Characterization of the web. Operation of crawling systems. Distributed indexing. Query languages. Query operations. Generation of ranking functions. Evaluation of results.",
+      "Course Content": [
+        "Introduction",
+        "Boolean retrieval",
+        "Term vocabulary and inverted lists (postings)",
+        "Dictionaries and tolerant retrieval",
+        "Index construction",
+        "Index compression",
+        "Scoring, term weighting, and the vector space model",
+        "Computing scores in a complete search system",
+        "Evaluation in information retrieval",
+        "Relevance feedback and query expansion",
+        "Introduction to Web search",
+        "Web crawling and indexing",
+        "Link analysis"
+      ],
+      "Basic Bibliography": [
+        "MANNING, Christopher D. Introduction to information retrieval. New York: Cambridge University Press, 2008.",
+        "LIU, Bing. Web data mining: exploring hyperlinks, contents, and usage data. Berlin.",
+        "BAEZA-YATES, Ricardo; RIBEIRO-NETO, Berthier; tradução Leandro Krug Wives, Viviane Pereira Moreira. Recuperação de informação: conceitos e tecnologia das máquinas de busca. 2. ed. Porto Alegre: Bookman, 2013."
+      ],
+      "Supplementary Bibliography": [
+        "GOLDSCHMIDT, Ronaldo; PASSOS, Emmanuel. Data Mining: um guia prático: conceitos, técnicas, ferramentas, orientações e aplicações. Rio de Janeiro: Elsevier.",
+        "CHAKRABARTI, Soumen. Mining the Web: discovering knowledge from hypertext data. San Francisco, CA: Morgan Kaufmann Publishers, c2003.",
+        "HAN, Jiawei; KAMBER, Micheline; PEI, Jian. Data mining: concepts and techniques. 3. ed. Boston: Elsevier, 2012.",
+        "WITTEN, Ian H.; MOFFAT, Alistair; BELL, Timothy C. Managing gigabytes: compressing and indexing documents and images. 2. ed. San Francisco, Calif.: Morgan Kaufmann Publishers, 1999.",
+        "HEAPS, H. S. Information retrieval, computational and theoretical aspects. New York."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Gerência de Dados na Web",
+      "Name (English)": "Web Data Management",
+      "Code": "BCC610",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Characterization of Web data; modeling of semi-structured data; query languages; extraction of Web data; integration of Web data; applications.",
+      "Course Content": [
+        "Web data: characteristics of Web data, Web versus databases, architecture of Web applications",
+        "Modeling semi-structured data and XML: characteristics of semi-structured data, models for representing semi-structured data, XML, relational representation of XML data, publishing relational data as XML, XML structure discovery, tools for XML data management, XML data compression",
+        "Query languages: query languages for the Web, query languages for semi-structured data, XML query and manipulation languages",
+        "Extracting data from Web sources: characterization of the problem, main approaches, tools, evaluation of extraction quality",
+        "Web data integration: characterization of the integration problem, approaches and architectures, data fusion, similarity measures",
+        "Advanced topics: query processing on XML documents, hidden Web data access, entity recognition and extraction, the Semantic Web, the Web of Data, Web page crawling, digital libraries"
+      ],
+      "Basic Bibliography": [
+        "GRAVES, Mark. Projeto de banco de dados com XML. São Paulo: Pearson Education, 2003.",
+        "BREITMAN, Karin Koogan. Web semântica: a internet do futuro. Rio de Janeiro: LTC, 2006.",
+        "BAEZA-YATES, R. Modern information retrieval. New York: Addison Wesley, 2011.",
+        "ABITEBOUL, S. Gerenciando dados na WEB. Rio de Janeiro: Campus, 2000."
+      ],
+      "Supplementary Bibliography": [
+        "ANTONIOU, G. A semantic web primer. Cambridge: MIT Press, 2008.",
+        "ELMASRI, Ramez. Sistemas de banco de dados. 6. ed. São Paulo: Pearson.",
+        "KANTARDZIC, Mehmed. Data mining: concepts, models, methods, and algorithms. Hoboken, NJ: Wiley-Interscience.",
+        "LIU, Bing. Web data mining: exploring hyperlinks, contents, and usage data. Berlin.",
+        "GARCIA-MOLINA, Hector; ULLMAN, Jeffrey D.; WIDOM, Jennifer. Database systems: the complete book. 2nd ed. Upper Saddle River: Pearson Prentice Hall, c2009."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Computação Evolutiva",
+      "Name (English)": "Evolutionary Computing",
+      "Code": "BCC541",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Introduction to evolutionary computing; evolution by natural selection; basic concepts and components of evolutionary algorithms; genetic algorithms; evolution strategies; evolutionary programming; genetic programming; classifier systems; hybrid algorithms; constraint handling; multi-objective optimization with evolutionary algorithms.",
+      "Course Content": [
+        "Introduction to evolutionary computing and its relation to biological models",
+        "Basic components common to evolutionary algorithms",
+        "Categories of evolutionary algorithms",
+        "Evolutionary systems applied to classification systems",
+        "Hybrid algorithms",
+        "Introduction to multi-objective optimization"
+      ],
+      "Basic Bibliography": [
+        "BÄCK, Thomas. Handbook of evolutionary computation. CRC Press, 1997.",
+        "David B. Fogel. Evolutionary computation: toward a new philosophy of machine intelligence. 3rd ed. New Jersey: Wiley Interscience, 2006."
+      ],
+      "Supplementary Bibliography": [
+        "BACK, Thomas. Evolutionary algorithms in theory and practice. Oxford Univ. Press, 1996.",
+        "DEB, Kalyanmoy. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons, 2001.",
+        "YAO, Xin. Evolutionary computation: Theory and applications. World Scientific, 1999.",
+        "JOHNSON, R. P. Automatic generation of neural network architecture using evolutionary computation. World Scientific, 1997.",
+        "Kenneth A. De Jong. Evolutionary computation: a unified approach. Cambridge, Mass.: MIT Press, 2006."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Otimização em Redes",
+      "Name (English)": "Network Optimization",
+      "Code": "BCC543",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Basic concepts of graphs; network flow models; shortest path, maximum flow, and minimum-cost flow algorithms; applications and implementation of specialized algorithms.",
+      "Course Content": [
+        "Basic graph concepts: notation and definitions; network representation; examples of network models",
+        "Shortest path problems: introduction; applications; solution algorithms and implementations",
+        "Maximum flow problem: introduction; applications; flows and cuts; max-flow min-cut theorem; solution algorithms and implementations",
+        "Minimum-cost flow problems: introduction; applications; solution algorithms and implementations",
+        "Applications: assignment problems; matching problems; routing problems; sequencing problems"
+      ],
+      "Basic Bibliography": [
+        "Marco Goldbarg; Elizabeth Goldbarg. Grafos: conceitos, algoritmos e aplicações. Rio de Janeiro: Elsevier, 2012.",
+        "Chvatal, Vasek. Linear programming. New York: W. H. Freeman, 1983.",
+        "Frazer, J. Ronald. Applied linear programming. Englewood Cliffs, N.J.: Prentice-Hall, 1968.",
+        "Ravindra K. Ahuja, Thomas L. Magnanti, James B. Orlin. Network flows: theory, algorithms and applications. Englewood Cliffs: Prentice-Hall, 1993.",
+        "Bazaraa, M. S. Linear programming and network flows. 2. ed. New York: J. Wiley, 1990."
+      ],
+      "Supplementary Bibliography": [
+        "Hu, T. C. Integer programming and network flows. Reading: Addison Wesley, 1970.",
+        "Marcos Arenales, Vinicius Armentano, Reinaldo Morabito, Horacio Yanasse. Pesquisa Operacional: para cursos de engenharia. Rio de Janeiro: Elsevier, 2007.",
+        "Wolsey, Laurence A. Integer programming. New York: John Wiley & Sons, 1998.",
+        "Marco Cesar Goldbarg, Henrique Pacca L. Luna. Otimização combinatória e programação linear: modelos e algoritmos. 2. ed. rev. e atual. Rio de Janeiro: Campus, 2005."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Otimização Linear e Inteira",
+      "Name (English)": "Linear and Integer Optimization",
+      "Code": "BCC544",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Linear programming modeling. Simplex algorithm. Duality. Sensitivity analysis. Column generation. Dantzig-Wolfe decomposition methods. Integer programming modeling. Implicit enumeration. Cutting planes. Bounds and relaxations.",
+      "Course Content": [
+        "Introduction to Linear Programming (History)",
+        "Modeling simple problems",
+        "Graphical method",
+        "Problem modeling and example applications",
+        "MathProg modeling language",
+        "Simplex Algorithm",
+        "Duality",
+        "Sensitivity analysis",
+        "Column generation",
+        "Dantzig-Wolfe decomposition",
+        "Integer Programming modeling",
+        "Evaluating Formulation Quality",
+        "Generation of valid inequalities and automatic reformulation",
+        "Techniques for generating strong dual and primal bounds",
+        "Column generation in Integer Programming"
+      ],
+      "Basic Bibliography": [
+        "Maculan, Nelson. Otimização linear. Brasília: Ed. UnB, 2006.",
+        "Chvatal, Vasek. Linear programming. New York: W. H. Freeman, 1983.",
+        "Wolsey, Laurence A. Integer programming. New York: John Wiley & Sons, 1998."
+      ],
+      "Supplementary Bibliography": [
+        "Edited by John K. Karlof. Integer programming: theory and practice. Boca Raton, Fla.",
+        "Dasgupta, Sanjoy. Algoritmos. São Paulo: McGraw-Hill, 2009.",
+        "Michael Jünger... [et al.], editors. 50 years of integer programming, 1958-2008: the early years and state-of-the-art surveys. Heidelberg: Springer, 2010.",
+        "Lee, Jon. A first course in combinatorial optimization. Cambridge, UK.",
+        "Marco Cesar Goldbarg, Henrique Pacca L. Luna. Otimização combinatória e programação linear: modelos e algoritmos. Rio de Janeiro: Campus, 2000.",
+        "Dantzig, George B. Linear programming and extensions. Princeton, N.J.: Princeton University Press, 1963."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Técnicas de Otimização Multiobjetivo",
+      "Name (English)": "Multi-Objective Optimization Techniques",
+      "Code": "BCC545",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Mathematical foundations; basic concepts of nonlinear optimization; optimality conditions; unconstrained and constrained minimization methods; objective functionals and objective vectors; ordered sets; Pareto solutions: analytical characterization; generation of Pareto solutions; preference indication; algorithms for multi-objective optimization; multi-objective optimization with evolutionary algorithms; decision making.",
+      "Course Content": [
+        "Course plan presentation and introduction: The vector optimization problem; Notation",
+        "Ordering of solutions: Pareto-optimal set; locally Pareto-optimal set; utopian solution",
+        "The problem of determining efficient solutions: Kuhn-Tucker conditions for efficiency",
+        "Generation of efficient solutions: Weighted-sum approach; Epsilon-constraint approach; goal-programming approach; efficiency test",
+        "Structure of the Pareto-optimal set",
+        "Multi-objective Analysis: Consistency; ordering and dominance; extension",
+        "Multi-objective Decision and Synthesis",
+        "Multi-objective Genetic Algorithms: Construction of Multi-objective Genetic Algorithms"
+      ],
+      "Basic Bibliography": [
+        "DEB, Kalyanmoy. Multi-Objective Optimization using Evolutionary Algorithms. John Wiley & Sons, 2001.",
+        "COELLO COELLO, Carlos. Evolutionary Algorithms for Solving Multi-Objective Problems. 2. ed. Springer, 2007.",
+        "Vira Chankong and Yacov Y. Haimes. Multiobjective decision making: theory and methodology. New York: North-Holland, 1983.",
+        "Yann Collette, Patrick Siarry. Multiobjective optimization: principles and case studies. Berlin.",
+        "Mokhtar S. Bazaraa, Hanif D. Sherali, C. M. Shetty. Nonlinear programming: theory and algorithms. 3rd ed. Hoboken, N.J.: Wiley-Interscience, 2006."
+      ],
+      "Supplementary Bibliography": [
+        "SAWARAGI, Yoshikazu. Theory of Multiobjective Optimization. Elsevier, 1985.",
+        "ABRAHAM, Ajith. Evolutionary Multiobjective Optimization: Theoretical Advances and Applications. Springer, 2005.",
+        "EICHFELDER, Gabriele. Adaptive Scalarization Methods in Multiobjective Optimization. Springer, 2018.",
+        "MIETTINEN, Kaisa. Nonlinear Multiobjective Optimization. Springer, 1999.",
+        "TANG, Kit. Multiobjective Optimization Methodology: A Jumping Gene Approach. 1. ed. CRC Press, 2018."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Técnicas Metaheurísticas para Otimização Combinatória",
+      "Name (English)": "Metaheuristics Techniques in Combinatorial Optimization",
+      "Code": "BCC546",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Combinatorial optimization problems. Classical heuristics. Local search. Multi-start methods. Trajectory-based metaheuristics. Population-based metaheuristics. Nature-inspired methods. Applications.",
+      "Course Content": [
+        "Introduction: combinatorial optimization problems",
+        "Greedy algorithms",
+        "Local search",
+        "Large neighborhood search",
+        "Path relinking",
+        "Simulated Annealing",
+        "Tabu Search",
+        "Iterated local search",
+        "Variable neighborhood search",
+        "Multi-start procedures",
+        "Nature-inspired algorithms",
+        "Evolutionary algorithms",
+        "Scatter Search",
+        "Applications in routing",
+        "Applications in sequencing",
+        "Applications in timetabling",
+        "Applications in network design"
+      ],
+      "Basic Bibliography": [
+        "Handbook of approximation algorithms and metaheuristics. New York: Chapman & Hall/CRC, 2007.",
+        "Voss, Stefan. Introduction to computational optimization models for production planning in a supply chain. 2nd ed. Berlin.",
+        "El-Ghazali Talbi. Metaheuristics: from design to implementation. Hoboken, N.J.: John Wiley & Sons, 2009.",
+        "Zbigniew Michalewicz, David B. Fogel. How to solve it: modern heuristics. 2nd rev. and extended ed. Berlin.",
+        "Mauricio G.C. Resende, Jorge Pinho de Sousa, with assistance from Ana Viana (eds.). Metaheuristics: computer decision-making. Boston: Kluwer Academic Publishers, 2004."
+      ],
+      "Supplementary Bibliography": [
+        "Local search in combinatorial optimization. New Jersey: Princeton University Press, 2003.",
+        "J. Dréo... [et al.]. Metaheuristics for hard optimization: methods and case studies. Berlin: Springer, 2006.",
+        "Kenneth V. Price, Rainer M. Storn, Jouni A. Lampinen. Differential evolution: a practical approach to global optimization. Berlin.",
+        "Dorigo, Marco. Ant colony optimization. Cambridge: The MIT Press, 2004.",
+        "Edited by Vittorio Maniezzo, Thomas Stutzle, Stefan Voss. Matheuristics: hybridizing metaheuristics and mathematical programming. New York: Springer, 2009."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Gerência de Projetos de Software",
+      "Name (English)": "Software Project Management",
+      "Code": "BCC547",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Software project management, software process, software life cycle, project management according to PMI-PMBOK, agile project management (SCRUM), management tools.",
+      "Course Content": [
+        "Software Project Management: Project Management; Software Project Management; Software Engineering and Project Management; project management process; traditional and agile management",
+        "Software Process: Process; software development processes; life cycle",
+        "Software: What is software; software as a product",
+        "PMI: What is PMI; process groups; knowledge areas; projects; integration management; scope management; time management; cost management; quality management; human resources management; communications management; risk management; procurement management; stakeholder management",
+        "SCRUM: Definition; SCRUM model; roles; artifacts; meetings",
+        "Tools: Tools supporting the various activities and practices of project management in traditional and agile approaches"
+      ],
+      "Basic Bibliography": [
+        "Martins, José Carlos Cordeiro. Gerenciando projetos de desenvolvimento de software com PMI, RUP e UML. 4. ed. Rio de Janeiro: Brasport, 2007.",
+        "Schwaber, Ken. Agile project management with Scrum. Redmond, Wash.: Microsoft Press, 2004.",
+        "Kim Heldman; tradução Luciana do Amaral Teixeira; revisão técnica Martius Vicente Rodriguez Y Rodriguez. Gerência de projetos = PMP Project management professional: guia para o exame oficial do PMI. 5. ed. rev. e atual. Rio de Janeiro: Elsevier, 2009."
+      ],
+      "Supplementary Bibliography": [
+        "Sommerville, Ian. Engenharia de software. 9. ed. São Paulo: Addison Wesley, 2011.",
+        "Roger S. Pressman; tradução Ariovaldo Griesi, Mario Moro Fecchio; revisão técnica Reginaldo Arakaki, Julio Arakaki, Renato Manzan de Andrade. Engenharia de software: uma abordagem profissional. 7. ed. Porto Alegre, RS: AMGH, 2011.",
+        "Daniel Capaldo Amaral... [et al.]. Gerenciamento Ágil de projetos: aplicação em produtos inovadores. São Paulo: Saraiva, 2011.",
+        "Gattoni, Roberto Luís Capuruço. Gestão do conhecimento aplicada à prática da gerência de projetos. Belo Horizonte, MG: FUMEC-FACE.",
+        "Joseph Phillips; consultoria editorial Lorenzo Ridolfi, Sérgio Colcher; tradução Ana Beatriz Tavares, Daniela Lacerda; revisão técnica Andrea Hemerly. Gerência de projetos de tecnologia da informação: no caminho certo, do início ao fim. Rio de Janeiro: Campus."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Qualidade de Software",
+      "Name (English)": "Software Quality",
+      "Code": "BCC553",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "What is quality. Software processes. Process quality. Product quality. MPS-BR (Software and service development). CMMI. Metrics. Testing. Verification. Validation. Auditing.",
+      "Course Content": [
+        "What is Quality: Quality; Software Quality; Process Quality",
+        "Process Quality: What is a process and a software process; process maturity; norms and standards; process improvement",
+        "Product Quality: What is a product and a software product; norms and standards",
+        "MPS-BR: Software Development; Service",
+        "CMMI",
+        "Quality monitoring and control: Metrics; Testing; Verification; Validation; Auditing"
+      ],
+      "Basic Bibliography": [
+        "Mary Beth Chrissis; Mike Konrad; Sandy Shrum. CMMI: guidelines for process integration and product improvement. 2. ed. Boston: Addison Wesley, 2007.",
+        "Sommerville, Ian. Engenharia de software. 9. ed. São Paulo: Addison Wesley, 2011."
+      ],
+      "Supplementary Bibliography": [
+        "Bartié, Alexandre. Garantia da qualidade de software. Rio de Janeiro: Campus, 2002.",
+        "Edson Junio Rodrigues Lobo. Curso de engenharia de software: métodos e processos para garantir a qualidade no desenvolvimento de softwares. São Paulo: Digeratis Books, 2007.",
+        "Roger S. Pressman; tradução Ariovaldo Griesi, Mario Moro Fecchio; revisão técnica Reginaldo Arakaki, Julio Arakaki, Renato Manzan de Andrade. Engenharia de software: uma abordagem profissional. 7. ed. Porto Alegre, RS: AMGH, 2011.",
+        "Handbook of software quality assurance. 4th ed. Boston: Artech House, 2008.",
+        "Dennis M. Ahern, Aaron Clouse, Richard Turner. CMMI distilled: a practical introduction to integrated process improvement. 3rd ed. Upper Saddle River, NJ: Addison Wesley, 2008."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Design de Interação",
+      "Name (English)": "Interaction Design",
+      "Code": "BCC555",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "The Interaction Design process; requirements gathering; task modeling and interaction modeling; prototyping and construction; notions of Visual Design.",
+      "Course Content": [
+        "The Interaction Design Process: Examples of good and bad designs; What is Interaction Design; Usability goals and user experience goals; Conceptual Models; Interface Metaphors; Interaction Paradigms; Life cycle models for Interaction Design; Life cycle models in Software Engineering; Integration of Software Engineering and HCI Models",
+        "Requirements Gathering: Functional and Non-Functional Requirements; Questionnaires; Interviews; Focus Groups; Card Sorting; Brainstorming; Contextual Inquiry",
+        "Task and Interaction Modeling: Abstract representations of interface/interaction; user profiles; personas and goals; storyboards; analysis scenarios; interaction scenarios; use cases; hierarchical task analysis; interaction diagrams; MoLIC",
+        "Prototyping and Construction: Paper prototypes; low-fidelity prototypes; high-fidelity prototypes; prototyping tools; Conceptual Design: from requirements to the first design; Physical Design",
+        "Notions of Visual Design: Icon design; layout design; color design; typography design"
+      ],
+      "Basic Bibliography": [
+        "Jennifer Preece, Yvonne Rogers e Helen Sharp; tradução de Viviane Possamai. Design de interação: além da interação homem-computador. Porto Alegre, RS: Bookman, 2005.",
+        "Robin Williams; tradução: Laura Karin Gillon. Design para quem não é designer: noções básicas de planejamento visual. 3. ed. São Paulo: Callis, 2009.",
+        "Ben Shneiderman & Catherine Plaisant. Designing the user interface: strategies for effective human-computer interaction. 5th ed. Boston: Addison Wesley, 2010."
+      ],
+      "Supplementary Bibliography": [
+        "Barbosa, Simone Diniz Junqueira. Interação humano-computador. Rio de Janeiro: Campus, 2010.",
+        "Benyon, David. Interação humano-computador. 2. ed. São Paulo: Pearson, 2011.",
+        "Research methods for human-computer interaction. Cambridge, UK.",
+        "Edited by Julie A. Jacko. The human-computer interaction handbook: fundamentals, evolving technologies, and emerging applications. 3rd ed. Boca Raton, FL: CRC Press, 2012.",
+        "Souza, Clarisse da Silva Vieira Camelo de. The semiotic engineering of human-computer interaction. Cambridge, MA: MIT Press, 2005."
+      ]
+    },
+    {
+      "Name (Portuguese)": "UI e UX para Inteligência Artificial",
+      "Name (English)": "UI and UX for Artificial Intelligence",
+      "Code": "BCC931",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Study of user interface (UI) and user experience (UX) design principles applied to Artificial Intelligence systems. Focus on usability, accessibility, human-machine interaction, and the evaluation of intelligent interfaces.",
+      "Course Content": [
+        "Fundamentals of UI and UX: concepts, history, and importance",
+        "Principles of user-centered design",
+        "UX specifics for AI-based systems: transparency, trust, and user control",
+        "Prototyping and wireframing techniques for intelligent interfaces",
+        "Human-AI interaction: conversation design, chatbots, and virtual assistants",
+        "Usability evaluation: qualitative and quantitative methods",
+        "Digital accessibility and inclusion in intelligent systems",
+        "Ethical challenges in UI/UX for AI: bias, privacy, and explainability",
+        "Tools and frameworks for UI/UX development in AI",
+        "Case studies: real-world applications in AI and intelligent interfaces"
+      ],
+      "Basic Bibliography": [
+        "NORMAN, Donald A. The Design of Everyday Things. 2. ed. Basic Books, 2013.",
+        "COOPER, Alan; REIMANN, Robert; CRONIN, David. About Face: The Essentials of Interaction Design. 4. ed. Wiley, 2014.",
+        "SHNEIDERMAN, Ben; PIATKO, Catherine; COHEN, Jenifer. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 6. ed. Pearson, 2016."
+      ],
+      "Supplementary Bibliography": [
+        "MORRIS, Jenny. Designing for AI: Creating User Interfaces for Artificial Intelligence Systems. O'Reilly Media, 2021.",
+        "FOGEL, Karen; ESER, Daniel. UX Design for Artificial Intelligence Systems. 1. ed. Springer, 2020.",
+        "KLEIN, Julie; HACKER, Sue. Designing Bots: Creating Conversational Experiences. O'Reilly Media, 2017.",
+        "GREEN, Ben. The Ethical Challenges of AI in UX Design. MIT Press, 2022.",
+        "SAWYER, Steve. UX Strategy: How to Devise Innovative Digital Products that People Want. 2. ed. O'Reilly Media, 2015."
+      ]
+    },
+    {
+      "Name (Portuguese)": "Processamento de Áudio",
+      "Name (English)": "Audio Processing",
+      "Code": "BCC932",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Introduction to fundamental concepts and techniques for digital audio signal processing. Analysis, transformation, filtering, and synthesis of audio applied to recognition, sound synthesis, and AI systems.",
+      "Course Content": [
+        "Traditional acoustic models, Gaussian mixtures, and hidden Markov chains",
+        "Signal representations for audio and speech",
+        "Neural network architectures for speech recognition",
+        "Encoder, vocoder models, and architectures for speech synthesis",
+        "Architectures for music applications"
+      ],
+      "Basic Bibliography": [
+        "KAMATH, U. L.; WHITAKER, J. Deep learning for NLP and speech recognition. Springer Nature, 2019.",
+        "DONG, Y.; DENG, Y. Automatic speech recognition. Springer London Limited, 2016.",
+        "GOPI, E. S. Digital speech processing using Matlab. New Delhi: Springer, 2014."
+      ],
+      "Supplementary Bibliography": [
+        "CAMASTRA, F.; VINCIARELLI, A. Machine learning for audio, image and video analysis: theory and applications. Springer, 2015.",
+        "STEVENS, E.; ANTIGA, L. Deep Learning with PyTorch. Manning Publications, 2020.",
+        "GALEONE, P. Hands-On Neural Networks with TensorFlow 2.0: Understand TensorFlow, from static graph to eager execution, and design neural networks. Packt Publishing, 2019."
+      ]
+    }
+  ]
+}
