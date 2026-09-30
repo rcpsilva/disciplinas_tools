@@ -5,8 +5,8 @@
 Gera um arquivo .tex contendo TODOS os Programas de Disciplina listados
 no JSON (campo "Disciplinas").  Mantém o layout oficial PROGRAD / UFOP.
 """
-# bash python json2tex2.py disciplinas_bia.json ./LaTeXSource/ufop_prog.tex
-import json, sys
+# bash python json2tex2.py disciplinas_bia.json ./LaTeXSource/ufop_prog.tex [--no-escape]
+import json, re, sys
 from pathlib import Path
 from textwrap import dedent
 
@@ -22,7 +22,7 @@ PREAMBLE = dedent(r"""
 \usepackage{geometry}
 \geometry{a4paper,margin=2cm}
 \usepackage{longtable,graphicx,multirow,enumitem,tabularx,setspace,ragged2e}
-\setlist{noitemsep,leftmargin=*}
+\setlist{nosep,leftmargin=*}
 \renewcommand\arraystretch{1.15}
 % Caixa de seleção
 \newcommand{\chk}[1]{\ifx#1X\setlength\fboxsep{1pt}\fbox{\rule{1.3ex}{0pt}X}%
@@ -60,7 +60,8 @@ DISCIPLINA = dedent(r"""
 \multicolumn{3}{|p{12cm}|}{{{DEPARTAMENTO}}} & {{{UNIDADE}}} \\ 
 \hline
 \multicolumn{4}{|p{16cm}|}{Modalidade de Oferta:
-[{{PRESENCIAL}}] presencial \hspace{1cm}
+[{{PRESENCIAL}}] presencial \hspace{0.6cm}
+[{{SEMI}}] semipresencial \hspace{0.6cm}
 [{{DISTANCIA}}] à distância}\\
 \hline
 \multicolumn{2}{|p{8cm}|}{Carga horária semestral} &
@@ -80,19 +81,16 @@ DISCIPLINA = dedent(r"""
 \multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{{{EMENTA}}}\\
 \multicolumn{4}{|p{16cm}|}{}\\
 \hline
-\multicolumn{4}{|p{16cm}|}{Conteúdo programático:}\\
-\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{%
-\begin{enumerate}{{CONTEUDO}}\end{enumerate}}\\
+\multicolumn{4}{|p{16cm}|}{Conteúdo programático:}\\*
+{{CONTEUDO}}
 {{PERFIL_OBJ_BLOCK}}
 \hline
-\multicolumn{4}{|p{16cm}|}{Bibliografia Básica:}\\
-\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{%
-\begin{itemize}{{BIB_BASICA}}\end{itemize}}\\
+\multicolumn{4}{|p{16cm}|}{Bibliografia Básica:}\\*
+{{BIB_BASICA}}
 \multicolumn{4}{|p{16cm}|}{}\\
 \hline
-\multicolumn{4}{|p{16cm}|}{Bibliografia Complementar:}\\
-\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{%
-\begin{itemize}{{BIB_COMP}}\end{itemize}}\\
+\multicolumn{4}{|p{16cm}|}{Bibliografia Complementar:}\\*
+{{BIB_COMP}}
 \hline
 \end{longtable}
 \end{center}
@@ -107,21 +105,41 @@ ENDDOC = r"\end{document}"
 
 
 # ---------- Funções auxiliares ------------------------------------ #
-def lista_para_itens(seq, cmd="item"):
-    """Converte lista Python em \item A \item B ..."""
-    return "\n".join(f"\\{cmd} {x}" for x in seq)
+ESCAPE = True
+_ESC = re.compile(r"(?<!\\)([&%#_])")
 
-#def mc4(text):
-#    """Uma linha de \multicolumn que ocupa 4 colunas com p{16cm}."""
-#    return r"\multicolumn{4}{|p{16cm}|}{" + text + r"}\\"
+
+def esc(s):
+    """Escapa & % # _ ainda não escapados (URLs, autores com &, etc.)."""
+    s = "" if s is None else str(s)
+    return _ESC.sub(r"\\\1", s) if ESCAPE else s
+
 
 def mc4(text):
     return r"\multicolumn{4}{|p{\dimexpr 16cm + 6\tabcolsep\relax}|}{" + text + r"}\\"
 
+
+def lista_linhas(seq, env):
+    """Uma linha da longtable por item. Uma única célula gigante não quebra
+    entre páginas e deixa a página anterior vazia; com uma linha por item a
+    quebra acontece entre os itens. A numeração é preservada via start=."""
+    seq = [x for x in (seq or []) if str(x).strip()]
+    if not seq:
+        return mc4(r"\begin{itemize}\item[] (nenhum item informado)\end{itemize}")
+    linhas = []
+    for i, x in enumerate(seq, 1):
+        opt = f"[start={i}]" if env == "enumerate" else ""
+        linhas.append(mc4(f"\\begin{{{env}}}{opt}\\item {esc(x)}\\end{{{env}}}"))
+    return "\n".join(linhas)
+
+
 def render_disciplina(d):
     """Substitui placeholders no bloco DISCIPLINA por valores da disciplina d."""
-    pres = "X" if d["Modalidade"].lower().startswith("presencial") else " "
-    dist = "X" if "distância" in d["Modalidade"].lower() else " "
+    mod = d.get("Modalidade", "").lower()
+    semi = "semi" in mod
+    pres = "X" if (not semi and "presencial" in mod) else " "
+    dist = "X" if (not semi and ("distância" in mod or "distancia" in mod)) else " "
+    semi = "X" if semi else " "
 
     ch = d.get("Carga Horária", {})
     def ch_get(k): return ch.get(k, "")
@@ -138,29 +156,30 @@ def render_disciplina(d):
     if perfil or objx:
         perfil_obj_lines.append(mc4(""))
         if perfil:
-            perfil_obj_lines.append(mc4(f"Perfil da Comunidade: {perfil}"))
+            perfil_obj_lines.append(mc4(f"Perfil da Comunidade: {esc(perfil)}"))
         if objx:
-            perfil_obj_lines.append(mc4(f"Objetivos Extensionistas: {objx}"))
+            perfil_obj_lines.append(mc4(f"Objetivos Extensionistas: {esc(objx)}"))
         perfil_obj_lines.append(mc4(""))
     perfil_obj_block = "\n".join(perfil_obj_lines)
 
     mapa = {
-        "NOME_PTBR": d["Nome (ptBR)"],
-        "NOME_ENUS": d["Nome (enUS)"],
-        "CODIGO":    d["Código"],
-        "DEPARTAMENTO": d["Departamento"],
-        "UNIDADE":   d["Unidade Acadêmica"],
+        "NOME_PTBR": esc(d["Nome (ptBR)"]),
+        "NOME_ENUS": esc(d["Nome (enUS)"]),
+        "CODIGO":    esc(d["Código"]),
+        "DEPARTAMENTO": esc(d["Departamento"]),
+        "UNIDADE":   esc(d["Unidade Acadêmica"]),
         "PRESENCIAL": pres,
+        "SEMI":       semi,
         "DISTANCIA":  dist,
-        "CH_TOTAL": ch_get("Total"),
-        "CH_EXT":   ch_get("Extensionista"),
-        "CH_TEO":   ch_get("Teórica"),
-        "CH_PRA":   ch_get("Prática"),
-        "EMENTA":   d["Ementa"],
-        "CONTEUDO": lista_para_itens(d["Conteúdo Programático"]),
-        "BIB_BASICA": lista_para_itens(d["Bibliografia Básica"]),
-        "BIB_COMP":   lista_para_itens(d["Bibliografia Complementar"]),
-        "PERFIL_OBJ_BLOCK": perfil_obj_block if perfil_obj_lines else "\multicolumn{4}{|p{16cm}|}{}\\\\",
+        "CH_TOTAL": esc(ch_get("Total")),
+        "CH_EXT":   esc(ch_get("Extensionista")),
+        "CH_TEO":   esc(ch_get("Teórica")),
+        "CH_PRA":   esc(ch_get("Prática")),
+        "EMENTA":   esc(d["Ementa"]),
+        "CONTEUDO":   lista_linhas(d.get("Conteúdo Programático"), "enumerate"),
+        "BIB_BASICA": lista_linhas(d.get("Bibliografia Básica"), "itemize"),
+        "BIB_COMP":   lista_linhas(d.get("Bibliografia Complementar"), "itemize"),
+        "PERFIL_OBJ_BLOCK": perfil_obj_block if perfil_obj_lines else mc4(""),
     }
 
     bloco = DISCIPLINA
@@ -170,12 +189,16 @@ def render_disciplina(d):
 
 
 def main():
-    if len(sys.argv) not in (2, 3):
-        print("Uso: python json2todas_tex.py entrada.json [saida.tex]")
+    global ESCAPE
+    args = [a for a in sys.argv[1:] if a != "--no-escape"]
+    if "--no-escape" in sys.argv[1:]:
+        ESCAPE = False
+    if len(args) not in (1, 2):
+        print("Uso: python json2tex2.py entrada.json [saida.tex] [--no-escape]")
         sys.exit(1)
 
-    in_path  = Path(sys.argv[1])
-    out_path = Path(sys.argv[2]) if len(sys.argv) == 3 else in_path.with_suffix(".tex")
+    in_path  = Path(args[0])
+    out_path = Path(args[1]) if len(args) == 2 else in_path.with_suffix(".tex")
     dados = json.loads(in_path.read_text(encoding="utf-8"))
 
     # Se o JSON antigo (uma única disciplina) for usado,

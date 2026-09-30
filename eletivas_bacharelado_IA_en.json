@@ -88,8 +88,8 @@
       "Credit Hours": {
         "Total": "60",
         "Extension": "0",
-        "Theoretical": "2",
-        "Practical": "2"
+        "Theoretical": "4",
+        "Practical": "0"
       },
       "Course Description": "Concept of distributed systems. Architecture of distributed systems. Processes and inter-process communication. Naming service in distributed systems. Synchronization service in distributed systems. Consistency and replication service in distributed systems. Fault tolerance service in distributed systems. Distributed platforms and applications.",
       "Course Content": [

@@ -88,8 +88,8 @@
     "Carga Horária": {
       "Total": "60",
       "Extensionista": "0",
-      "Teórica": "2",
-      "Prática": "2"
+      "Teórica": "4",
+      "Prática": "0"
     },
     "Ementa": "Conceito de sistemas distribuídos. Arquitetura de sistemas distribuídos. Processos e comunicação entre processos. Serviço de nomeação em sistemas distribuídos. Serviço de sincronização em sistemas distribuídos. Serviço de consistência e replicação em sistemas distribuídos. Serviço de tolerância a falhas em sistemas distribuídos. Plataformas e aplicações distribuídas.",
     "Conteúdo Programático": [
