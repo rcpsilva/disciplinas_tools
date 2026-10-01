@@ -2084,6 +2084,42 @@
     ],
     "Bibliografia Complementar": []
   },
+  {
+  "Nome (ptBR)": "Robótica Inteligente",
+  "Nome (enUS)": "Intelligent Robotics",
+  "Código": "BCC146",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Introdução à robótica inteligente; sensores, atuadores e sistemas embarcados em robótica; visão computacional na robótica; controle de robôs; técnicas inteligentes para planejamento de rotas, navegação e localização de robôs móveis; aprendizado de máquina em robótica; robótica social e interação humano-robô.",
+  "Conteúdo Programático": [
+    "Introdução à robótica inteligente.",
+    "Sensores, atuadores e sistemas embarcados em robótica.",
+    "Visão computacional na robótica.",
+    "Controle de robôs.",
+    "Técnicas inteligentes para planejamento de rotas, navegação e localização de robôs móveis.",
+    "Aprendizado de máquina em robótica.",
+    "Robótica social e interação humano-robô."
+  ],
+  "Bibliografia Básica": [
+    "Craig, John J. Robótica. 3. ed. São Paulo: Pearson Education do Brasil, 2013.",
+    "Spong, Mark W.; Vidyasagar, M. Robot dynamics and control. New York: J. Wiley, 1989.",
+    "Russell, S. J.; Norvig, P. Inteligência Artificial: uma abordagem moderna. 4. ed. Rio de Janeiro: LTC, 2022."
+  ],
+  "Bibliografia Complementar": [
+    "Romero, R. A. F.; Prestes, E. S. J.; Osório, F. S.; Wolf, D. F. (org.). Robótica móvel. 1. ed. Rio de Janeiro: LTC, 2014.",
+    "Romero, R. A. F. (org.). Robótica educacional. 1. ed. São Paulo: Edusp, 2024.",
+    "Sutton, R. S.; Barto, A. G. Reinforcement learning: an introduction. 2. ed. Cambridge, MA: MIT Press, 2018.",
+    "Elgendy, M. Deep learning for vision systems. 1. ed. Manning, 2020.",
+    "Siegwart, R.; Nourbakhsh, I. R.; Scaramuzza, D. Introduction to autonomous mobile robots. 2. ed. Cambridge, MA: MIT Press, 2011."
+  ]
+},
 {
   "Nome (ptBR)": "Internet das Coisas",
   "Nome (enUS)": "Internet of Things",
@@ -2121,6 +2157,43 @@
     "RAY, Partha Pratim. Internet of Things: Architecture and Applications. Wiley, 2018.",
     "SINGH, D.; ZHANG, H.; KUMAR, N. Internet of Things: Principles and Paradigms. Wiley, 2018.",
     "STANKOVIC, John A. Research Directions for the Internet of Things. IEEE Internet of Things Journal, 2014."
+  ]
+},{
+  "Nome (ptBR)": "Direito da Informática",
+  "Nome (enUS)": "Informatics Law",
+  "Código": "DIR260",
+  "Departamento": "Departamento de Direito (DEDIR)",
+  "Unidade Acadêmica": "EDTM",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "30",
+    "Extensionista": "0",
+    "Teórica": "2",
+    "Prática": "0"
+  },
+  "Ementa": "Noções de direito. Comércio eletrônico e legislação pertinente. Estudos de direito comparado. O direito da informática e a contribuição hermenêutica da jurisprudência brasileira. Direito da informática e demais áreas do ordenamento jurídico.",
+  "Conteúdo Programático": [
+    "Governança e jurisdição na Internet.",
+    "Comércio eletrônico e contrato eletrônico.",
+    "Privacidade e proteção de dados.",
+    "Responsabilidade civil na Internet.",
+    "Crimes cibernéticos.",
+    "Direito das startups.",
+    "A propriedade intelectual e o Direito Digital."
+  ],
+  "Bibliografia Básica": [
+    "BLUM, Renato M. S. Opice; BRUNO, Marcos Gomes da Silva; ABRUSIO, Juliana Canha. Manual de direito eletrônico e internet. São Paulo: Lex, 2006.",
+    "PAESANI, Liliana Minardi. Direito na sociedade da informação III. São Paulo: Atlas, 2013.",
+    "PINHEIRO, Patrícia Peck. Direito digital. 6. ed. São Paulo: Saraiva, 2016."
+  ],
+  "Bibliografia Complementar": [
+    "DE LUCCA, Newton; SIMÃO FILHO, Adalberto. Direito & Internet: aspectos jurídicos relevantes. 2. ed. São Paulo: Quartier Latin, 2005.",
+    "GANDELMAN, Henrique. De Gutenberg à Internet: direitos autorais na era digital. 2. ed. Rio de Janeiro: Record, 1997.",
+    "PAESANI, Liliana Minardi. Direito e internet: liberdade de informação, privacidade e responsabilidade civil. 3. ed. São Paulo: Atlas, 2006.",
+    "PINHEIRO, Patrícia Peck. Proteção de dados pessoais: comentários à Lei n. 13.709/2018 (LGPD). São Paulo: Saraiva, 2018.",
+    "ROHRMANN, Carlos Alberto. Curso de direito virtual. Belo Horizonte: Del Rey, 2005.",
+    "SILVEIRA, Newton. Propriedade intelectual: propriedade industrial, direito de autor, software, cultivares, nome empresarial, abuso de patentes. Barueri, SP: Manole, 2014.",
+    "TEIXEIRA, Tarcisio; LOPES, Alan (coords.). Startups e inovação: direito no empreendedorismo. Barueri, SP: Manole, 2017."
   ]
 }]
 }
