@@ -1,5 +1,39 @@
 {
 	"Disciplinas":[
+    {
+  "Nome (ptBR)": "Divulgação Científica",
+  "Nome (enUS)": "Dissemination of Scientific Knowledge",
+  "Código": "BCC132",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "120",
+    "Extensionista": "60",
+    "Teórica": "0",
+    "Prática": "8"
+  },
+  "Ementa": "Divulgação Científica, Conceituação e aspectos práticos das Redes Sociais; Leitura Científica; Conceitos de produção de textos jornalísticos.",
+  "Conteúdo Programático": [
+    "Introdução à Divulgação Científica e sua Relevância Social: o papel da ciência na sociedade e a importância da comunicação científica; a divulgação científica como ferramenta de inclusão e acesso ao conhecimento; o impacto das redes sociais e mídias digitais na disseminação da ciência",
+    "Estratégias de Comunicação e Dialogicidade na Divulgação Científica: técnicas para tornar conteúdos científicos acessíveis a diferentes públicos; interação com a comunidade para identificação de temas relevantes; linguagem e adaptação de conteúdo para diversos meios (vídeo, texto, áudio)",
+    "Co-criação e Produção de Conteúdo Científico para a Comunidade: oficinas de divulgação científica em escolas e espaços comunitários; produção de materiais didáticos sobre tecnologia e computação para públicos diversos; planejamento e execução de campanhas educativas sobre temas como privacidade digital, inteligência artificial e impacto social da computação",
+    "Uso de Tecnologias Digitais para Divulgação Científica: ferramentas para produção de vídeos, podcasts e infográficos; estratégias para impulsionamento de conteúdo nas redes sociais; monitoramento e análise do impacto das iniciativas de divulgação",
+    "Avaliação do Impacto e Reflexão Crítica sobre a Divulgação Científica: coleta de feedbacks da comunidade atendida; reflexão sobre a transformação do conhecimento acadêmico em informação acessível; registros de boas práticas e sistematização de aprendizados",
+    "\\textbf{Perfil da Comunidade:} A disciplina BCC132 - Divulgação Científica busca aproximar a universidade da sociedade por meio da comunicação acessível do conhecimento científico e tecnológico. Seu público-alvo inclui escolas, organizações não-governamentais (ONGs), coletivos culturais, empreendedores, professores e comunidades com pouco acesso à informação científica. Os discentes atuarão como mediadores do conhecimento, transformando conceitos da ciência da computação em conteúdos compreensíveis e aplicáveis ao cotidiano da população. A interação com a comunidade será participativa e dialogada, garantindo que os temas tratados na disciplina sejam definidos com base nos interesses e necessidades da sociedade. Dessa forma, a disciplina contribui para a democratização do conhecimento e o fortalecimento da inclusão digital e científica.",
+    "\\textbf{Objetivos Extensionistas:} A disciplina visa (i) promover a democratização do conhecimento científico e tecnológico, tornando a computação acessível para públicos diversos por meio de estratégias de divulgação científica, (ii) fomentar a interação dialógica entre universidade e comunidade, permitindo que os temas abordados na disciplina sejam construídos coletivamente com base nas demandas sociais, (iii) capacitar os discentes para comunicar conceitos científicos de forma acessível, desenvolvendo habilidades de escrita, oralidade e uso de tecnologias para popularizar a ciência, (iv) incentivar a produção de conteúdos educativos, promovendo oficinas, materiais digitais e campanhas informativas sobre temas relevantes da computação, e (v) avaliar o impacto da divulgação científica na comunidade, garantindo que as ações realizadas tenham um efeito concreto na disseminação do conhecimento e no engajamento social."
+  ],
+  "Bibliografia Básica": [
+    "BUENO, W.C. Estratégias de Comunicação nas Mídias Sociais. (disponível na biblioteca virtual “Minha Biblioteca”)",
+    "MARQUES, V. Redes Sociais 360: Como comunicar online. (disponível na biblioteca virtual “Minha Biblioteca”)",
+    "MORAIS, F. Planejamento Estratégico Digital. (disponível na biblioteca virtual “Minha Biblioteca”)",
+    "OLIVEIRA, J.P.M.; MOTTA, C.A.P. Como Escrever Textos Técnicos. (disponível na biblioteca virtual “Minha Biblioteca”)",
+    "TERRA, E. Práticas de Leitura e Escrita. (disponível na biblioteca virtual “Minha Biblioteca”)"
+  ],
+  "Bibliografia Complementar": [
+    "BRASILEIRO, A.M.M. UniA: Leitura e Produção Textual. (disponível na biblioteca virtual “Minha Biblioteca”)"
+  ]
+},
   {
     "Nome (ptBR)": "Programação Funcional",
     "Nome (enUS)": "Functional Programming",
@@ -1371,17 +1405,16 @@
       "Ferramentas e frameworks para desenvolvimento de UI/UX em IA",
       "Estudos de caso: aplicações reais em IA e interfaces inteligentes"
     ],
-    "Bibliografia Básica": [
+    "Basic Bibliography": [
       "NORMAN, Donald A. The Design of Everyday Things. 2. ed. Basic Books, 2013.",
       "COOPER, Alan; REIMANN, Robert; CRONIN, David. About Face: The Essentials of Interaction Design. 4. ed. Wiley, 2014.",
-      "SHNEIDERMAN, Ben; PIATKO, Catherine; COHEN, Jenifer. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 6. ed. Pearson, 2016."
+      "SHNEIDERMAN, Ben; PLAISANT, Catherine; COHEN, Maxine S.; JACOBS, Steven; ELMQVIST, Niklas; DIAKOPOULOS, Nicholas. Designing the User Interface: Strategies for Effective Human-Computer Interaction. 6. ed. Boston: Pearson, 2016."
     ],
-    "Bibliografia Complementar": [
-      "MORRIS, Jenny. Designing for AI: Creating User Interfaces for Artificial Intelligence Systems. O'Reilly Media, 2021.",
-      "FOGEL, Karen; ESER, Daniel. UX Design for Artificial Intelligence Systems. 1. ed. Springer, 2020.",
-      "KLEIN, Julie; HACKER, Sue. Designing Bots: Creating Conversational Experiences. O'Reilly Media, 2017.",
-      "GREEN, Ben. The Ethical Challenges of AI in UX Design. MIT Press, 2022.",
-      "SAWYER, Steve. UX Strategy: How to Devise Innovative Digital Products that People Want. 2. ed. O'Reilly Media, 2015."
+    "Supplementary Bibliography": [
+      "KORE, Akshay. Designing Human-Centric AI Experiences: Applied UX Design for Artificial Intelligence. New York: Apress, 2022.",
+      "MACFADYEN, Louise. Designing AI Interfaces: Design Principles for Creative and Autonomous AI. Sebastopol, CA: O'Reilly Media, 2026.",
+      "SHEVAT, Amir. Designing Bots: Creating Conversational Experiences. Sebastopol, CA: O'Reilly Media, 2017.",
+      "LEVY, Jaime. UX Strategy: Product Strategy Techniques for Devising Innovative Digital Solutions. 2. ed. Sebastopol, CA: O'Reilly Media, 2021."
     ]
   },
   {

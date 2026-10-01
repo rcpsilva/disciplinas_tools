@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1790793661.58641 "c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/Examples/obrigatorias/obrigatorias_IA.tex" "obrigatorias_IA.pdf" "obrigatorias_IA" 1790793663.65141 0
+["pdflatex"] 1790799311.99273 "c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/Examples/obrigatorias/obrigatorias_IA.tex" "obrigatorias_IA.pdf" "obrigatorias_IA" 1790799314.13061 0
   "brasao.png" 1764593514 277052 2403d1ace55e094b547fc0df73cacbc3 ""
-  "c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/Examples/obrigatorias/obrigatorias_IA.tex" 1790793646 168443 dc69726360784c59d12bdc245fd1e805 ""
+  "c:/Users/rcpsi/OneDrive/Documents/GitHub/disciplinas_tools/Examples/obrigatorias/obrigatorias_IA.tex" 1790799300 214453 7ff50d00bcf51ecb466862bd3e5cca57 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1730312644 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1730312644 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1730314164 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -54,8 +54,8 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1730319856 5521136 47e49b84c41d5ab3414c7e2d0ef6eb2b ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1730320026 3325936 6e896a909b476ed009efbfbadbcd5207 ""
   "c:/texlive/2024/texmf.cnf" 1730319826 713 e69b156964470283e0530f5060668171 ""
-  "obrigatorias_IA.aux" 1790793663 3833 08551161aa392706b738bf9c20c6a24e "pdflatex"
-  "obrigatorias_IA.tex" 1790793646 168443 dc69726360784c59d12bdc245fd1e805 ""
+  "obrigatorias_IA.aux" 1790799313 4832 93691444a416037f55153279caa69ba0 "pdflatex"
+  "obrigatorias_IA.tex" 1790799300 214453 7ff50d00bcf51ecb466862bd3e5cca57 ""
   "ufop.png" 1764593514 143864 8e2fdf94e0ed712cbacb9996aed3bdda ""
   (generated)
   "obrigatorias_IA.aux"

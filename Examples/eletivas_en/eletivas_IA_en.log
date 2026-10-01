@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  30 SEP 2026 15:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.10.30)  30 SEP 2026 17:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -256,33 +256,33 @@ Overfull \vbox (33.9827pt too high) detected at line 17
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 25--90
+Overfull \hbox (21.54718pt too wide) in alignment at lines 25--82
  [] [] [] [] 
  []
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./brasao.png> <./ufop.png>]
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./brasao.png> <./ufop.png>]
 
-[2]
+[2{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 96.
+Package pdftex.def Info: brasao.png  used on input line 88.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 96
+Overfull \vbox (33.9827pt too high) detected at line 88
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 98.
+Package pdftex.def Info: ufop.png  used on input line 90.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 98
+Overfull \vbox (33.9827pt too high) detected at line 90
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 106--161
+Overfull \hbox (21.54718pt too wide) in alignment at lines 98--163
  [] [] [] [] 
  []
 
@@ -293,32 +293,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 106--161
 [4]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 167.
+Package pdftex.def Info: brasao.png  used on input line 169.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
-
-Overfull \vbox (33.9827pt too high) detected at line 167
- []
-
-File: ufop.png Graphic file (type png)
-<use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 169.
-(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
 Overfull \vbox (33.9827pt too high) detected at line 169
  []
 
+File: ufop.png Graphic file (type png)
+<use ufop.png>
+Package pdftex.def Info: ufop.png  used on input line 171.
+(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--230
-[]\T1/cmr/m/n/10.95 VERAS, Ma-noel. Com-putação em Nu-vem. 1. ed. Bras-port,
+Overfull \vbox (33.9827pt too high) detected at line 171
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--230
-\T1/cmr/m/n/10.95 2015. Disponível on-line em Min-haU-FOP/BibliotecaDigital/BVirtualPearson:
- []
-
-
-Overfull \hbox (21.54718pt too wide) in alignment at lines 177--236
+Overfull \hbox (21.54718pt too wide) in alignment at lines 179--234
  [] [] [] [] 
  []
 
@@ -329,22 +319,32 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 177--236
 [6]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 242.
+Package pdftex.def Info: brasao.png  used on input line 240.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 242
+Overfull \vbox (33.9827pt too high) detected at line 240
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 244.
+Package pdftex.def Info: ufop.png  used on input line 242.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 244
+Overfull \vbox (33.9827pt too high) detected at line 242
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 252--312
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[]\T1/cmr/m/n/10.95 VERAS, Ma-noel. Com-putação em Nu-vem. 1. ed. Bras-port,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+\T1/cmr/m/n/10.95 2015. Disponível on-line em Min-haU-FOP/BibliotecaDigital/BVirtualPearson:
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 250--309
  [] [] [] [] 
  []
 
@@ -355,32 +355,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 252--312
 [8]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 318.
+Package pdftex.def Info: brasao.png  used on input line 315.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 318
+Overfull \vbox (33.9827pt too high) detected at line 315
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 320.
+Package pdftex.def Info: ufop.png  used on input line 317.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 320
+Overfull \vbox (33.9827pt too high) detected at line 317
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
-[]\T1/cmr/m/n/10.95 SEGURADO, Valquiria San-tos. Pro-jeto de in-ter-face com o usuário. 1.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
-\T1/cmr/m/n/10.95 ed. São Paulo: Pear-son Ed-u-ca-tion do Brasil, 2016. Disponível em:
- []
-
-
-Overfull \hbox (21.54718pt too wide) in alignment at lines 328--383
+Overfull \hbox (21.54718pt too wide) in alignment at lines 325--385
  [] [] [] [] 
  []
 
@@ -391,22 +381,32 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 328--383
 [10]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 389.
+Package pdftex.def Info: brasao.png  used on input line 391.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
-
-Overfull \vbox (33.9827pt too high) detected at line 389
- []
-
-File: ufop.png Graphic file (type png)
-<use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 391.
-(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
 Overfull \vbox (33.9827pt too high) detected at line 391
  []
 
+File: ufop.png Graphic file (type png)
+<use ufop.png>
+Package pdftex.def Info: ufop.png  used on input line 393.
+(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 399--457
+Overfull \vbox (33.9827pt too high) detected at line 393
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+[]\T1/cmr/m/n/10.95 SEGURADO, Valquiria San-tos. Pro-jeto de in-ter-face com o usuário. 1.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--446
+\T1/cmr/m/n/10.95 ed. São Paulo: Pear-son Ed-u-ca-tion do Brasil, 2016. Disponível em:
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 401--456
  [] [] [] [] 
  []
 
@@ -417,32 +417,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 399--457
 [12]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 463.
+Package pdftex.def Info: brasao.png  used on input line 462.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 463
+Overfull \vbox (33.9827pt too high) detected at line 462
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 465.
+Package pdftex.def Info: ufop.png  used on input line 464.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 465
+Overfull \vbox (33.9827pt too high) detected at line 464
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 525--525
-[]\T1/cmr/m/n/10.95 JÚNIOR, Ar-mando Kolbe. Com-putação em Nu-vem. 1. ed. Con-tentus,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 525--525
-\T1/cmr/m/n/10.95 2020. Disponível on-line em Min-haU-FOP/BibliotecaDigital/BVirtualPearson:
- []
-
-
-Overfull \hbox (21.54718pt too wide) in alignment at lines 473--538
+Overfull \hbox (21.54718pt too wide) in alignment at lines 472--530
  [] [] [] [] 
  []
 
@@ -453,22 +443,32 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 473--538
 [14]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 544.
+Package pdftex.def Info: brasao.png  used on input line 536.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 544
+Overfull \vbox (33.9827pt too high) detected at line 536
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 546.
+Package pdftex.def Info: ufop.png  used on input line 538.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 546
+Overfull \vbox (33.9827pt too high) detected at line 538
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 554--614
+Underfull \hbox (badness 10000) in paragraph at lines 598--598
+[]\T1/cmr/m/n/10.95 JÚNIOR, Ar-mando Kolbe. Com-putação em Nu-vem. 1. ed. Con-tentus,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--598
+\T1/cmr/m/n/10.95 2020. Disponível on-line em Min-haU-FOP/BibliotecaDigital/BVirtualPearson:
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 546--611
  [] [] [] [] 
  []
 
@@ -479,22 +479,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 554--614
 [16]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 620.
+Package pdftex.def Info: brasao.png  used on input line 617.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 620
+Overfull \vbox (33.9827pt too high) detected at line 617
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 622.
+Package pdftex.def Info: ufop.png  used on input line 619.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 622
+Overfull \vbox (33.9827pt too high) detected at line 619
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 630--684
+Overfull \hbox (21.54718pt too wide) in alignment at lines 627--687
  [] [] [] [] 
  []
 
@@ -505,22 +505,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 630--684
 [18]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 690.
+Package pdftex.def Info: brasao.png  used on input line 693.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 690
+Overfull \vbox (33.9827pt too high) detected at line 693
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 692.
+Package pdftex.def Info: ufop.png  used on input line 695.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 692
+Overfull \vbox (33.9827pt too high) detected at line 695
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 700--762
+Overfull \hbox (21.54718pt too wide) in alignment at lines 703--757
  [] [] [] [] 
  []
 
@@ -531,37 +531,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 700--762
 [20]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 768.
+Package pdftex.def Info: brasao.png  used on input line 763.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 768
+Overfull \vbox (33.9827pt too high) detected at line 763
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 770.
+Package pdftex.def Info: ufop.png  used on input line 765.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 770
+Overfull \vbox (33.9827pt too high) detected at line 765
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 833--833
-[]\T1/cmr/m/n/10.95 DEITEL, H. M.; DEI-TEL, P. J.; CHOFFNES, D. R. Sis-temas Op-era-cionais. Ed-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 833--833
-\T1/cmr/m/n/10.95 i-tora Pear-son, 2005. ISBN 9788576050117. Disponível na Minha Bib-lioteca:
- []
-
-
-Underfull \hbox (badness 2343) in paragraph at lines 833--833
-\T1/cmr/m/n/10.95 https://plataforma.bvirtual.com.br/Leitor/Loader/315/pdf (acessível via Minha UFOP ^^U Bib-
- []
-
-
-Overfull \hbox (21.54718pt too wide) in alignment at lines 778--839
+Overfull \hbox (21.54718pt too wide) in alignment at lines 773--835
  [] [] [] [] 
  []
 
@@ -572,22 +557,37 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 778--839
 [22]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 845.
+Package pdftex.def Info: brasao.png  used on input line 841.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 845
+Overfull \vbox (33.9827pt too high) detected at line 841
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 847.
+Package pdftex.def Info: ufop.png  used on input line 843.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 847
+Overfull \vbox (33.9827pt too high) detected at line 843
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 855--911
+Underfull \hbox (badness 4872) in paragraph at lines 906--906
+[]\T1/cmr/m/n/10.95 DEITEL, H. M.; DEI-TEL, P. J.; CHOFFNES, D. R. Sis-temas Op-era-cionais. Ed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 906--906
+\T1/cmr/m/n/10.95 i-tora Pear-son, 2005. ISBN 9788576050117. Disponível na Minha Bib-lioteca:
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 906--906
+\T1/cmr/m/n/10.95 https://plataforma.bvirtual.com.br/Leitor/Loader/315/pdf (acessível via Minha UFOP ^^U Bib-
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 851--912
  [] [] [] [] 
  []
 
@@ -598,22 +598,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 855--911
 [24]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 917.
+Package pdftex.def Info: brasao.png  used on input line 918.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 917
+Overfull \vbox (33.9827pt too high) detected at line 918
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 919.
+Package pdftex.def Info: ufop.png  used on input line 920.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 919
+Overfull \vbox (33.9827pt too high) detected at line 920
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 927--995
+Overfull \hbox (21.54718pt too wide) in alignment at lines 928--984
  [] [] [] [] 
  []
 
@@ -624,22 +624,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 927--995
 [26]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1001.
+Package pdftex.def Info: brasao.png  used on input line 990.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1001
+Overfull \vbox (33.9827pt too high) detected at line 990
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1003.
+Package pdftex.def Info: ufop.png  used on input line 992.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1003
+Overfull \vbox (33.9827pt too high) detected at line 992
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1011--1068
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1000--1068
  [] [] [] [] 
  []
 
@@ -665,7 +665,7 @@ Overfull \vbox (33.9827pt too high) detected at line 1076
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1084--1139
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1084--1141
  [] [] [] [] 
  []
 
@@ -676,22 +676,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1084--1139
 [30]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1145.
+Package pdftex.def Info: brasao.png  used on input line 1147.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
-
-Overfull \vbox (33.9827pt too high) detected at line 1145
- []
-
-File: ufop.png Graphic file (type png)
-<use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1147.
-(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
 Overfull \vbox (33.9827pt too high) detected at line 1147
  []
 
+File: ufop.png Graphic file (type png)
+<use ufop.png>
+Package pdftex.def Info: ufop.png  used on input line 1149.
+(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1155--1221
+Overfull \vbox (33.9827pt too high) detected at line 1149
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1157--1212
  [] [] [] [] 
  []
 
@@ -702,22 +702,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1155--1221
 [32]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1227.
+Package pdftex.def Info: brasao.png  used on input line 1218.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1227
+Overfull \vbox (33.9827pt too high) detected at line 1218
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1229.
+Package pdftex.def Info: ufop.png  used on input line 1220.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1229
+Overfull \vbox (33.9827pt too high) detected at line 1220
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1237--1291
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1228--1294
  [] [] [] [] 
  []
 
@@ -728,22 +728,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1237--1291
 [34]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1297.
+Package pdftex.def Info: brasao.png  used on input line 1300.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1297
+Overfull \vbox (33.9827pt too high) detected at line 1300
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1299.
+Package pdftex.def Info: ufop.png  used on input line 1302.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1299
+Overfull \vbox (33.9827pt too high) detected at line 1302
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1307--1364
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1310--1364
  [] [] [] [] 
  []
 
@@ -795,7 +795,7 @@ Overfull \vbox (33.9827pt too high) detected at line 1445
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1453--1511
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1453--1510
  [] [] [] [] 
  []
 
@@ -806,22 +806,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1453--1511
 [40]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1517.
+Package pdftex.def Info: brasao.png  used on input line 1516.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1517
+Overfull \vbox (33.9827pt too high) detected at line 1516
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1519.
+Package pdftex.def Info: ufop.png  used on input line 1518.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1519
+Overfull \vbox (33.9827pt too high) detected at line 1518
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1527--1588
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1526--1584
  [] [] [] [] 
  []
 
@@ -832,22 +832,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1527--1588
 [42]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1594.
+Package pdftex.def Info: brasao.png  used on input line 1590.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1594
+Overfull \vbox (33.9827pt too high) detected at line 1590
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1596.
+Package pdftex.def Info: ufop.png  used on input line 1592.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1596
+Overfull \vbox (33.9827pt too high) detected at line 1592
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1604--1662
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1600--1661
  [] [] [] [] 
  []
 
@@ -858,22 +858,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1604--1662
 [44]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1668.
+Package pdftex.def Info: brasao.png  used on input line 1667.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1668
+Overfull \vbox (33.9827pt too high) detected at line 1667
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1670.
+Package pdftex.def Info: ufop.png  used on input line 1669.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1670
+Overfull \vbox (33.9827pt too high) detected at line 1669
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1678--1740
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1677--1735
  [] [] [] [] 
  []
 
@@ -884,22 +884,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1678--1740
 [46]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1746.
+Package pdftex.def Info: brasao.png  used on input line 1741.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1746
+Overfull \vbox (33.9827pt too high) detected at line 1741
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1748.
+Package pdftex.def Info: ufop.png  used on input line 1743.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1748
+Overfull \vbox (33.9827pt too high) detected at line 1743
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1756--1820
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1751--1813
  [] [] [] [] 
  []
 
@@ -910,22 +910,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1756--1820
 [48]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1826.
+Package pdftex.def Info: brasao.png  used on input line 1819.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1826
+Overfull \vbox (33.9827pt too high) detected at line 1819
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1828.
+Package pdftex.def Info: ufop.png  used on input line 1821.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1828
+Overfull \vbox (33.9827pt too high) detected at line 1821
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1836--1897
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1829--1893
  [] [] [] [] 
  []
 
@@ -936,22 +936,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1836--1897
 [50]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1903.
+Package pdftex.def Info: brasao.png  used on input line 1899.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1903
+Overfull \vbox (33.9827pt too high) detected at line 1899
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1905.
+Package pdftex.def Info: ufop.png  used on input line 1901.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1905
+Overfull \vbox (33.9827pt too high) detected at line 1901
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1913--1976
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1909--1970
  [] [] [] [] 
  []
 
@@ -962,22 +962,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 1913--1976
 [52]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 1982.
+Package pdftex.def Info: brasao.png  used on input line 1976.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1982
+Overfull \vbox (33.9827pt too high) detected at line 1976
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 1984.
+Package pdftex.def Info: ufop.png  used on input line 1978.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 1984
+Overfull \vbox (33.9827pt too high) detected at line 1978
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 1992--2049
+Overfull \hbox (21.54718pt too wide) in alignment at lines 1986--2049
  [] [] [] [] 
  []
 
@@ -1003,7 +1003,7 @@ Overfull \vbox (33.9827pt too high) detected at line 2057
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2065--2120
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2065--2122
  [] [] [] [] 
  []
 
@@ -1014,22 +1014,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2065--2120
 [56]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2126.
+Package pdftex.def Info: brasao.png  used on input line 2128.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
-
-Overfull \vbox (33.9827pt too high) detected at line 2126
- []
-
-File: ufop.png Graphic file (type png)
-<use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2128.
-(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
 Overfull \vbox (33.9827pt too high) detected at line 2128
  []
 
+File: ufop.png Graphic file (type png)
+<use ufop.png>
+Package pdftex.def Info: ufop.png  used on input line 2130.
+(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2136--2192
+Overfull \vbox (33.9827pt too high) detected at line 2130
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2138--2193
  [] [] [] [] 
  []
 
@@ -1040,22 +1040,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2136--2192
 [58]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2198.
+Package pdftex.def Info: brasao.png  used on input line 2199.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2198
+Overfull \vbox (33.9827pt too high) detected at line 2199
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2200.
+Package pdftex.def Info: ufop.png  used on input line 2201.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2200
+Overfull \vbox (33.9827pt too high) detected at line 2201
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2208--2274
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2209--2265
  [] [] [] [] 
  []
 
@@ -1066,22 +1066,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2208--2274
 [60]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2280.
+Package pdftex.def Info: brasao.png  used on input line 2271.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2280
+Overfull \vbox (33.9827pt too high) detected at line 2271
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2282.
+Package pdftex.def Info: ufop.png  used on input line 2273.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2282
+Overfull \vbox (33.9827pt too high) detected at line 2273
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2290--2350
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2281--2347
  [] [] [] [] 
  []
 
@@ -1092,22 +1092,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2290--2350
 [62]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2356.
+Package pdftex.def Info: brasao.png  used on input line 2353.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2356
+Overfull \vbox (33.9827pt too high) detected at line 2353
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2358.
+Package pdftex.def Info: ufop.png  used on input line 2355.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2358
+Overfull \vbox (33.9827pt too high) detected at line 2355
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2366--2435
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2363--2423
  [] [] [] [] 
  []
 
@@ -1118,22 +1118,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2366--2435
 [64]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2441.
+Package pdftex.def Info: brasao.png  used on input line 2429.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2441
+Overfull \vbox (33.9827pt too high) detected at line 2429
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2443.
+Package pdftex.def Info: ufop.png  used on input line 2431.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2443
+Overfull \vbox (33.9827pt too high) detected at line 2431
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2451--2507
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2439--2508
  [] [] [] [] 
  []
 
@@ -1144,22 +1144,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2451--2507
 [66]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2513.
+Package pdftex.def Info: brasao.png  used on input line 2514.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2513
+Overfull \vbox (33.9827pt too high) detected at line 2514
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2515.
+Package pdftex.def Info: ufop.png  used on input line 2516.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2515
+Overfull \vbox (33.9827pt too high) detected at line 2516
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2523--2578
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2524--2580
  [] [] [] [] 
  []
 
@@ -1170,22 +1170,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2523--2578
 [68]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2584.
+Package pdftex.def Info: brasao.png  used on input line 2586.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
-
-Overfull \vbox (33.9827pt too high) detected at line 2584
- []
-
-File: ufop.png Graphic file (type png)
-<use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2586.
-(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
 Overfull \vbox (33.9827pt too high) detected at line 2586
  []
 
+File: ufop.png Graphic file (type png)
+<use ufop.png>
+Package pdftex.def Info: ufop.png  used on input line 2588.
+(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2594--2649
+Overfull \vbox (33.9827pt too high) detected at line 2588
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2596--2651
  [] [] [] [] 
  []
 
@@ -1196,22 +1196,22 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2594--2649
 [70]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2655.
+Package pdftex.def Info: brasao.png  used on input line 2657.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
-
-Overfull \vbox (33.9827pt too high) detected at line 2655
- []
-
-File: ufop.png Graphic file (type png)
-<use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2657.
-(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
 Overfull \vbox (33.9827pt too high) detected at line 2657
  []
 
+File: ufop.png Graphic file (type png)
+<use ufop.png>
+Package pdftex.def Info: ufop.png  used on input line 2659.
+(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2665--2725
+Overfull \vbox (33.9827pt too high) detected at line 2659
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2667--2722
  [] [] [] [] 
  []
 
@@ -1222,48 +1222,100 @@ Overfull \hbox (21.54718pt too wide) in alignment at lines 2665--2725
 [72]
 File: brasao.png Graphic file (type png)
 <use brasao.png>
-Package pdftex.def Info: brasao.png  used on input line 2731.
+Package pdftex.def Info: brasao.png  used on input line 2728.
 (pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2731
+Overfull \vbox (33.9827pt too high) detected at line 2728
  []
 
 File: ufop.png Graphic file (type png)
 <use ufop.png>
-Package pdftex.def Info: ufop.png  used on input line 2733.
+Package pdftex.def Info: ufop.png  used on input line 2730.
 (pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
 
-Overfull \vbox (33.9827pt too high) detected at line 2733
+Overfull \vbox (33.9827pt too high) detected at line 2730
  []
 
 
-Overfull \hbox (21.54718pt too wide) in alignment at lines 2741--2794
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2738--2797
+ [] [] [] [] 
+ []
+
+[73
+
+]
+
+[74]
+File: brasao.png Graphic file (type png)
+<use brasao.png>
+Package pdftex.def Info: brasao.png  used on input line 2803.
+(pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
+
+Overfull \vbox (33.9827pt too high) detected at line 2803
+ []
+
+File: ufop.png Graphic file (type png)
+<use ufop.png>
+Package pdftex.def Info: ufop.png  used on input line 2805.
+(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
+
+Overfull \vbox (33.9827pt too high) detected at line 2805
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2813--2866
  [] [] [] [] 
  []
 
 
 
-[73
+[75
 
-] (./eletivas_IA_en.aux)
+]
+File: brasao.png Graphic file (type png)
+<use brasao.png>
+Package pdftex.def Info: brasao.png  used on input line 2872.
+(pdftex.def)             Requested size: 75.90245pt x 76.82234pt.
+
+Overfull \vbox (33.9827pt too high) detected at line 2872
+ []
+
+File: ufop.png Graphic file (type png)
+<use ufop.png>
+Package pdftex.def Info: ufop.png  used on input line 2874.
+(pdftex.def)             Requested size: 40.99644pt x 76.82234pt.
+
+Overfull \vbox (33.9827pt too high) detected at line 2874
+ []
+
+
+Overfull \hbox (21.54718pt too wide) in alignment at lines 2882--2942
+ [] [] [] [] 
+ []
+
+[76
+
+]
+
+[77] (./eletivas_IA_en.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4039 strings out of 473577
- 66204 string characters out of 5732224
- 501016 words of memory out of 5000000
- 26912 multiletter control sequences out of 15000+600000
+ 4041 strings out of 473577
+ 66222 string characters out of 5732224
+ 501156 words of memory out of 5000000
+ 26914 multiletter control sequences out of 15000+600000
  564244 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,12n,65p,975b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,12n,65p,1149b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on eletivas_IA_en.pdf (73 pages, 610485 bytes).
+Output written on eletivas_IA_en.pdf (77 pages, 620901 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
+ 278 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
