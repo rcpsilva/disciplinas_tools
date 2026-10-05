@@ -19,7 +19,7 @@
     "Co-creation and Production of Scientific Content for the Community: science communication workshops in schools and community spaces; production of teaching materials on technology and computing for diverse audiences; planning and execution of educational campaigns on topics such as digital privacy, artificial intelligence, and the social impact of computing",
     "Use of Digital Technologies for Science Communication: tools for producing videos, podcasts, and infographics; strategies for boosting content on social media; monitoring and analysis of the impact of outreach initiatives",
     "Impact Assessment and Critical Reflection on Science Communication: collection of feedback from the community served; reflection on transforming academic knowledge into accessible information; records of good practices and systematization of lessons learned",
-    "\\textbf{Community Profile:} The course BCC132 - Science Communication aims to bring the university closer to society through accessible communication of scientific and technological knowledge. Its target audience includes schools, non-governmental organizations (NGOs), cultural collectives, entrepreneurs, teachers, and communities with limited access to scientific information. Students will act as knowledge mediators, turning computer science concepts into content that is understandable and applicable to the daily life of the population. Interaction with the community will be participatory and dialogic, ensuring that the topics addressed in the course are defined based on the interests and needs of society. In this way, the course contributes to the democratization of knowledge and to the strengthening of digital and scientific inclusion.",
+    "\\textbf{Community Profile:} The course BCC292 - Science Communication aims to bring the university closer to society through accessible communication of scientific and technological knowledge. Its target audience includes schools, non-governmental organizations (NGOs), cultural collectives, entrepreneurs, teachers, and communities with limited access to scientific information. Students will act as knowledge mediators, turning computer science concepts into content that is understandable and applicable to the daily life of the population. Interaction with the community will be participatory and dialogic, ensuring that the topics addressed in the course are defined based on the interests and needs of society. In this way, the course contributes to the democratization of knowledge and to the strengthening of digital and scientific inclusion.",
     "\\textbf{Extension Objectives:} The course aims to (i) promote the democratization of scientific and technological knowledge, making computing accessible to diverse audiences through science communication strategies, (ii) foster dialogic interaction between the university and the community, allowing the topics addressed in the course to be built collectively based on social demands, (iii) train students to communicate scientific concepts in an accessible way, developing writing and speaking skills and the use of technologies to popularize science, (iv) encourage the production of educational content by promoting workshops, digital materials, and informational campaigns on relevant computing topics, and (v) assess the impact of science communication on the community, ensuring that the actions carried out have a concrete effect on the dissemination of knowledge and on social engagement."
   ],
   "Basic Bibliography": [
@@ -421,7 +421,7 @@
     {
       "Name (Portuguese)": "Projeto de Software de Tempo Real",
       "Name (English)": "Real-Time Software Design",
-      "Code": "BCC222",
+      "Code": "BCC822",
       "Department": "Department of Computer Science (DECOM)",
       "Academic Unit": "ICEB",
       "Modality": "In-person",
@@ -496,7 +496,7 @@
     {
       "Name (Portuguese)": "Teoria da Computação",
       "Name (English)": "Theory of Computation",
-      "Code": "BCC484",
+      "Code": "BCC884",
       "Department": "Department of Computer Science (DECOM)",
       "Academic Unit": "ICEB",
       "Modality": "In-person",
@@ -579,7 +579,7 @@
     {
       "Name (Portuguese)": "Interação Humano-Computador",
       "Name (English)": "Human-Computer Interaction",
-      "Code": "BCC404",
+      "Code": "BCC885",
       "Department": "Department of Computer Science (DECOM)",
       "Academic Unit": "ICEB",
       "Modality": "In-person",
@@ -613,7 +613,7 @@
     {
       "Name (Portuguese)": "Computação Gráfica",
       "Name (English)": "Computer Graphics",
-      "Code": "BCC407",
+      "Code": "BCC887",
       "Department": "Department of Computer Science (DECOM)",
       "Academic Unit": "ICEB",
       "Modality": "In-person",
@@ -658,7 +658,7 @@
     {
       "Name (Portuguese)": "Construção de Compiladores I",
       "Name (English)": "Compiler Construction I",
-      "Code": "BCC488",
+      "Code": "BCC888",
       "Department": "Department of Computer Science (DECOM)",
       "Academic Unit": "ICEB",
       "Modality": "In-person",
