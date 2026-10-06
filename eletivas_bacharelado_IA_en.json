@@ -1524,6 +1524,147 @@
         "SALMAN, Tara; JAIN, Raj. A survey of protocols and standards for Internet of Things. arXiv preprint, arXiv:1903.11549, 2019.",
         "VERMESAN, Ovidiu; FRIESS, Peter (ed.). Internet of Things Applications: From Research and Innovation to Market Deployment. River Publishers, 2014."
       ]
+    },{
+  "Name (Portuguese)": "Aprendizado de Máquina Adversarial",
+  "Name (English)": "Adversarial Machine Learning",
+  "Code": "BCC881",
+  "Department": "Department of Computer Science (DECOM)",
+  "Academic Unit": "ICEB",
+  "Modality": "In-person",
+  "Credit Hours": {
+    "Total": "60",
+    "Extension": "0",
+    "Theoretical": "4",
+    "Practical": "0"
+  },
+  "Course Description": "Study of the security of machine learning systems against intentional manipulation by adversaries. The course examines how attackers can deceive models at deployment time, corrupt them during training, or extract information about the models and the data they were trained on, and how these threats can be formally described. It covers the principles behind defenses, the methodology needed to assess their real effectiveness, and the limits of current guarantees, considering the constraints of different application domains.",
+  "Course Content": [
+    "Foundations of Adversarial ML Security: vulnerabilities across the ML pipeline, security goals, threat models, training-time and inference-time attack surfaces, taxonomy of attacks, overview of defense strategies",
+    "Evasion Attacks",
+    "Data Poisoning and Backdoor Attacks",
+    "Model Inference and Privacy Attacks",
+    "Robust Defense Mechanisms",
+    "Evaluating Model Robustness",
+    "Adversarial Machine Learning in Specific Domains"
+  ],
+  "Basic Bibliography": [
+    "JOSEPH, Anthony D.; NELSON, Blaine; RUBINSTEIN, Benjamin I. P.; TYGAR, J. D. Adversarial machine learning. Cambridge: Cambridge University Press, 2019.",
+    "VOROBEYCHIK, Yevgeniy; KANTARCIOGLU, Murat. Adversarial machine learning. San Rafael, CA: Morgan & Claypool, 2018. (Synthesis Lectures on Artificial Intelligence and Machine Learning).",
+    "CHEN, Pin-Yu; HSIEH, Cho-Jui. Adversarial robustness for machine learning. London: Academic Press, 2022."
+  ],
+  "Supplementary Bibliography": [
+    "BIGGIO, Battista; ROLI, Fabio. Wild patterns: ten years after the rise of adversarial machine learning. Pattern Recognition, v. 84, p. 317-331, 2018.",
+    "CARLINI, Nicholas et al. On evaluating adversarial robustness. arXiv preprint arXiv:1902.06705, 2019.",
+    "DWORK, Cynthia; ROTH, Aaron. The algorithmic foundations of differential privacy. Foundations and Trends in Theoretical Computer Science, v. 9, n. 3-4, p. 211-407, 2014.",
+    "MADRY, Aleksander; MAKELOV, Aleksandar; SCHMIDT, Ludwig; TSIPRAS, Dimitris; VLADU, Adrian. Towards deep learning models resistant to adversarial attacks. In: International Conference on Learning Representations (ICLR), 2018.",
+    "SHOKRI, Reza; STRONATI, Marco; SONG, Congzheng; SHMATIKOV, Vitaly. Membership inference attacks against machine learning models. In: IEEE Symposium on Security and Privacy, p. 3-18, 2017.",
+    "VASSILEV, Apostol et al. Adversarial machine learning: a taxonomy and terminology of attacks and mitigations. Gaithersburg, MD: National Institute of Standards and Technology, 2025. (NIST AI 100-2e2025)."
+  ]
+},{
+      "Name (Portuguese)": "Computabilidade",
+      "Name (English)": "Computability",
+      "Code": "BCC883",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "4",
+        "Practical": "0"
+      },
+      "Course Description": "Formal models of computation and the notion of a computable function. Deterministic, non-deterministic and universal Turing machines. Decidability and undecidability: the halting problem, reductions and Rice's Theorem. Time complexity: the classes P, NP, coNP and EXP; NP-completeness and the Cook-Levin Theorem. Space complexity: the classes L, NL and PSPACE; the Savitch and Immerman-Szelepcsényi theorems. Randomized complexity: the classes BPP, RP and ZPP. Interactive proofs: the classes IP, MIP and PCP and zero-knowledge proofs. Major open questions in computational complexity theory.",
+      "Course Content": [
+        "Introduction and motivation: what computability is and why we classify problems by difficulty; review of asymptotic notation; the major open questions of the field (P vs. NP).",
+        "Non-computable functions and countability: countable and uncountable sets; Cantor's diagonal argument.",
+        "Deterministic Turing machines: formal definition, configurations, computations and input encoding; languages decided and recognized.",
+        "Construction of Turing machines and programming techniques (multiple tapes, markers, subroutines); variants and their equivalence.",
+        "Equivalence between models of computation and the Church-Turing Thesis.",
+        "Universal Turing machines and the encoding of machines as strings.",
+        "The halting problem and (many-one) reductions.",
+        "The classes R, RE and coRE; enumerators, hierarchies and languages outside RE.",
+        "Rice's Theorem and the undecidability of semantic properties of programs.",
+        "The Busy Beaver function and Kolmogorov complexity.",
+        "Time classes P and EXP; the time hierarchy theorem.",
+        "Problems in NP: SAT, CLIQUE and integer programming; polynomial-time verifiers and certificates.",
+        "Definition of NP via verifiers and via non-deterministic machines; the class coNP.",
+        "Polynomial-time reductions and NP-completeness.",
+        "The Cook-Levin Theorem and the reduction from SAT to 3-SAT.",
+        "Classic NP-complete problems and reduction techniques using gadgets.",
+        "Further NP-complete problems and applications: approximation algorithms and heuristics.",
+        "Space classes: L, NL, PSPACE and NPSPACE.",
+        "Savitch's Theorem and PSPACE-completeness (TQBF).",
+        "NL-completeness and the Immerman-Szelepcsényi Theorem (NL = coNL).",
+        "Randomized algorithms and the class BPP; primality testing and polynomial identity testing.",
+        "The classes RP, coRP and ZPP; error-probability amplification.",
+        "Pseudorandom generators and derandomization.",
+        "Interactive proof systems and the class IP.",
+        "The IP = PSPACE theorem and the arithmetization of Boolean formulas.",
+        "Zero-knowledge proofs and applications in cryptography.",
+        "Multi-prover proofs: the classes MIP and MIP*; the result MIP* = RE.",
+        "PCPs and the PCP Theorem; consequences for inapproximability.",
+        "General review and open questions: P vs. NP, NP vs. coNP, L vs. P and the derandomization of BPP."
+      ],
+      "Basic Bibliography": [
+        "ARORA, S.; BARAK, B. Computational Complexity: A Modern Approach. Cambridge: Cambridge University Press, 2009.",
+        "SIPSER, M. Introduction to the Theory of Computation. 3. ed. Boston: Cengage Learning, 2013.",
+        "PAPADIMITRIOU, C. H. Computational Complexity. Reading: Addison-Wesley, 1994."
+      ],
+      "Supplementary Bibliography": [
+        "GOLDREICH, O. Computational Complexity: A Conceptual Perspective. Cambridge: Cambridge University Press, 2008.",
+        "HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introduction to Automata Theory, Languages, and Computation. 2nd ed. Boston: Addison-Wesley, 2002.",
+        "KOZEN, D. C. Theory of Computation. London: Springer, 2006.",
+        "IMPAGLIAZZO, R. A Personal View of Average-Case Complexity. In: Structure in Complexity Theory Conference. IEEE, 1995.",
+        "comp3 course lecture notes, University of Trento. Available at: https://comp3.eu/."
+      ]
+    }, {
+      "Name (Portuguese)": "Projeto e Análise de Experimentos Computacionais",
+      "Name (English)": "Design and Analysis of Computational Experiments",
+      "Code": "BCC885",
+      "Department": "Department of Computer Science (DECOM)",
+      "Academic Unit": "ICEB",
+      "Modality": "In-person",
+      "Credit Hours": {
+        "Total": "60",
+        "Extension": "0",
+        "Theoretical": "2",
+        "Practical": "2"
+      },
+      "Course Description": "Review of statistical concepts; simple comparative experiments, statistical inference and hypothesis testing; single-factor experiments, analysis of variance, factorial models; definition of parameters of optimization methods; computational benchmarking; performance analysis of heuristic methods; comparison of heuristics or randomized methods; computational tools for statistical testing.",
+      "Course Content": [
+        "The strategy of experimentation",
+        "Practical guidelines for designing an experiment",
+        "A brief history of designed experiments",
+        "Review: using statistical techniques in experiments",
+        "Review of some basic statistical concepts and methods (mode, median, quartiles, variance, standard deviation, range, interquartile range, coefficient of variation, histogram)",
+        "Computational benchmarking",
+        "Definition of parameters of optimization methods",
+        "Performance analysis of heuristic methods",
+        "Graphical representations: time-to-target plots and boxplots",
+        "Pseudoreplication",
+        "Comparison of heuristics and randomized methods",
+        "Random samples, statistics and sampling distributions",
+        "Statistical intervals and hypothesis tests",
+        "Computational tools for statistical testing",
+        "Simple comparative experiments",
+        "Statistical methods for comparing the means of two populations",
+        "Parameter estimation and confidence intervals",
+        "Statistical hypothesis tests on the difference of means",
+        "Single-factor experiments: design issues and analysis of variance",
+        "How to report the analysis of statistical tests"
+      ],
+      "Basic Bibliography": [
+        "MONTGOMERY, Douglas C. Design and analysis of experiments. 6. ed. Hoboken, New Jersey: John Wiley & Sons, 2005.",
+        "BARROS NETO, Benício de; SCARMINIO, Ieda Spacino; BRUNS, Roy Edward. Como fazer experimentos: pesquisa e desenvolvimento na ciência e na indústria. Campinas: UNICAMP, 2007.",
+        "CALEGARE, Álvaro José de Almeida. Introdução ao delineamento de experimentos. São Paulo: Edgard Blücher, 2009."
+      ],
+      "Supplementary Bibliography": [
+        "MONTGOMERY, Douglas C.; RUNGER, George C. Applied Statistics and Probability for Engineers. 4th ed. New York: Wiley, 2006.",
+        "WALPOLE, Ronald E. Probabilidade e Estatística para Engenharia e Ciências. 8. ed. São Paulo: Pearson, 2009.",
+        "SHESKIN, David J. Handbook of Parametric and Nonparametric Statistical Procedures. 5th ed. Boca Raton: Chapman & Hall/CRC, 2011.",
+        "BECHHOFER, Robert E.; SANTNER, Thomas J.; GOLDSMAN, David Morris. Design and analysis of experiments for statistical selection, screening, and multiple comparisons. New York: Wiley, 1995.",
+        "MEAD, R. The design of experiments: statistical principles for practical application. Cambridge: Cambridge University Press, 1988."
+      ]
     }
   ]
 }

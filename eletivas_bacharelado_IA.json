@@ -1891,7 +1891,38 @@
       "Reale, Giovanni; Antiseri, D. História da filosofia: vol. 1; vol. 2; vol. 3. São Paulo, SP: Paulus, 2003.",
       "Piettre, Bernard. Platão: república. São Paulo, SP."
     ]
-  },
+  }, {
+      "Nome (ptBR)": "Elementos de Robótica",
+      "Nome (enUS)": "Industrial Robotics",
+      "Código": "CAT181",
+      "Departamento": "Departamento de Engenharia de Controle e Automação e Técnicas Fundamentais (DECAT)",
+      "Unidade Acadêmica": "EM",
+      "Modalidade": "presencial",
+      "Carga Horária": {
+        "Total": "60",
+        "Extensionista": "0",
+        "Teórica": "4",
+        "Prática": "0"
+      },
+      "Ementa": "Conceitos de robótica. Classificação dos robôs. Arquitetura genérica de robôs. Aplicabilidade de robôs em células de trabalho. Modelagem de robôs. Técnicas de controle de sensoreamento, posicionamento e movimentação de robôs. Técnicas de programação de robôs.",
+      "Conteúdo Programático": [
+        "Introdução: robótica industrial; classificação de robôs industriais; aplicações; programação",
+        "Descrições espaciais e transformações: posições, orientações e sistemas de referência; transformações entre sistemas; outras descrições",
+        "Cinemática de robôs manipuladores: cinemática direta (descrição dos ligamentos, convenção de fixação de referências, cinemática dos manipuladores); cinemática inversa (solubilidade, subespaço do manipulador, soluções algébrica e geométrica)",
+        "Jacobianos: velocidades e forças estáticas: velocidades linear e rotacional de corpos rígidos; velocidade angular; jacobianos; forças estáticas em manipuladores",
+        "Dinâmica de robôs manipuladores: aceleração de um corpo rígido; distribuição de massa; formulação de Newton-Euler; formulação Lagrangeana",
+        "Geração de trajetórias: esquemas no espaço de juntas; esquemas no espaço cartesiano",
+        "Controle de robôs manipuladores: controle independente por junta (dinâmica do atuador, acompanhamento do set-point, método do torque pré-calculado); controle multivariável (controle proporcional, controle baseado na dinâmica inversa)"
+      ],
+      "Bibliografia Básica": [
+        "CRAIG, J. J. Introduction to robotics: mechanics and control. Addison-Wesley, 1989.",
+        "SICILIANO, B.; SCIAVICCO, L. Modelling and control of robot manipulators. Springer-Verlag, 2000."
+      ],
+      "Bibliografia Complementar": [
+        "SPONG, M. W.; VIDYASAGAR, M. Robot Dynamics and Control, 1989.",
+        "MURRAY, R. M.; ZEXIANG, L.; SASTRY, S. S. A mathematical introduction to robotic manipulation. CRC Press, 1994."
+      ]
+    },
   {
     "Nome (ptBR)": "Lógica I",
     "Nome (enUS)": "Logic I",
@@ -2195,5 +2226,149 @@
     "SILVEIRA, Newton. Propriedade intelectual: propriedade industrial, direito de autor, software, cultivares, nome empresarial, abuso de patentes. Barueri, SP: Manole, 2014.",
     "TEIXEIRA, Tarcisio; LOPES, Alan (coords.). Startups e inovação: direito no empreendedorismo. Barueri, SP: Manole, 2017."
   ]
-}]
+},{
+  "Nome (ptBR)": "Aprendizado de Máquina Adversarial",
+  "Nome (enUS)": "Adversarial Machine Learning",
+  "Código": "BCC880",
+  "Departamento": "Departamento de Computação (DECOM)",
+  "Unidade Acadêmica": "ICEB",
+  "Modalidade": "presencial",
+  "Carga Horária": {
+    "Total": "60",
+    "Extensionista": "0",
+    "Teórica": "4",
+    "Prática": "0"
+  },
+  "Ementa": "Estudo da segurança de sistemas de aprendizado de máquina frente à manipulação intencional por adversários. A disciplina examina como atacantes podem enganar modelos durante a operação, corrompê-los durante o treinamento ou extrair informações sobre os modelos e sobre os dados usados para treiná-los, e como essas ameaças podem ser descritas formalmente. Abrange os princípios das defesas, a metodologia necessária para avaliar sua efetividade real e os limites das garantias atuais, considerando as restrições de diferentes domínios de aplicação.",
+  "Conteúdo Programático": [
+    "Fundamentos de segurança em aprendizado de máquina adversarial: vulnerabilidades ao longo do pipeline de aprendizado de máquina, objetivos de segurança, modelos de ameaça, superfícies de ataque em tempo de treinamento e de inferência, taxonomia de ataques, visão geral das estratégias de defesa",
+    "Ataques de evasão",
+    "Envenenamento de dados e ataques de backdoor",
+    "Ataques de inferência e de privacidade contra modelos",
+    "Mecanismos de defesa robustos",
+    "Avaliação da robustez de modelos",
+    "Aprendizado de máquina adversarial em domínios específicos"
+  ],
+  "Bibliografia Básica": [
+    "JOSEPH, Anthony D.; NELSON, Blaine; RUBINSTEIN, Benjamin I. P.; TYGAR, J. D. Adversarial machine learning. Cambridge: Cambridge University Press, 2019.",
+    "VOROBEYCHIK, Yevgeniy; KANTARCIOGLU, Murat. Adversarial machine learning. San Rafael, CA: Morgan & Claypool, 2018. (Synthesis Lectures on Artificial Intelligence and Machine Learning).",
+    "CHEN, Pin-Yu; HSIEH, Cho-Jui. Adversarial robustness for machine learning. London: Academic Press, 2022."
+  ],
+  "Bibliografia Complementar": [
+    "BIGGIO, Battista; ROLI, Fabio. Wild patterns: ten years after the rise of adversarial machine learning. Pattern Recognition, v. 84, p. 317-331, 2018.",
+    "CARLINI, Nicholas et al. On evaluating adversarial robustness. arXiv preprint arXiv:1902.06705, 2019.",
+    "DWORK, Cynthia; ROTH, Aaron. The algorithmic foundations of differential privacy. Foundations and Trends in Theoretical Computer Science, v. 9, n. 3-4, p. 211-407, 2014.",
+    "MADRY, Aleksander; MAKELOV, Aleksandar; SCHMIDT, Ludwig; TSIPRAS, Dimitris; VLADU, Adrian. Towards deep learning models resistant to adversarial attacks. In: International Conference on Learning Representations (ICLR), 2018.",
+    "SHOKRI, Reza; STRONATI, Marco; SONG, Congzheng; SHMATIKOV, Vitaly. Membership inference attacks against machine learning models. In: IEEE Symposium on Security and Privacy, p. 3-18, 2017.",
+    "VASSILEV, Apostol et al. Adversarial machine learning: a taxonomy and terminology of attacks and mitigations. Gaithersburg, MD: National Institute of Standards and Technology, 2025. (NIST AI 100-2e2025)."
+  ]
+},
+    {
+      "Nome (ptBR)": "Computabilidade",
+      "Nome (enUS)": "Computability",
+      "Código": "BCC882",
+      "Departamento": "Departamento de Computação (DECOM)",
+      "Unidade Acadêmica": "ICEB",
+      "Modalidade": "presencial",
+      "Carga Horária": {
+        "Total": "60",
+        "Extensionista": "0",
+        "Teórica": "4",
+        "Prática": "0"
+      },
+      "Ementa": "Modelos formais de computação e a noção de função computável. Máquinas de Turing determinísticas, não-determinísticas e universais. Decidibilidade e indecidibilidade: o problema da parada, reduções e o Teorema de Rice. Complexidade de tempo: as classes P, NP, coNP e EXP; NP-completude e o Teorema de Cook-Levin. Complexidade de espaço: as classes L, NL e PSPACE; os teoremas de Savitch e de Immerman-Szelepcsényi. Complexidade randomizada: as classes BPP, RP e ZPP. Provas interativas: as classes IP, MIP e PCP e provas de conhecimento zero. Grandes questões em aberto da teoria da complexidade computacional.",
+      "Conteúdo Programático": [
+        "Introdução e motivação: o que é computabilidade e por que classificar problemas por dificuldade; revisão de notação assintótica; as grandes questões abertas da área (P vs. NP).",
+        "Funções não-computáveis e contabilidade: conjuntos contáveis e não-contáveis; o argumento diagonal de Cantor.",
+        "Máquinas de Turing determinísticas: definição formal, configurações, computações e codificação de entradas; linguagens decididas e reconhecidas.",
+        "Construção de Máquinas de Turing e técnicas de programação (múltiplas fitas, marcadores, sub-rotinas); variantes e sua equivalência.",
+        "Equivalência entre modelos de computação e a Tese de Church-Turing.",
+        "Máquinas de Turing universais e a codificação de máquinas como cadeias.",
+        "O problema da parada e as reduções (many-one).",
+        "As classes R, RE e coRE; enumeradores, hierarquias e linguagens fora de RE.",
+        "O Teorema de Rice e a indecidibilidade de propriedades semânticas de programas.",
+        "A função Busy Beaver e a complexidade de Kolmogorov.",
+        "Classes de tempo P e EXP; o teorema da hierarquia de tempo.",
+        "Problemas em NP: SAT, CLIQUE e programação inteira; verificadores polinomiais e certificados.",
+        "Definição de NP por verificadores e por máquinas não-determinísticas; a classe coNP.",
+        "Reduções em tempo polinomial e NP-completude.",
+        "O Teorema de Cook-Levin e a redução de SAT para 3-SAT.",
+        "Problemas NP-completos clássicos e técnicas de redução por gadgets.",
+        "Outros problemas NP-completos e aplicações: algoritmos de aproximação e heurísticas.",
+        "Classes de espaço: L, NL, PSPACE e NPSPACE.",
+        "O Teorema de Savitch e a PSPACE-completude (TQBF).",
+        "NL-completude e o Teorema de Immerman-Szelepcsényi (NL = coNL).",
+        "Algoritmos randomizados e a classe BPP; testes de primalidade e identidade de polinômios.",
+        "As classes RP, coRP e ZPP; amplificação de probabilidade de erro.",
+        "Geradores pseudoaleatórios e derandomização.",
+        "Sistemas de provas interativas e a classe IP.",
+        "O teorema IP = PSPACE e a aritmetização de fórmulas booleanas.",
+        "Provas de conhecimento zero (zero-knowledge) e aplicações em criptografia.",
+        "Provas com múltiplos provadores: as classes MIP e MIP*; o resultado MIP* = RE.",
+        "PCPs e o Teorema PCP; consequências para inaproximabilidade.",
+        "Revisão geral e questões em aberto: P vs. NP, NP vs. coNP, L vs. P e derandomização de BPP."
+      ],
+      "Bibliografia Básica": [
+        "ARORA, S.; BARAK, B. Computational Complexity: A Modern Approach. Cambridge: Cambridge University Press, 2009.",
+        "SIPSER, M. Introduction to the Theory of Computation. 3. ed. Boston: Cengage Learning, 2013.",
+        "PAPADIMITRIOU, C. H. Computational Complexity. Reading: Addison-Wesley, 1994."
+      ],
+      "Bibliografia Complementar": [
+        "GOLDREICH, O. Computational Complexity: A Conceptual Perspective. Cambridge: Cambridge University Press, 2008.",
+        "HOPCROFT, J. E.; MOTWANI, R.; ULLMAN, J. D. Introdução à Teoria de Autômatos, Linguagens e Computação. 2ª ed. Rio de Janeiro: Campus, 2002.",
+        "KOZEN, D. C. Theory of Computation. London: Springer, 2006.",
+        "IMPAGLIAZZO, R. A Personal View of Average-Case Complexity. In: Structure in Complexity Theory Conference. IEEE, 1995.",
+        "Notas de aula do curso comp3, Universidade de Trento. Disponível em: https://comp3.eu/."
+      ]
+    }, {
+      "Nome (ptBR)": "Projeto e Análise de Experimentos Computacionais",
+      "Nome (enUS)": "Design and Analysis of Computational Experiments",
+      "Código": "BCC407",
+      "Departamento": "Departamento de Computação (DECOM)",
+      "Unidade Acadêmica": "ICEB",
+      "Modalidade": "presencial",
+      "Carga Horária": {
+        "Total": "60",
+        "Extensionista": "0",
+        "Teórica": "2",
+        "Prática": "2"
+      },
+      "Ementa": "Revisão de conceitos estatísticos; experimentos comparativos simples, inferência estatística e teste de hipóteses; experimentos de fator único, análise de variância, modelos fatoriais; definição de parâmetros de métodos de otimização; benchmark computacional; análise do desempenho de métodos heurísticos; comparação entre heurísticas ou métodos aleatorizados; ferramentas computacionais para testes estatísticos.",
+      "Conteúdo Programático": [
+        "A estratégia de experimentação",
+        "Diretrizes práticas para projetar um experimento",
+        "Uma breve história dos experimentos projetados",
+        "Revisão: usando técnicas estatísticas em experimentos",
+        "Revisão de alguns conceitos e métodos estatísticos básicos (moda, mediana, quartis, variância, desvio padrão, amplitude, inter-quartil, coeficiente de variação, histograma)",
+        "Benchmark computacional",
+        "Definição de parâmetros de métodos de otimização",
+        "Análise do desempenho de métodos heurísticos",
+        "Representações gráficas: time-to-target plots e boxplots",
+        "Pseudoreplicação",
+        "Comparação entre heurísticas e métodos aleatorizados",
+        "Amostras aleatórias, estatísticas e distribuições de amostragem",
+        "Intervalos estatísticos e testes de hipóteses",
+        "Ferramentas computacionais para testes estatísticos",
+        "Experimentos comparativos simples",
+        "Métodos estatísticos para comparar as médias de duas populações",
+        "Estimação de parâmetros e intervalos de confiança",
+        "Testes de hipótese estatística sobre a diferença das médias",
+        "Experimentos com um único fator: tópicos de projeto e análise de variância",
+        "Como reportar análises de testes estatísticos"
+      ],
+      "Bibliografia Básica": [
+        "MONTGOMERY, Douglas C. Design and analysis of experiments. 6. ed. Hoboken, New Jersey: John Wiley & Sons, 2005.",
+        "BARROS NETO, Benício de; SCARMINIO, Ieda Spacino; BRUNS, Roy Edward. Como fazer experimentos: pesquisa e desenvolvimento na ciência e na indústria. Campinas: UNICAMP, 2007.",
+        "CALEGARE, Álvaro José de Almeida. Introdução ao delineamento de experimentos. São Paulo: Edgard Blücher, 2009."
+      ],
+      "Bibliografia Complementar": [
+        "MONTGOMERY, Douglas C.; RUNGER, George C. Applied Statistics and Probability for Engineers. 4th ed. New York: Wiley, 2006.",
+        "WALPOLE, Ronald E. Probabilidade e Estatística para Engenharia e Ciências. 8. ed. São Paulo: Pearson, 2009.",
+        "SHESKIN, David J. Handbook of Parametric and Nonparametric Statistical Procedures. 5th ed. Boca Raton: Chapman & Hall/CRC, 2011.",
+        "BECHHOFER, Robert E.; SANTNER, Thomas J.; GOLDSMAN, David Morris. Design and analysis of experiments for statistical selection, screening, and multiple comparisons. New York: Wiley, 1995.",
+        "MEAD, R. The design of experiments: statistical principles for practical application. Cambridge: Cambridge University Press, 1988."
+      ]
+    }
+  ]
+
 }
