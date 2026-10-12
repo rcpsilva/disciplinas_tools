@@ -1563,7 +1563,7 @@
 },{
       "Name (Portuguese)": "Computabilidade",
       "Name (English)": "Computability",
-      "Code": "BCC883",
+      "Code": "BCC983",
       "Department": "Department of Computer Science (DECOM)",
       "Academic Unit": "ICEB",
       "Modality": "In-person",
@@ -1620,7 +1620,7 @@
     }, {
       "Name (Portuguese)": "Projeto e Análise de Experimentos Computacionais",
       "Name (English)": "Design and Analysis of Computational Experiments",
-      "Code": "BCC885",
+      "Code": "BCC408",
       "Department": "Department of Computer Science (DECOM)",
       "Academic Unit": "ICEB",
       "Modality": "In-person",
@@ -1668,7 +1668,7 @@
     },{
   "Name (Portuguese)": "Introdução à Robótica Móvel",
   "Name (English)": "Introduction to Mobile Robotics",
-  "Code": "BCC887",
+  "Code": "BCC987",
   "Department": "Department of Computer Science (DECOM)",
   "Academic Unit": "ICEB",
   "Modality": "In-person",
@@ -1703,7 +1703,7 @@
 },{
   "Nome (ptBR)": "Robótica Inteligente",
   "Nome (enUS)": "Intelligent Robotics",
-  "Código": "BCC889",
+  "Código": "BCC989",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",

@@ -2368,37 +2368,6 @@
         "BECHHOFER, Robert E.; SANTNER, Thomas J.; GOLDSMAN, David Morris. Design and analysis of experiments for statistical selection, screening, and multiple comparisons. New York: Wiley, 1995.",
         "MEAD, R. The design of experiments: statistical principles for practical application. Cambridge: Cambridge University Press, 1988."
       ]
-    },{
-      "Nome (ptBR)": "Elementos de Robótica",
-      "Nome (enUS)": "Industrial Robotics",
-      "Código": "CAT181",
-      "Departamento": "Departamento de Engenharia de Controle e Automação e Técnicas Fundamentais (DECAT)",
-      "Unidade Acadêmica": "EM",
-      "Modalidade": "presencial",
-      "Carga Horária": {
-        "Total": "60",
-        "Extensionista": "0",
-        "Teórica": "4",
-        "Prática": "0"
-      },
-      "Ementa": "Conceitos de robótica. Classificação dos robôs. Arquitetura genérica de robôs. Aplicabilidade de robôs em células de trabalho. Modelagem de robôs. Técnicas de controle de sensoreamento, posicionamento e movimentação de robôs. Técnicas de programação de robôs.",
-      "Conteúdo Programático": [
-        "Introdução: robótica industrial; classificação de robôs industriais; aplicações; programação",
-        "Descrições espaciais e transformações: posições, orientações e sistemas de referência; transformações entre sistemas; outras descrições",
-        "Cinemática de robôs manipuladores: cinemática direta (descrição dos ligamentos, convenção de fixação de referências, cinemática dos manipuladores); cinemática inversa (solubilidade, subespaço do manipulador, soluções algébrica e geométrica)",
-        "Jacobianos: velocidades e forças estáticas: velocidades linear e rotacional de corpos rígidos; velocidade angular; jacobianos; forças estáticas em manipuladores",
-        "Dinâmica de robôs manipuladores: aceleração de um corpo rígido; distribuição de massa; formulação de Newton-Euler; formulação Lagrangeana",
-        "Geração de trajetórias: esquemas no espaço de juntas; esquemas no espaço cartesiano",
-        "Controle de robôs manipuladores: controle independente por junta (dinâmica do atuador, acompanhamento do set-point, método do torque pré-calculado); controle multivariável (controle proporcional, controle baseado na dinâmica inversa)"
-      ],
-      "Bibliografia Básica": [
-        "CRAIG, J. J. Introduction to robotics: mechanics and control. Addison-Wesley, 1989.",
-        "SICILIANO, B.; SCIAVICCO, L. Modelling and control of robot manipulators. Springer-Verlag, 2000."
-      ],
-      "Bibliografia Complementar": [
-        "SPONG, M. W.; VIDYASAGAR, M. Robot Dynamics and Control, 1989.",
-        "MURRAY, R. M.; ZEXIANG, L.; SASTRY, S. S. A mathematical introduction to robotic manipulation. CRC Press, 1994."
-      ]
     },
     {
   "Nome (ptBR)": "Introdução à Robótica Móvel",

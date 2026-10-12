@@ -5,8 +5,11 @@ Aceita os dois esquemas usados no projeto:
   - português: chave "Código"
   - inglês:    chave "Code"
 
-O arquivo de entrada pode ser uma lista de disciplinas ou um único objeto
-(tratado como uma lista de um elemento). A saída é sempre uma lista.
+O arquivo de entrada pode ter um destes formatos:
+  - uma lista de disciplinas;
+  - um objeto com uma chave que contém a lista, como {"Disciplinas": [...]}
+    (a mesma estrutura é preservada na saída);
+  - um único objeto de disciplina (tratado como uma lista de um elemento).
 
 Uso:
     python ordenar_disciplinas.py entrada.json
@@ -32,13 +35,22 @@ def obter_codigo(disciplina: dict, indice: int) -> str:
     )
 
 
-def carregar(caminho: Path) -> list:
+def carregar(caminho: Path):
+    """Retorna (lista_de_disciplinas, chave_do_invólucro ou None)."""
     with caminho.open(encoding="utf-8") as f:
         dados = json.load(f)
-    if isinstance(dados, dict):
-        return [dados]
     if isinstance(dados, list):
-        return dados
+        return dados, None
+    if isinstance(dados, dict):
+        if any(c in dados for c in CHAVES_CODIGO):
+            return [dados], None
+        listas = [k for k, v in dados.items() if isinstance(v, list)]
+        if len(listas) == 1 and len(dados) == 1:
+            return dados[listas[0]], listas[0]
+        raise ValueError(
+            "Objeto de nível superior não reconhecido: esperava uma disciplina "
+            "ou um único campo contendo a lista de disciplinas."
+        )
     raise ValueError("O JSON deve conter uma lista de disciplinas ou um objeto.")
 
 
@@ -80,15 +92,16 @@ def main() -> int:
     )
 
     try:
-        disciplinas = carregar(args.entrada)
+        disciplinas, involucro = carregar(args.entrada)
         avisar_duplicatas(disciplinas)
         resultado = ordenar(disciplinas)
+        conteudo = {involucro: resultado} if involucro else resultado
     except (OSError, ValueError, KeyError) as erro:
         print(f"Erro: {erro}", file=sys.stderr)
         return 1
 
     with saida.open("w", encoding="utf-8") as f:
-        json.dump(resultado, f, ensure_ascii=False, indent=2)
+        json.dump(conteudo, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
     print(f"{len(resultado)} disciplinas ordenadas em {saida}")
