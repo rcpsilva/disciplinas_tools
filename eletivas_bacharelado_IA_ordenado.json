@@ -118,7 +118,7 @@
     },
     {
       "Nome (ptBR)": "Banco de Dados II",
-      "Nome (enUS)": "Database II",
+      "Nome (enUS)": "Databases II",
       "Código": "BCC121",
       "Departamento": "Departamento de Computação (DECOM)",
       "Unidade Acadêmica": "ICEB",
@@ -458,42 +458,6 @@
       ]
     },
     {
-      "Nome (ptBR)": "Robótica Inteligente",
-      "Nome (enUS)": "Intelligent Robotics",
-      "Código": "BCC146",
-      "Departamento": "Departamento de Computação (DECOM)",
-      "Unidade Acadêmica": "ICEB",
-      "Modalidade": "presencial",
-      "Carga Horária": {
-        "Total": "60",
-        "Extensionista": "0",
-        "Teórica": "4",
-        "Prática": "0"
-      },
-      "Ementa": "Introdução à robótica inteligente; sensores, atuadores e sistemas embarcados em robótica; visão computacional na robótica; controle de robôs; técnicas inteligentes para planejamento de rotas, navegação e localização de robôs móveis; aprendizado de máquina em robótica; robótica social e interação humano-robô.",
-      "Conteúdo Programático": [
-        "Introdução à robótica inteligente.",
-        "Sensores, atuadores e sistemas embarcados em robótica.",
-        "Visão computacional na robótica.",
-        "Controle de robôs.",
-        "Técnicas inteligentes para planejamento de rotas, navegação e localização de robôs móveis.",
-        "Aprendizado de máquina em robótica.",
-        "Robótica social e interação humano-robô."
-      ],
-      "Bibliografia Básica": [
-        "Craig, John J. Robótica. 3. ed. São Paulo: Pearson Education do Brasil, 2013.",
-        "Spong, Mark W.; Vidyasagar, M. Robot dynamics and control. New York: J. Wiley, 1989.",
-        "Russell, S. J.; Norvig, P. Inteligência Artificial: uma abordagem moderna. 4. ed. Rio de Janeiro: LTC, 2022."
-      ],
-      "Bibliografia Complementar": [
-        "Romero, R. A. F.; Prestes, E. S. J.; Osório, F. S.; Wolf, D. F. (org.). Robótica móvel. 1. ed. Rio de Janeiro: LTC, 2014.",
-        "Romero, R. A. F. (org.). Robótica educacional. 1. ed. São Paulo: Edusp, 2024.",
-        "Sutton, R. S.; Barto, A. G. Reinforcement learning: an introduction. 2. ed. Cambridge, MA: MIT Press, 2018.",
-        "Elgendy, M. Deep learning for vision systems. 1. ed. Manning, 2020.",
-        "Siegwart, R.; Nourbakhsh, I. R.; Scaramuzza, D. Introduction to autonomous mobile robots. 2. ed. Cambridge, MA: MIT Press, 2011."
-      ]
-    },
-    {
       "Nome (ptBR)": "Estrutura de Dados II",
       "Nome (enUS)": "Data Structures II",
       "Código": "BCC203",
@@ -577,7 +541,7 @@
     },
     {
       "Nome (ptBR)": "Sistemas Operacionais",
-      "Nome (enUS)": "Operational Systems",
+      "Nome (enUS)": "Operating Systems",
       "Código": "BCC264",
       "Departamento": "Departamento de Computação (DECOM)",
       "Unidade Acadêmica": "ICEB",
@@ -1707,7 +1671,7 @@
     {
       "Nome (ptBR)": "Robótica Inteligente",
       "Nome (enUS)": "Intelligent Robotics",
-      "Código": "BCC888",
+      "Código": "BCC988",
       "Departamento": "Departamento de Computação (DECOM)",
       "Unidade Acadêmica": "ICEB",
       "Modalidade": "presencial",

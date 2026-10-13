@@ -421,42 +421,6 @@
       ]
     },
     {
-      "Name (Portuguese)": "Robótica Inteligente",
-      "Name (English)": "Intelligent Robotics",
-      "Code": "BCC306",
-      "Department": "Department of Computer Science (DECOM)",
-      "Academic Unit": "ICEB",
-      "Modality": "In-person",
-      "Credit Hours": {
-        "Total": "60",
-        "Extension": "0",
-        "Theoretical": "4",
-        "Practical": "0"
-      },
-      "Course Description": "Introduction to intelligent robotics; sensors, actuators, and embedded systems in robotics; computer vision in robotics; robot control; intelligent techniques for route planning, navigation, and localization of mobile robots; machine learning in robotics; social robotics and human-robot interaction.",
-      "Course Content": [
-        "Introduction to intelligent robotics",
-        "Sensors, actuators, and embedded systems in robotics",
-        "Computer vision in robotics",
-        "Robot control",
-        "Intelligent techniques for route planning, navigation, and localization of mobile robots",
-        "Machine learning in robotics",
-        "Social robotics and human-robot interaction"
-      ],
-      "Basic Bibliography": [
-        "Craig, John J. Robótica. 3. ed. São Paulo: Pearson Education do Brasil, 2013.",
-        "Spong, Mark W.; Vidyasagar, M. Robot dynamics and control. New York: J. Wiley, 1989.",
-        "Russell, S. J.; Norvig, P. Inteligência Artificial: uma abordagem moderna. 4. ed. Rio de Janeiro: LTC, 2022."
-      ],
-      "Supplementary Bibliography": [
-        "Romero, R. A. F.; Prestes, E. S. J.; Osório, F. S.; Wolf, D. F. (org.). Robótica móvel. 1. ed. Rio de Janeiro: LTC, 2014.",
-        "Romero, R. A. F. (org.). Robótica educacional. 1. ed. São Paulo: Edusp, 2024.",
-        "Sutton, R. S.; Barto, A. G. Reinforcement learning: an introduction. 2. ed. Cambridge, MA: MIT Press, 2018.",
-        "Elgendy, M. Deep learning for vision systems. 1. ed. Manning, 2020.",
-        "Siegwart, R.; Nourbakhsh, I. R.; Scaramuzza, D. Introduction to autonomous mobile robots. 2. ed. Cambridge, MA: MIT Press, 2011."
-      ]
-    },
-    {
       "Name (Portuguese)": "Sistemas Operacionais",
       "Name (English)": "Operating Systems",
       "Code": "BCC344",
@@ -529,7 +493,7 @@
     {
       "Name (Portuguese)": "Projeto e Análise de Experimentos Computacionais",
       "Name (English)": "Design and Analysis of Computational Experiments",
-      "Code": "BCC408",
+      "Code": "BCC508",
       "Department": "Department of Computer Science (DECOM)",
       "Academic Unit": "ICEB",
       "Modality": "In-person",
@@ -1705,42 +1669,41 @@
         "SPONG, M. W.; VIDYASAGAR, M. Robot dynamics and control. New York: J. Wiley, 1989.",
         "THRUN, S.; BURGARD, W.; FOX, D. Probabilistic robotics. Cambridge, MA: MIT Press, 2005."
       ]
-    },
-    {
-      "Nome (ptBR)": "Robótica Inteligente",
-      "Nome (enUS)": "Intelligent Robotics",
-      "Código": "BCC989",
-      "Departamento": "Departamento de Computação (DECOM)",
-      "Unidade Acadêmica": "ICEB",
-      "Modalidade": "presencial",
-      "Carga Horária": {
-        "Total": "60",
-        "Extensionista": "0",
-        "Teórica": "2",
-        "Prática": "2"
-      },
-      "Ementa": "Introdução à robótica inteligente. Visão computacional aplicada à percepção de robôs. Aprendizado de máquina em robótica: aprendizado supervisionado e por reforço aplicados à percepção e ao controle. Modelos de linguagem na especificação de tarefas e no controle de robôs. Coordenação de sistemas multirrobôs. Interação humano-robô e robótica social. Aspectos éticos e sociais do uso de robôs.",
-      "Conteúdo Programático": [
-        "Introdução à robótica inteligente",
-        "Visão computacional na robótica.",
-        "Aprendizado de máquina em robótica: aprendizado supervisionado e por reforço aplicados à percepção e ao controle.",
-        "Uso de modelos de linguagem na especificação de tarefas e no controle de robôs.",
-        "Sistemas multirrobôs.",
-        "Interação humano-robô e robótica social.",
-        "Aspectos éticos e sociais: privacidade, uso de imagem, segurança e responsabilidade no uso de robôs."
-      ],
-      "Bibliografia Básica": [
-        "MURPHY, R. R. Introduction to AI robotics. 2. ed. Cambridge, MA: MIT Press, 2019.",
-        "RUSSELL, S. J.; NORVIG, P. Inteligência artificial: uma abordagem moderna. 4. ed. Rio de Janeiro: LTC, 2022.",
-        "SUTTON, R. S.; BARTO, A. G. Reinforcement learning: an introduction. 2. ed. Cambridge, MA: MIT Press, 2018."
-      ],
-      "Bibliografia Complementar": [
-        "ELGENDY, M. Deep learning for vision systems. 1. ed. Shelter Island, NY: Manning, 2020.",
-        "GOODRICH, M. A.; SCHULTZ, A. C. Human-robot interaction: a survey. Foundations and Trends in Human-Computer Interaction, [S. l.], v. 1, n. 3, p. 203-275, 2007.",
-        "QUIGLEY, M.; GERKEY, B.; SMART, W. D. Programming robots with ROS: a practical introduction to the Robot Operating System. Sebastopol, CA: O'Reilly, 2015.",
-        "SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D. Introduction to autonomous mobile robots. 2. ed. Cambridge, MA: MIT Press, 2011.",
-        "THRUN, S.; BURGARD, W.; FOX, D. Probabilistic robotics. Cambridge, MA: MIT Press, 2005."
-      ]
-    }
+    },{
+  "Name (Portuguese)": "Robótica Inteligente",
+  "Name (English)": "Intelligent Robotics",
+  "Code": "BCC989",
+  "Department": "Department of Computer Science (DECOM)",
+  "Academic Unit": "ICEB",
+  "Modality": "In-person",
+  "Credit Hours": {
+    "Total": "60",
+    "Extension": "0",
+    "Theoretical": "2",
+    "Practical": "2"
+  },
+  "Course Description": "Introduction to intelligent robotics. Computer vision applied to robot perception. Machine learning in robotics: supervised and reinforcement learning applied to perception and control. Language models for task specification and robot control. Coordination of multi-robot systems. Human-robot interaction and social robotics. Ethical and social aspects of robot use.",
+  "Course Content": [
+    "Introduction to intelligent robotics",
+    "Computer vision in robotics.",
+    "Machine learning in robotics: supervised and reinforcement learning applied to perception and control.",
+    "Use of language models for task specification and robot control.",
+    "Multi-robot systems.",
+    "Human-robot interaction and social robotics.",
+    "Ethical and social aspects: privacy, use of images, safety, and accountability in the use of robots."
+  ],
+  "Basic Bibliography": [
+    "MURPHY, R. R. Introduction to AI robotics. 2. ed. Cambridge, MA: MIT Press, 2019.",
+    "RUSSELL, S. J.; NORVIG, P. Inteligência artificial: uma abordagem moderna. 4. ed. Rio de Janeiro: LTC, 2022.",
+    "SUTTON, R. S.; BARTO, A. G. Reinforcement learning: an introduction. 2. ed. Cambridge, MA: MIT Press, 2018."
+  ],
+  "Supplementary Bibliography": [
+    "ELGENDY, M. Deep learning for vision systems. 1. ed. Shelter Island, NY: Manning, 2020.",
+    "GOODRICH, M. A.; SCHULTZ, A. C. Human-robot interaction: a survey. Foundations and Trends in Human-Computer Interaction, [S. l.], v. 1, n. 3, p. 203-275, 2007.",
+    "QUIGLEY, M.; GERKEY, B.; SMART, W. D. Programming robots with ROS: a practical introduction to the Robot Operating System. Sebastopol, CA: O'Reilly, 2015.",
+    "SIEGWART, R.; NOURBAKHSH, I. R.; SCARAMUZZA, D. Introduction to autonomous mobile robots. 2. ed. Cambridge, MA: MIT Press, 2011.",
+    "THRUN, S.; BURGARD, W.; FOX, D. Probabilistic robotics. Cambridge, MA: MIT Press, 2005."
+  ]
+}
   ]
 }

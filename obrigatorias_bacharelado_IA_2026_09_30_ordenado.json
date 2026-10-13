@@ -1043,15 +1043,19 @@
       "Carga Horária": {
         "Total": "120",
         "Extensionista": "0",
-        "Teórica": "8",
-        "Prática": "0"
+        "Teórica": "0",
+        "Prática": "8"
       },
-      "Ementa": "Desenvolvimento de projeto memorial dos projetos de resolução de problemas do mundo real. Entrega de relatórios parciais ao longo do semestre. Entrega da monografia ao final do semestre. Apresentação oral dos resultados da monografia.",
+      "Ementa": "Finalização técnica e documental das soluções desenvolvidas nas disciplinas de Projeto de resolução de problemas do mundo real. Elaboração do memorial acadêmico-profissional e da monografia, com entrega de relatórios parciais ao longo do semestre. Defesa oral perante banca.",
       "Conteúdo Programático": [
+        "Revisão e ajustes finais das soluções desenvolvidas nos Projetos 1 a 4.",
+        "Consolidação dos resultados experimentais e da validação realizada com os parceiros.",
+        "Documentação técnica e de uso das soluções.",
+        "Organização e entrega dos artefatos produzidos para reutilização e manutenção por terceiros.",
         "Construção do projeto memorial.",
-        "Redação de relatórios das atividades.",
-        "Elaboração da monografia.",
-        "Apresentação oral dos resultados finais obtidos."
+        "Redação de relatórios parciais das atividades.",
+        "Elaboração da monografia em formato técnico-científico.",
+        "Preparação e apresentação oral dos resultados finais."
       ],
       "Bibliografia Básica": [
         "WAZLAWICK, Raul Sidnei. Metodologia de pesquisa para Ciência da Computação. 2. ed. Rio de Janeiro: Elsevier, 2014.",
