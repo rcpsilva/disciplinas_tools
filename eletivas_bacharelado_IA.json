@@ -2266,7 +2266,7 @@
     {
       "Nome (ptBR)": "Computabilidade",
       "Nome (enUS)": "Computability",
-      "Código": "BCC882",
+      "Código": "BCC982",
       "Departamento": "Departamento de Computação (DECOM)",
       "Unidade Acadêmica": "ICEB",
       "Modalidade": "presencial",
@@ -2372,7 +2372,7 @@
     {
   "Nome (ptBR)": "Introdução à Robótica Móvel",
   "Nome (enUS)": "Introduction to Mobile Robotics",
-  "Código": "BCC886",
+  "Código": "BCC986",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
@@ -2407,7 +2407,7 @@
 },{
   "Nome (ptBR)": "Robótica Inteligente",
   "Nome (enUS)": "Intelligent Robotics",
-  "Código": "BCC888",
+  "Código": "BCC988",
   "Departamento": "Departamento de Computação (DECOM)",
   "Unidade Acadêmica": "ICEB",
   "Modalidade": "presencial",
